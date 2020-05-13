@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:0,"Канал Сталинград"
 #EXTGRP: ЗА СЕГОДНЯ
 https://cdn.stalingrad.tv/
@@ -8,7 +8,6 @@ https://cdn.stalingrad.tv/
 #EXTINF:0,Смотрите нас в Ютубе
 #EXTGRP: ЗА СЕГОДНЯ
 https://cdn.stalingrad.tv/
-
 #EXTINF:0,Лекция №8. ОГНЕВАЯ ПОДГОТОВКА. ТАКТИКО-ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ ОРУЖИЯ
 
 #EXTGRP: ЗА СЕГОДНЯ
@@ -21,6 +20,7 @@ https://cdn.stalingrad.tv/upload/iblock/8e5/8e512f46f6ac02f1d37b7342df0ca436.mp4
 #EXTGRP: ЗА СЕГОДНЯ
 https://cdn.stalingrad.tv/upload/iblock/19f/19f0044a04ad0df096847a5de3973ea4.mp4
 #EXTINF:0,НАША ЗОЯ
+
 #EXTGRP: ЗА СЕГОДНЯ
 https://cdn.stalingrad.tv/upload/iblock/1c3/1c320207bba066e6e94f65f5903f49a0.mp4
 #EXTINF:0,9 МАЯ. НАРОД ПРОТИВ ФАШИЗМА
@@ -34,6 +34,7 @@ https://cdn.stalingrad.tv/upload/iblock/006/006cbdb741ecc81b152b9d0d4b3a57e2.mp4
 #EXTINF:0,По плодам их узнаете их..
 #EXTGRP: Аграрии
 https://cdn.stalingrad.tv/upload/iblock/e43/e43248dc1ebffaed56d629b059799da5.mp4
+
 #EXTINF:0,Амнистия кредитов
 #EXTGRP: Аналитика
 https://cdn.stalingrad.tv/upload/iblock/285/285ba20d7ce9edfd382d5826fda789ea.mp4
