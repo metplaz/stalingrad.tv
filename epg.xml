@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "http://www.teleguide.info/download/xmltv.dtd">
+<tv generator-info-name="TVH_W/0.751l" generator-info-url="http://www.teleguide.info/">
+<channel id="263">
+<display-name lang="ru">Sony Turbo</display-name>
+<icon src="http://ott.watch/images/263.png" />
+</channel>
+<channel id="230">
+<display-name lang="ru">Ю</display-name>
+<icon src="http://ott.watch/images/230.png" />
+</channel>
+<channel id="220">
+<display-name lang="ru">Nick Jr</display-name>
+<icon src="http://ott.watch/images/220.png" />
+</channel>
