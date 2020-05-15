@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:0,"Канал Сталинград"
 #EXTGRP: ЗА СЕГОДНЯ
 https://cdn.stalingrad.tv/
@@ -8,6 +9,18 @@ https://cdn.stalingrad.tv/
 #EXTINF:0,Смотрите нас в Ютубе
 #EXTGRP: ЗА СЕГОДНЯ
 https://cdn.stalingrad.tv/
+#EXTINF:0,У них осталось только насилие
+#EXTGRP: ЗА СЕГОДНЯ
+https://cdn.stalingrad.tv/upload/iblock/d18/d183f660e0f00c041cfa2e7940078810.mp4
+#EXTINF:0,СПЕЦКУРС. Организация отрядов самообороны.
+#EXTGRP: ЗА СЕГОДНЯ
+https://cdn.stalingrad.tv/upload/iblock/4a7/4a77a89106b38ac4fc83dce734c1a19a.mp4
+#EXTINF:0,ЛЕКЦИЯ №14. ГРАЖДАНСКИЙ ПАРАМЕДИК.ПРОХОДИМОСТЬ ДЫХАТЕЛЬНЫХ ПУТЕЙ
+#EXTGRP: ЗА СЕГОДНЯ
+https://cdn.stalingrad.tv/upload/iblock/844/844a877d8d85fe7f45566527b2327752.mp4
+#EXTINF:0,ЛЕКЦИЯ №13. ГРАЖДАНСКИЙ ПАРАМЕДИК.СЕРДЕЧНО-ЛЁГОЧНАЯ РЕАНИМАЦИЯ
+#EXTGRP: ЗА СЕГОДНЯ
+https://cdn.stalingrad.tv/upload/iblock/f94/f9468eb6ad8e6f8c62e3168eaa94ae2f.mp4
 #EXTINF:0,КАК БОРОТЬСЯ С ЧИПИЗАЦИЕЙ
 #EXTGRP: ЗА СЕГОДНЯ
 https://cdn.stalingrad.tv/upload/iblock/8fa/8faf8f03d99530d8303e2735a3ab4341.mp4
@@ -41,6 +54,8 @@ https://cdn.stalingrad.tv/upload/iblock/1c3/1c320207bba066e6e94f65f5903f49a0.mp4
 #EXTINF:0,9 МАЯ. НАРОД ПРОТИВ ФАШИЗМА
 #EXTGRP: ЗА СЕГОДНЯ
 https://cdn.stalingrad.tv/upload/iblock/c8c/c8ca2d3b1a4c160ebc53596bbc3c2b5e.mp4
+
+#EXTINF:0,В России сегодня крепостное право.
 #EXTGRP: Аграрии
 https://cdn.stalingrad.tv/upload/iblock/006/006cbdb741ecc81b152b9d0d4b3a57e2.mp4
 #EXTINF:0,По плодам их узнаете их..
@@ -100,6 +115,9 @@ https://cdn.stalingrad.tv/upload/iblock/4dc/4dc5ca8cffba0c3ba0327e8cd64d0aa8.mp4
 #EXTINF:0,Реформа в армии. Так ли это?
 #EXTGRP: Армия
 https://cdn.stalingrad.tv/upload/iblock/c8c/c8c285618fa1e93c0f72dc375f32ca10.mp4
+#EXTINF:0,У них осталось только насилие
+#EXTGRP: Блогеры
+https://cdn.stalingrad.tv/upload/iblock/d18/d183f660e0f00c041cfa2e7940078810.mp4
 #EXTINF:0,Крушение надежд
 #EXTGRP: Блогеры
 https://cdn.stalingrad.tv/upload/iblock/425/425847beb88236c3cbd2c40f5572db87.mp4
@@ -163,7 +181,9 @@ https://cdn.stalingrad.tv/upload/iblock/168/168bfe785acaf7f7d81a873dbecb2025.mp4
 #EXTINF:0,Полная лекция № 3. Навыки выживания для гражданских лиц в условиях социальной нестабильности
 #EXTGRP: Выживание
 https://cdn.stalingrad.tv/upload/iblock/a6f/a6fe598b563bbea7fb47862e106a5a59.mp4
-#EXTINF:0,Полная лекция № 4. Навыки выживания для гражданских лиц в условиях социальной нестабильности.
+#EXTINF:0,Полная лекция № 4. Навыки выживания для гражданских лиц в условиях социальной 
+
+нестабильности.
 #EXTGRP: Выживание
 https://cdn.stalingrad.tv/upload/iblock/4f4/4f4b4d507ba3d80b51c34fc6a5fde14f.mp4
 #EXTINF:0,Дальнобойщик о цене на топливо, туалетной бумаге и Роснефти
@@ -496,6 +516,9 @@ https://cdn.stalingrad.tv/upload/iblock/1aa/1aad9b41e5a5a758f44d28af72de5359.mp4
 #EXTINF:0,Улан-Удэ. Точка кипения
 #EXTGRP: Митинги
 https://cdn.stalingrad.tv/upload/iblock/697/697ce112dfc5a755fbaa9b7590de4c9e.mp4
+#EXTINF:0,У них осталось только насилие
+#EXTGRP: Мнение
+https://cdn.stalingrad.tv/upload/iblock/d18/d183f660e0f00c041cfa2e7940078810.mp4
 #EXTINF:0,КАК БОРОТЬСЯ С ЧИПИЗАЦИЕЙ
 #EXTGRP: Мнение
 https://cdn.stalingrad.tv/upload/iblock/8fa/8faf8f03d99530d8303e2735a3ab4341.mp4
@@ -1373,7 +1396,6 @@ https://cdn.stalingrad.tv/upload/iblock/24a/24a306543e5073eb2123fbfbc7ce9b2c.mp4
 #EXTGRP: Спецкурс
 https://cdn.stalingrad.tv/upload/iblock/907/907d420dbb894387f7907598ec2fa40d.mp4
 #EXTINF:0,Лекция №8. ОГНЕВАЯ ПОДГОТОВКА. ТАКТИКО-ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ ОРУЖИЯ
-
 #EXTGRP: Спецкурс
 https://cdn.stalingrad.tv/upload/iblock/405/40578a0ca4a7016241a14bcf51b82c77.mp4
 #EXTINF:0,ЛЕКЦИЯ №9. ОГНЕВАЯ ПОДГОТОВКА. ОСНОВЫ РАБОТЫ С АВТОМАТОМ
@@ -1388,6 +1410,12 @@ https://cdn.stalingrad.tv/upload/iblock/8f6/8f62741881d7b89e15eff38c670a924c.mp4
 #EXTINF:0,ЛЕКЦИЯ №12. ОГНЕВАЯ ПОДГОТОВКА. РАБОТА С ОРУЖИЕМ, СОВЕТЫ
 #EXTGRP: Спецкурс
 https://cdn.stalingrad.tv/upload/iblock/f66/f664bd0859de1dc18fc0670950ebf172.mp4
+#EXTINF:0,ЛЕКЦИЯ №13. ГРАЖДАНСКИЙ ПАРАМЕДИК.СЕРДЕЧНО-ЛЁГОЧНАЯ РЕАНИМАЦИЯ
+#EXTGRP: Спецкурс
+https://cdn.stalingrad.tv/upload/iblock/f94/f9468eb6ad8e6f8c62e3168eaa94ae2f.mp4
+#EXTINF:0,ЛЕКЦИЯ №14. ГРАЖДАНСКИЙ ПАРАМЕДИК.ПРОХОДИМОСТЬ ДЫХАТЕЛЬНЫХ ПУТЕЙ
+#EXTGRP: Спецкурс
+https://cdn.stalingrad.tv/upload/iblock/844/844a877d8d85fe7f45566527b2327752.mp4
 #EXTINF:0,СПЕЦКУРС. Гражданская оборона в современных условиях на канале Сталинград
 #EXTGRP: Спецкурс
 https://cdn.stalingrad.tv/upload/iblock/330/33067542537923a7206c395c97f23957.mp4
@@ -2115,6 +2143,9 @@ https://cdn.stalingrad.tv/upload/iblock/c2c/c2c63cda9bbe9a49c2828c4500463368.mp4
 #EXTINF:0,Знамя русского флота
 #EXTGRP: ВасилийПопович
 https://cdn.stalingrad.tv/upload/iblock/a18/a18cc9f59ba733853838c7b6c8b380cc.mp4
+#EXTINF:0,У них осталось только насилие
+#EXTGRP: ВасилийПушкин
+https://cdn.stalingrad.tv/upload/iblock/d18/d183f660e0f00c041cfa2e7940078810.mp4
 #EXTINF:0,Чем мы заплатим за карантин?
 #EXTGRP: ВасилийПушкин
 https://cdn.stalingrad.tv/upload/iblock/901/901b13cb486bf7fd7e00fdc9662d4520.mp4
@@ -3116,7 +3147,9 @@ https://cdn.stalingrad.tv/upload/iblock/168/168bfe785acaf7f7d81a873dbecb2025.mp4
 #EXTINF:0,Полная лекция № 3. Навыки выживания для гражданских лиц в условиях социальной нестабильности
 #EXTGRP: ЮрийЕвич
 https://cdn.stalingrad.tv/upload/iblock/a6f/a6fe598b563bbea7fb47862e106a5a59.mp4
-#EXTINF:0,Полная лекция № 4. Навыки выживания для гражданских лиц в условиях социальной нестабильности.
+#EXTINF:0,Полная лекция № 4. Навыки выживания для гражданских лиц в условиях социальной 
+
+нестабильности.
 #EXTGRP: ЮрийЕвич
 https://cdn.stalingrad.tv/upload/iblock/4f4/4f4b4d507ba3d80b51c34fc6a5fde14f.mp4
 #EXTINF:0,Конституция: кто виноват и что делать?
@@ -3149,7 +3182,7 @@ https://cdn.stalingrad.tv/upload/iblock/17d/17d463dc9b37d46e7a92d86202c91eba.mp4
 #EXTINF:0,Операция «Уран». Подвиг советского человека
 #EXTGRP: ЮрийНикифоров
 https://cdn.stalingrad.tv/upload/iblock/cc5/cc5c0dc0d26331f9808bb6afc9e8d0c9.mp4
-#EXTINF:0,Унитазные ""инвестиции"" Чубайса, или ""заграница нам поможет""?
+#EXTINF:0,Унитазные «Инвестици» Чубайса или «заграница нам поможет»?
 #EXTGRP: ЮрийРябцев
 https://cdn.stalingrad.tv/upload/iblock/19e/19eedf0067755b91761b1740e8790287.mp4
 #EXTINF:0,Промышленности.net
