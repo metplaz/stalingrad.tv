@@ -2,7 +2,7 @@
 <tv source-info-url="http://epg.it999.ru" source-info-name="EPG it999" source-info-logo="http://epg.it999.ru/images/logo100x100.png" generator-info-name="EPG it999 generator xmltv v0.9" generator-info-url="http://it999.ru">
 <channel id="1000">
 	<display-name lang="ru">ОТР</display-name>
-	<icon src="https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/tm.png" />
+	<icon src="" />
 </channel>
 <channel id="2001">
 	<display-name lang="ru">НТВ HD</display-name>
