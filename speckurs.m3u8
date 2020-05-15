@@ -1,6 +1,6 @@
 ﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/epg.xml"
 
-#EXTINF:0 group-title="HD" tvg-id="2001" tvg-logo="http://epg.it999.ru/img/2001.png" tvg-rec="1",НТВ HD
+#EXTINF:0 group-title="HD" tvg-id="2001" tvg-logo="http://epg.it999.ru/img/2000.png" tvg-rec="1",НТВ HD
 http://localhost/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="1000" tvg-logo="http://epg.it999.ru/img/2001.png" tvg-rec="1",ОТР1
 http://localhost/.m3u8
