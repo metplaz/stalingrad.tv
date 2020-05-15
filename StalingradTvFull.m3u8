@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://ott.watch/images/263.png","Канал Сталинград"
+#EXTINF:0,"Канал Сталинград"
 #EXTGRP: ЗА СЕГОДНЯ
 https://cdn.stalingrad.tv/
 #EXTINF:0,Сайт www.stalingrad.tv
