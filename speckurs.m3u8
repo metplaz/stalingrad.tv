@@ -1,0 +1,49 @@
+﻿#EXTM3U x-tvg-url="https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/epg.xml"
+
+#EXTINF:0 group-title="HD" tvg-id="2001" tvg-logo="http://epg.it999.ru/img/2001.png" tvg-rec="1",НТВ HD
+http://localhost/index.m3u8
+#EXTINF:0 group-title="другие" tvg-id="1000" tvg-logo="http://epg.it999.ru/img/1000.png" tvg-rec="1",ОТР
+http://localhost/.m3u8
+#EXTINF:0,При поддержке:Технологии выживания|Тактическая медицина 
+#EXTGRP: Спецкурс
+https://cdn.stalingrad.tv/
+#EXTINF:0,www: vk.com/takticheskayamedicina
+#EXTGRP: Спецкурс
+https://cdn.stalingrad.tv/
+#EXTINF:0,Лекция №1. Первые шаги в чрезвычайной ситуации на канале Сталинград
+#EXTGRP: Спецкурс
+https://cdn.stalingrad.tv/upload/iblock/ad2/ad2b06053505da1f28e151e352935552.mp4
+#EXTINF:0,Лекция №2. Экстремальное жизнеобеспечение на канале Сталинград
+#EXTGRP: Спецкурс
+https://cdn.stalingrad.tv/upload/iblock/a71/a71155d903beaeff99ff1cffc4fd5797.mp4
+#EXTINF:0,Лекция №3. Выживание в городе на канале Сталинград
+#EXTGRP: Спецкурс
+https://cdn.stalingrad.tv/upload/iblock/d48/d48354e82fcf5b3fa258af42c229224b.mp4
+#EXTINF:0,Лекция №4. Организация отрядов самообороны на канале Сталинград
+#EXTGRP: Спецкурс
+https://cdn.stalingrad.tv/upload/iblock/4a7/4a77a89106b38ac4fc83dce734c1a19a.mp4
+#EXTINF:0,Лекция №5. Первая помощь. Введение на канале Сталинград
+#EXTGRP: Спецкурс
+https://cdn.stalingrad.tv/upload/iblock/352/3520b9b702a4c572878556cfe3bb07e6.mp4
+#EXTINF:0,Лекция №5. Первая помощь. Травмы, раны, кровотичение
+#EXTGRP: Спецкурс
+https://cdn.stalingrad.tv/upload/iblock/24a/24a306543e5073eb2123fbfbc7ce9b2c.mp4
+#EXTINF:0,Лекция №7. Первая помощь. Ожоги. Инфаркт.
+#EXTGRP: Спецкурс
+https://cdn.stalingrad.tv/upload/iblock/907/907d420dbb894387f7907598ec2fa40d.mp4
+#EXTINF:0,Лекция №8. ОГНЕВАЯ ПОДГОТОВКА. ТАКТИКО-ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ ОРУЖИЯ
+
+#EXTGRP: Спецкурс
+https://cdn.stalingrad.tv/upload/iblock/405/40578a0ca4a7016241a14bcf51b82c77.mp4
+#EXTINF:0,ЛЕКЦИЯ №9. ОГНЕВАЯ ПОДГОТОВКА. ОСНОВЫ РАБОТЫ С АВТОМАТОМ
+#EXTGRP: Спецкурс
+https://cdn.stalingrad.tv/upload/iblock/ccb/ccb96b2096e8aefde7abbbf9fb8ca570.mp4
+#EXTINF:0,ЛЕКЦИЯ №10. ОГНЕВАЯ ПОДГОТОВКА. ПЕРЕМЕЩЕНИЯ С ОРУЖИЕМ
+#EXTGRP: Спецкурс
+https://cdn.stalingrad.tv/upload/iblock/837/83771dcdb98a63d3f5ff195940052297.mp4
+#EXTINF:0,ЛЕКЦИЯ №11. ОГНЕВАЯ ПОДГОТОВКА. ОСНОВЫ РАБОТЫ С ПИСТОЛЕТОМ
+#EXTGRP: Спецкурс
+https://cdn.stalingrad.tv/upload/iblock/8f6/8f62741881d7b89e15eff38c670a924c.mp4
+#EXTINF:0,СПЕЦКУРС. Гражданская оборона в современных условиях на канале Сталинград
+#EXTGRP: Спецкурс
+https://cdn.stalingrad.tv/upload/iblock/330/33067542537923a7206c395c97f23957.mp4
