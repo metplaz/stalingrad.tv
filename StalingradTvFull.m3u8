@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,"Канал Сталинград"
+#EXTINF:0 tvg-logo="https://stalingrad.tv/favicon.ico","Канал Сталинград"
 #EXTGRP: ЗА СЕГОДНЯ
 https://cdn.stalingrad.tv/
 #EXTINF:0,Сайт www.stalingrad.tv
