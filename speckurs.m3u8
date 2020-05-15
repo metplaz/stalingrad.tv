@@ -2,7 +2,7 @@
 
 #EXTINF:0 group-title="HD" tvg-id="2001" tvg-logo="http://epg.it999.ru/img/2001.png" tvg-rec="1",НТВ HD
 http://localhost/index.m3u8
-#EXTINF:0 group-title="другие" tvg-id="1000" tvg-logo="https://github.com/metplaz/stalingrad.tv/raw/master/tm.png" tvg-rec="1",ОТР
+#EXTINF:0 group-title="другие" tvg-id="1000" tvg-logo="" tvg-rec="1",ОТР
 http://localhost/.m3u8
 #EXTINF:0,При поддержке:Технологии выживания|Тактическая медицина 
 #EXTGRP: Спецкурс
