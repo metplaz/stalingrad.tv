@@ -1,15 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<!DOCTYPE tv SYSTEM "http://www.teleguide.info/download/xmltv.dtd">
-<tv generator-info-name="TVH_W/0.751l" generator-info-url="http://www.teleguide.info/">
-<channel id="263">
-<display-name lang="ru">При поддержке:Технологии выживания|Тактическая медицина </display-name>
-<icon src="http://ott.watch/images/263.png" />
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "http://epg.it999.ru/xmltv.dtd">
+<tv source-info-url="http://epg.it999.ru" source-info-name="EPG it999" source-info-logo="http://epg.it999.ru/images/logo100x100.png" generator-info-name="EPG it999 generator xmltv v0.9" generator-info-url="http://it999.ru">
+<channel id="798">
+	<display-name lang="ru">ИНДИЙСКОЕ КИНО</display-name>
+	<icon src="http://epg.it999.ru/img/798.png" />
 </channel>
-<channel id="230">
-<display-name lang="ru">www: vk.com/takticheskayamedicina</display-name>
-<icon src="http://ott.watch/images/230.png" />
-</channel>
-<channel id="220">
-<display-name lang="ru">Nick Jr</display-name>
-<icon src="http://ott.watch/images/220.png" />
+<channel id="821">
+	<display-name lang="ru">КИНОКОМЕДИЯ</display-name>
+	<icon src="http://epg.it999.ru/img/821.png" />
 </channel>
