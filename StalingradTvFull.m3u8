@@ -8,6 +8,9 @@ https://cdn.stalingrad.tv/
 #EXTINF:0,Смотрите нас в Ютубе
 #EXTGRP: ЗА СЕГОДНЯ
 https://cdn.stalingrad.tv/
+#EXTINF:0,Что нужно делать прямо сейчас
+#EXTGRP: ЗА СЕГОДНЯ
+https://cdn.stalingrad.tv/upload/iblock/386/386e83ea3f735eef7d37a9a6a1bdd7dc.mp4
 #EXTINF:0,ЛЕКЦИЯ №15. РАДИОДЕЛО
 #EXTGRP: ЗА СЕГОДНЯ
 https://cdn.stalingrad.tv/upload/iblock/563/5630cefe0f70c3a5634f108980fcd741.mp4
@@ -1091,7 +1094,12 @@ https://cdn.stalingrad.tv/upload/iblock/9a8/9a88e9f95ab154b54fbd78b383851e0a.mp4
 #EXTINF:0,Китайский Кризис
 #EXTGRP: ОбратныйОтсчет
 https://cdn.stalingrad.tv/upload/iblock/b00/b0015fcc182246048148c0c26847531c.mp4
+#EXTINF:0,Что нужно делать прямо сейчас
+#EXTGRP: Общество
+https://cdn.stalingrad.tv/upload/iblock/386/386e83ea3f735eef7d37a9a6a1bdd7dc.mp4
 #EXTINF:0,Студенты за социализм
+#EXTGRP: Общество
+https://cdn.stalingrad.tv/upload/iblock/4db/4dba61e775510e3b1e9cb951dd12ac25.mp4
 #EXTINF:0,9 МАЯ. НАРОД ПРОТИВ ФАШИЗМА
 #EXTGRP: Общество
 https://cdn.stalingrad.tv/upload/iblock/c8c/c8ca2d3b1a4c160ebc53596bbc3c2b5e.mp4
@@ -2263,8 +2271,10 @@ https://cdn.stalingrad.tv/upload/iblock/99f/99f57987cacae59bb3d682f838c67ad5.mp4
 #EXTINF:0,Изнанка полиции
 #EXTGRP: ВладимирВоронцов
 https://cdn.stalingrad.tv/upload/iblock/073/0733283ca42c6e39aa9fdce88d6727a4.mp4
+#EXTINF:0,Что нужно делать прямо сейчас
+#EXTGRP: ВладимирКвачков
+https://cdn.stalingrad.tv/upload/iblock/386/386e83ea3f735eef7d37a9a6a1bdd7dc.mp4
 #EXTINF:0,НАША ЗОЯ
-
 #EXTGRP: ВладимирКвачков
 https://cdn.stalingrad.tv/upload/iblock/1c3/1c320207bba066e6e94f65f5903f49a0.mp4
 #EXTINF:0,9 МАЯ. НАРОД ПРОТИВ ФАШИЗМА
