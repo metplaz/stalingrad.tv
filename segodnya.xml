@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ЗА СЕГОЛНЯ</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATAhttps://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ ЛЕКЦИЯ №27. ТАКТИЧЕСКАЯ МЕДИЦИНА. ТАКТИЧЕСКИЙ МЕДИК НА ПОЛЕ БОЯ. ЧАСТЬ 2]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fdf/fdf0230995ed8ffbbf0c451c34dca4eb.jpg" width="175"/></td></tr></table>В чём задача медика на поле боя? Какие главные трудности при боях в лесу? Что можно использовать для радиосвязи? Часть 2.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/78c/78cf382d2c828dab9782303bc394ed85.mp4]]></stream_url>
+<category_id>24</category_id>
+</channel>
+
+<title><![CDATA[ ЛЕКЦИЯ №26. ТАКТИЧЕСКАЯ МЕДИЦИНА. ТАКТИЧЕСКИЙ МЕДИК НА ПОЛЕ БОЯ. ЧАСТЬ 1]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/377/37794d2f5da4e719ed2588c7d546dd31.jpg" width="175"/></td></tr></table>В чём задача медика на поле боя? Какие главные трудности при боях в лесу? Что можно использовать для радиосвязи? Часть 1.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c3a/c3a04a6cb4f1f48a37366fce13b63c6e.mp4]]></stream_url>
+<category_id>24</category_id>
+</channel>
+
+<channel>
+<title><![CDATA[ ОСЕНЬЮ НАС НАЧНУТ УБИВАТЬ!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ce9/ce9543afc2a3d533ac15f7a9f0e86005.jpg" width="175"/></td></tr></table>Что делать в сложившийся ситуации простым людям? С кем объединяться в автономные группы? Для чего нужно коммуницировать с другими оппозиционными группами? Куда идти в случае форс-мажорных событий в стране?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f28/f2835c2bc35bf69ae9fae27de32ec6a7.mp4]]></stream_url>
+<category_id>77</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЛЕКЦИЯ №25. ТАКТИЧЕСКАЯ МЕДИЦИНА.ТРАВМЫ, ПЕРЕЛОМЫ, ОЖОГИ, ОБМОРОЖЕНИЯ И СИНДРОМ СДАВЛЕНИЯ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/67f/67fc49e45af032403143258032d506a6.jpg" width="175"/></td></tr></table>Какие травмы встречаются в боевой остановке? Что делать при переломах на поле боя? Как себя вести в случае получения ожогов? Какую помощь надо оказывать человеку при обморожения? Что такое синдром сдавления?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c19/c19dfb42b48d4e58ae921846ec321efc.mp4]]></stream_url>
+<category_id>24</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЛЕКЦИЯ №24. ТАКТИЧЕСКАЯ МЕДИЦИНА. КЛАССИФИКАЦИЯ РАНЕНИЙ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/12d/12dad5a2c6db35977512c4788b160100.jpg" width="175"/></td></tr></table>Какие ранения наиболее распространены в боевой обстановке? Почему сейчас опасность столбняка меньше, чем 100 лет назад? Что такое минно-взрывная травма? Как передвигаться на минном поле?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/ec6/ec6cb98576f1716bf3b2672d15a65874.mp4]]></stream_url>
+<category_id>24</category_id>
+</channel>
+<channel>
+<title><![CDATA[ МОЗГОВОЙ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/176/17601422360e7c39705b2c2fac75b245.jpg" width="175"/></td></tr></table>Документальный фильм Юрия Горошко посвященный легендарному командиру бригады ""Призрак"" Алексею Мозговому.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/278/278c0f2a0761b4ec03ad15f0b0b8d4b6.mp4]]></stream_url>
+<category_id>30</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кому помешал омбудсмен полиции?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/544/544a597744983b91fb6e94bf3d12cc81.jpg" width="175"/></td></tr></table>Администратор группы ""омбудсмен полиции"" старший лейтенант полиции в отставке Василий Фёдоров https://www.instagram.com/_vasilii_fedorov_ Какой проект создал Владимир Воронцов? За что начались репрессии в отношении омбудсмена полиции? Зачем Владимиру Воронцову выломали дверь и окно в квартиру? Что власть говорит с высокой трибуны про профсоюзы? Возможно ли в системе МВД сделать орган отстаивающий права сотрудников?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d84/d841ad38a9991077501eac24fe900a04.mp4]]></stream_url>
+<category_id>36</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЛЕКЦИЯ №23. ТАКТИЧЕСКАЯ МЕДИЦИНА. ВИДЫ ЖГУТОВ И ИХ ПРИМЕНЕНИЕ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/84a/84abc3c35070f95ac5b10565932a9185.jpg" width="175"/></td></tr></table>Виды жгутов и их применение.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d3d/d3d6cdad8abd9f6a365e6ef8f15af321.mp4]]></stream_url>
+<category_id>24</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЛЕКЦИЯ №22. ТАКТИЧЕСКАЯ МЕДИЦИНА. ШОКОВЫЕ СОСТОЯНИЯ И РАНЕНИЯ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/564/564388426863c7641412ef55d450bdcb.jpg" width="175"/></td></tr></table>Что такое шок? Как он проявляется внешне? Какая первая помощь человеку в шоковом состоянии? В каких случаях нельзя обезболивать? Какие ""советы"" дают на западных курсах военных медиков? Как транспортировать пострадавшего без сознания? Что делать при огнестрельных ранениях? Какая правильная техника накладывания жгута? Что делать при ранениях в таз?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/1c9/1c9966bdd88edff79f5e7e92f07ffde2.mp4]]></stream_url>
+<category_id>24</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЧТО ДЕЛАТЬ ВОЕННЫМ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d5d/d5d093680a4e60de7c2b05b69bf17af0.jpg" width="175"/></td></tr></table>Почему режим подчёркнуто принимает незаконные решения? Как должны вести себя люди в форме? В каком статусе находится сейчас Россия? Как мотивируют росгвардейцев бить народ? Кто сейчас служит в силовых структурах? Как общаться с сотрудниками в погонах?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/743/743954f380776db566e1d194b8655b5d.mp4]]></stream_url>
+<category_id>108</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЛЕКЦИЯ №21. ТАКТИЧЕСКАЯ МЕДИЦИНА. ЗАДАЧИ МЕДИКА. ОСОБЕННОСТИ ЭВАКУАЦИИ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/13f/13fa3ff5280c4e32ecbc63aa1f164f4f.jpg" width="175"/></td></tr></table>Что будет происходить в условиях вторжения НАТО в Россию? Можно ли вести машину в условиях боевых действий? Как вести себя в гражданской больнице на войне? Какие задачи есть у парамедика? Как проводить эвакуацию пострадавших в боевых условиях? Какие качества должны быть у бойца? Как предотвратить гибель пострадавших на поле боя во время транспортирования в больницу?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/551/551052cad41cfa83f080bcfa89ef32c5.mp4]]></stream_url>
+<category_id>24</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЛЕКЦИЯ №20. ТАКТИЧЕСКАЯ МЕДИЦИНА. ВВЕДЕНИЕ. ОТМС И ПВХ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/daf/dafe2aea06ac76118942f73b4e05a5c5.jpg" width="175"/></td></tr></table>Что такое тактическая медицина? Какой процент смертности раненных на поле сейчас у армий Израиля и НАТО? Сколько боеприпасов надо на уничтожение одного солдата противника? Как в Великую Отечественную Войну лечили солдат и возвращали их в строй? Что такое стратегия ""от сердца к сердцу""? Как расшифровывается ОТМС и ПВХ? В каком состоянии сейчас военная медицина в России? Как организовать полевой медицинский пункт? В чём специфика вертолётной эвакуации раненых с поля боя? Кто такой тактический медик?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a87/a8766e1b17f8a244aa01d1e59ab1a192.mp4]]></stream_url>
+<category_id>24</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Премьера фильма "МОЗГОВОЙ"]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/6eb/6eb51f37ca92c941e76655a2f24deb96.jpg" width="175"/></td></tr></table>23 мая в 17:00 на телеканале ""Сталинград"" и сайте https://stalingrad.tv/ смотрите документальный фильм российского добровольца - Юрия Горошко (позывной ""Тавр"") о легендарном командире бригады ""Призрак"" - Алексее Борисовиче Мозговом. Как появилась идея создать фильм о легендарном командире бригады ""Призрак""? С кем из исторический личностей можно сравнить Алексея Мозгового? В чём была его главная ошибка? Почему фильм об Алексее Борисовиче актуален и сейчас? Как Мозговой подымал хозяйство на Донбассе? Что будет в России в ближайшее время? Кто убил Алексея Мозгового? В фильме собраны эксклюзивные интервью бойцов и командиров, которые знали комбрига лично.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/53a/53aa1ae2a08dd9e62fb02933a5803e61.mp4]]></stream_url>
+<category_id>172</category_id>
+</channel>
+<channel>
+<title><![CDATA[ КАК НЕ СДАВАТЬ КРОВЬ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/502/5028f176c1b6704024c203c43f06966b.jpg" width="175"/></td></tr></table>Как простому человеку не сдавать кровь посреди улицы? Какие права имеет человек? Как разговаривать с сотрудником полиции? Может работодатель обязать сотрудников сдавать кровь?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c88/c8810474ed32d563564345b46d4e0195.mp4]]></stream_url>
+<category_id>10</category_id></channel>
+<channel>
+<channel>
+<title><![CDATA[ ЛЕКЦИЯ №19. ВЫСОТНАЯ ПОДГОТОВКА]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/eaa/eaa68889da3a195746ad4a2cbe212ed0.jpg" width="175"/></td></tr></table>Для чего нужна высотная подготовка? Какие бывают верёвки? Как надо обращаться с инвентарём? Какие существуют виды узлов? Что такое карабин? Какая правильная техника спуска по вертикальной поверхности? Как эвакуировать пострадавшего?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6eb/6eb811e14a890e7573dc78b70d3188d4.mp4]]></stream_url>
+<category_id>24</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Путинский полк]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8f3/8f3ed0ead4f6d3f34420dfccd82113b2.jpg" width="175"/></td></tr></table>Что такое патриотизм по-путински? Почему народ принял отмену празднования Дня Победы? Как ""патриоты"" оказались массовкой в провластных мероприятиях?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b13/b13cc1b3e3ec7e2992be1a69fd72bb5f.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Нас считают за скотов]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/24b/24bd7ea454d55f4b28caad1c7de13b31.jpg" width="175"/></td></tr></table>Как разрабатывают новые вакцины? Сколько по времени делается препарат для прививок? Как идут против мировых трендов президенты Белоруссии и Танзании? Какая главная цель у здравоохранения была в СССР и социалистической Болгарии? Сколько лет существует вакцина от коронавируса? Что может быть в ампулах для прививок от ковид-19?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e3f/e3f340f72963193e615d962067e9a393.mp4]]></stream_url>
+<category_id>149</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ФАШИЗМ С ЧЕЛОВЕЧЕСКИМ ЛИЦОМ?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/bd7/bd78abff2f48f4313fac32002cabfd22.jpg" width="175"/></td></tr></table>Пришёл ли фашизм в Россию? Как общество поделилось на ковид-лоялистов и ковид-диссидентов? Почему Собянин гауляйтер города Москвы? В чём разница между мышлением медиков и управленцев? Хотят ли власти сократить население? Почему многие готовы отдать свободу за безопасность? Что делать простым людям?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/504/5047ebbaae784fb91642216380542f32.mp4]]></stream_url>
+<category_id>157</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЛЕКЦИЯ №18. БОЕВАЯ ПОДРУГА]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/16a/16afee68209236ebdb9c8577233d87d1.jpg" width="175"/></td></tr></table>Кто такая ""боевая подруга""? Чем занимается женщина во время военных действий? Почему нельзя брать на митинг детей? Где спрятаться во время арт-обстрела? Как коммуницировать с людьми в бомбоубежище? Каким оружием надо уметь владеть? О чём должна помнить женщина, если она попадает на войну? Первое, что должна сделать медсестра в казарме? Чему должна научиться боевая подруга?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/3af/3af66a6f6d268b0ec0a4e4dd1528f082.mp4]]></stream_url>
+<category_id>24</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ГЛАВНЫЙ ПО СТРАНЕ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/138/138c3cf2639d1b09d2ae8dc8f784b802.jpg" width="175"/></td></tr></table>Что означает заявление Путина по пандемии коронавируса? Как будет проходить голосование по Конституции? Кто заинтересован в максимальном оттягивании голосования? Между какими группами во власти идёт борьба? Что делать в сложившийся ситуации простым людям?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/bec/becce8a6f4b1ba836f9cb095fd23e349.mp4]]></stream_url>
+<category_id>31</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЛЕКЦИЯ №17. ТАКТИКА БОЕВЫХ ДЕЙСТВИЙ. ПРАКТИКА. БОЙ В ГОРОДЕ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a41/a417d7de14cf13b416e491fd781d08fd.jpg" width="175"/></td></tr></table>Зачем нужно знать тактику боя? Почему важно защититься от лёгких осколков? В чём особенность упражнения ""блокпост""? Как правильно сближаться с населённым пунктом? На что надо обратить внимание при зачистке? Что важно помнить во время работы в окопе? Как проходит отход из-под огня? Зачем тренировать погрузку раненого в автомобиль?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6d1/6d1a34fcb9f121319e79b25f4f08ca48.mp4]]></stream_url>
+<category_id>24</category_id>
+</channel>
+<channel>
+<title><![CDATA[ КАК БЛОКИРУЮТ РАЗВИТИЕ ДЕТЕЙ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fc0/fc0ed63b6fe9a628cf42b599491017ee.jpg" width="175"/></td></tr></table>Как дети воспринимают два месяца дистанционного образования? Сколько человек должно быть в классе? Почему власти умные не нужны? Что такое ""семейное образование""? Для чего музыкантам и спортсменам нужна культура? Почему современные школьники не понимают причинно-следственные зависимости?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f1a/f1afc1b22c311eb364dc7b6d7ae530ec.mp4]]></stream_url>
+<category_id>125</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЛЕКЦИЯ №16. ТАКТИКА БОЕВЫХ ДЕЙСТВИЙ. АЗЫ ТЕОРИИ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/6d6/6d6a5f8e5a30b22cc6f57b3e640b7ed5.jpg" width="175"/></td></tr></table>Что такое тактика? Как правильно перемещаться на поле боя? Какие существуют варианты укрытий? Что надо помнить для безопасного совершения перебежек? На что надо рассчитывать в боевой обстановке? В каком режиме должны проходить тренировки?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/865/8656d3112c3a4734577220fb5c249cec.mp4]]></stream_url>
+<category_id>24</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Что нужно делать прямо сейчас]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ac6/ac62121604bac1a815208ab506ad0415.jpg" width="175"/></td></tr></table>Что делать в сложившийся ситуации простым людям? С кем объединяться в автономные группы? Для чего нужно коммуницировать с другими оппозиционными группами? Куда идти в случае форс-мажорных событий в стране?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/386/386e83ea3f735eef7d37a9a6a1bdd7dc.mp4]]></stream_url>
+<category_id>77</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЛЕКЦИЯ №15. РАДИОДЕЛО]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/939/939cf089b5b911bb27c51b75c9efad87.jpg" width="175"/></td></tr></table>Что такое радиосвязь? Какие существуют диапазоны частот? Что означает LPD-диапазон? Для чего нужно отключать дополнительные функции на радиостанции? Как увеличить дальность связи? Что нужно делать перед началом работы по радиостанции?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/563/5630cefe0f70c3a5634f108980fcd741.mp4]]></stream_url>
+<category_id>24</category_id>
+</channel>
+
+
+
+<channel>
+<title><![CDATA[ У них осталось только насилие]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/0ee/0eef0f7f2c5ddc9cc4fe866804ab77dd.jpg" width="175"/></td></tr></table>Как режим показал свою фашистскую суть через отмену традиционных выборов? Почему забыли эпидемию свиного гриппа 2009 года? Для чего власти важна легитимность? Как ломается психика человека? Проглотит ли общество нововведения власти?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d18/d183f660e0f00c041cfa2e7940078810.mp4]]></stream_url>
+<category_id>15</category_id>
+</channel>
+
+
+</items>
