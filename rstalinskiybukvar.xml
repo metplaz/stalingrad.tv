@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>СталинскийБукварь</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Советские учебники - начальные классы]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/3cc/3cc942726c68216ed343c2cef699f74c.jpg" width="175"/></td></tr></table>Cталинский СССР 50-х годов находился на пике своей мощи во всех сферах, от промышленности до искусства. Тогдашний уровень образования до сих пор может служить блистательным примером для любой страны. К сожалению, негативные тенденции ставшие проявляться в системе образования сразу после смерти Сталина, сейчас достигли своего апогея. О полезной общественной инициативе, противостоящей оболваниванию наших детей, рассказывает руководитель проекта по переизданию советских учебников «Сталинский букварь» Дмитрий Фронтов.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/025/02583b6a953ea0558d83156730d51638.mp4]]></stream_url>
+<category_id>27</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ""Сталинский букварь""..]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/17d/17d250470fa9460538a39d1ecff875ae.jpg" width="175"/></td></tr></table>Сталинский СССР 50-х годов находился на пике своей мощи во всех сферах, от промышленности до искусства. Тогдашний уровень образования до сих пор может служить блистательным примером для любой страны. К сожалению, негативные тенденции ставшие проявляться в системе образования сразу после смерти Сталина, сейчас достигли своего апогея. О полезной общественной инициативе, противостоящей оболваниванию наших детей, рассказывает руководитель проекта по переизданию советских учебников «Сталинский букварь» Дмитрий Фронтов.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/7fb/7fb5b154e765d93126b2ed8b0266c689.mp4]]></stream_url>
+<category_id>27</category_id>
+</channel>
+
+
+
+</items>
