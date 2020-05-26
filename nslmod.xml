@@ -1665,12 +1665,12 @@
 <description>ОбратныйОтсчет</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/robratniyotschet.xml]]></playlist_url>
 </channel>
-  
- <channel>
+<channel>
 <title>Общество</title>
 <description>Общество/description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/robshestvo.xml]]></playlist_url>
 </channel> 
+  
  <channel>
 <title><![CDATA[ Итоги 2019 года. Константин Сивков]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/806/8067039919122211508fe558d54f29eb.jpg" width="175"/></td></tr></table>Военный эксперт, доктор военных наук Константин Сивков подводит политические итоги.]]></description>
@@ -1750,7 +1750,7 @@
 <category_id>21</category_id>
 </channel>
 
- <channel>
+<channel>
 <title>РаботаНадОшибками</title>
 <description>РаботаНадОшибками/description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/rrabotanadoshibkami.xml]]></playlist_url>
@@ -1760,7 +1760,7 @@
 <description>Репортажи</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/rreportazhi.xml]]></playlist_url>
 </channel> 
- <channel>
+<channel>
 <title>Спецкурс</title>
 <description>Спецкурс</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/rspeckurs.xml]]></playlist_url>
