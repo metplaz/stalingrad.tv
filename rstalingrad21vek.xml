@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>Сталинград21Век</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ ЛЕКЦИЯ №24. ТАКТИЧЕСКАЯ МЕДИЦИНА. КЛАССИФИКАЦИЯ РАНЕНИЙ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/12d/12dad5a2c6db35977512c4788b160100.jpg" width="175"/></td></tr></table>Какие ранения наиболее распространены в боевой обстановке? Почему сейчас опасность столбняка меньше, чем 100 лет назад? Что такое минно-взрывная травма? Как передвигаться на минном поле?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/ec6/ec6cb98576f1716bf3b2672d15a65874.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЛЕКЦИЯ №25. ТАКТИЧЕСКАЯ МЕДИЦИНА.ТРАВМЫ, ПЕРЕЛОМЫ, ОЖОГИ, ОБМОРОЖЕНИЯ И СИНДРОМ СДАВЛЕНИЯ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/67f/67fc49e45af032403143258032d506a6.jpg" width="175"/></td></tr></table>Какие травмы встречаются в боевой остановке? Что делать при переломах на поле боя? Как себя вести в случае получения ожогов? Какую помощь надо оказывать человеку при обморожения? Что такое синдром сдавления?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c19/c19dfb42b48d4e58ae921846ec321efc.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЛЕКЦИЯ №19. ВЫСОТНАЯ ПОДГОТОВКА]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/eaa/eaa68889da3a195746ad4a2cbe212ed0.jpg" width="175"/></td></tr></table>Для чего нужна высотная подготовка? Какие бывают верёвки? Как надо обращаться с инвентарём? Какие существуют виды узлов? Что такое карабин? Какая правильная техника спуска по вертикальной поверхности? Как эвакуировать пострадавшего?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6eb/6eb811e14a890e7573dc78b70d3188d4.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Путинский полк]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8f3/8f3ed0ead4f6d3f34420dfccd82113b2.jpg" width="175"/></td></tr></table>Что такое патриотизм по-путински? Почему народ принял отмену празднования Дня Победы? Как ""патриоты"" оказались массовкой в провластных мероприятиях?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b13/b13cc1b3e3ec7e2992be1a69fd72bb5f.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЛЕКЦИЯ №17. ТАКТИКА БОЕВЫХ ДЕЙСТВИЙ. ПРАКТИКА. БОЙ В ГОРОДЕ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a41/a417d7de14cf13b416e491fd781d08fd.jpg" width="175"/></td></tr></table>Зачем нужно знать тактику боя? Почему важно защититься от лёгких осколков? В чём особенность упражнения ""блокпост""? Как правильно сближаться с населённым пунктом? На что надо обратить внимание при зачистке? Что важно помнить во время работы в окопе? Как проходит отход из-под огня? Зачем тренировать погрузку раненого в автомобиль?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6d1/6d1a34fcb9f121319e79b25f4f08ca48.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ НАША ЗОЯ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/53c/53ca52cf955f0173e997a3c4be30f386.jpg" width="175"/></td></tr></table>Владимир Васильевич Квачков у памятника Зои Космодемьянской. Что известно советским разведчикам о легендарной комсомолке? Кто были её родители?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/1c3/1c320207bba066e6e94f65f5903f49a0.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Лекция «Гибридные войны и Коронавирус» на канале Сталинград]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/da9/da934297d780b5bd0ab7f21a20709e51.jpg" width="175"/></td></tr></table>Почему медицине нельзя научить за час? Кому выгодна истерика вокруг коронавируса? Какие существуют этапы деградации человека? Какие структуры больше всех коррумпированы в условиях иностранного влияния на управления в страны? Как под прикрытием карантином проходят спецоперации? По каким критериям определяют регионы для начала военной интервенции? Что значите понятие ""коридор возможностей и красные линии""? Чем ДНР и ЛНР выгодны Украине и их западным хозяевам? Какой мониторинг проводится во время пандемии коронавируса? Что делать простым людям в сложившийся ситуации?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/8fb/8fb1c1d2fbce1e2832cf71b6fd993c67.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ 1000000 рублей на третьего ребёнка]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/57c/57c1504cced802bc399cc5d16705b862.jpg" width="175"/></td></tr></table>Независимый эксперт-демограф Алексей Игоревич Ракша о влиянии маткапитала на рождаемость в России. Что влияет на рождаемость - медицина или экономика?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a5d/a5d4726aa1759d5f9af1e5d3f5069c22.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ! АНОНС ФИЛЬМА ПРО МОЗГОВОГО !]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a4d/a4d6dad87900ace83e7362638601b286.jpg" width="175"/></td></tr></table>Трейлер документального фильма российского добровольца - Юрия Горошко (позывной ""Тавр"") о легендарном командире бригады ""Призрак"" - Алексее Борисовиче Мозговом.В фильме собраны эксклюзивные интервью бойцов и командиров, которые знали комбрига лично. Их мнения и воспоминания о нём. P.S. Уникальные видеоматериалы подобраны из архивов военкоров бригады ""Призрак"".]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d8c/d8c98bade16bf806c04ece28431d3b3e.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Большевики и церковь]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/7fc/7fc2deef7dedce7810de7a2ccd268915.jpg" width="175"/></td></tr></table>Историк, председатель движения ""Трудовая Россия"" Станислав Рузанов об отношении большевиков к церкви.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/bee/bee6242f75221651fc0c1e0f09823217.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Будет жесткий карантин]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e84/e84396515629afc1a48322ec68beb4cd.jpg" width="175"/></td></tr></table>Какие последствия будут от пандемии коронавируса? До чего довела страну ""оптимизация"" здравоохранения? Где мобилизационные запасы РФ? Как через нефтяные горки разрушили Советский Союз? Какая статистика заболевших в Москве? Нужно ли объявлять в РФ жёсткий карантин по китайскому примеру? Какие ближайшие перспективы у России? Что показывает моделирование будущего? Нужно ли идти голосовать за поправки в Конституцию? Какое испытание должен пройти народ?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/612/612eab645e446bae3cca7dd24230b99b.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Будьте решительнее..!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8e0/8e0501d9d694a8e6496e1d12d7da843d.jpg" width="175"/></td></tr></table>Какое самое яркое общественно-политическое событие в истории современной России, в котором участвовал Эдуард Лимонов? На кого из известных людей повлиял он повлиял? Какие идеалы отстаивал Эдуард Вениаминович? Что в его биографии первичнее - политик или писатель? В чём Лимонова обвиняли противники? Летов и Лимонов - что общего между ними? Чем Эдуард Вениаминович занимался за границей? Какие литературные произведения Лимонова можно посоветовать прочитать? Дело Лимонова будет жить и без его участия? Говорит Михаил Аксель, член исполкома партии «Другая Россия».]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d26/d261ab90f461c3d5a8b028e01da2dead.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Чем мы заплатим за карантин?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/584/58426be35ba7207a40da75d789c41b8e.jpg" width="175"/></td></tr></table>Чем мы заплатим за карантин? Видео на канале Сталинград]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/901/901b13cb486bf7fd7e00fdc9662d4520.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Чипизация.Концлагерь Москва]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/b59/b5934e7538079a9410742880e4a72308.jpg" width="175"/></td></tr></table>Может ли мэр Москвы объявлять карантин вместо президента? Почему главы регионов хотят закрыть свои области от москвичей? Почему рубль возобновил своё падение? Что сейчас происходит в ""внутрироссийских оффшорах""? Зачем СМИ насаждают панику? Что задумали ""хозяева денег""? Что такое ""нано-вакцины""?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/591/591cea243e7ef9a9140557070f22a0c6.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Денег у страны нет]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/618/6186e44824d541b604c933037f656c52.jpg" width="175"/></td></tr></table>Что происходит в мировой экономике? Что общего между ""Великой депрессией"" и нынешним кризисом? Удастся ли США вытеснуть все остальные резервные валюты с мирового рынка? Понимает ли власть в РФ о том, что происходит в мире? Чем закончится недокарантин в России? Когда власть потеряет управление?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/623/6237a0203b8d3a40fde31c9e1173e65f.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Диктатура «ДОБРОГО ЦАРЯ»]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/411/4112fbcfd65dd907db02a3f844f9f898.jpg" width="175"/></td></tr></table>Публицист, блогер ""Soiz"" Василий Юрьевич Пушкин: о легальности конституции, о «странном мероприятии», затеянном для принятия поправок в Конституцию РФ, о степени демократии и о форме протестного голосования.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/09d/09dc025d42a0a9706fa7f32db4bcd9c5.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЭТО государство должно умереть]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d65/d658d92a0c8c79b641b4095eec6ca19c.jpg" width="175"/></td></tr></table>МНЕНИЕ РЕДАКЦИИ НЕ СОВПАДАЕТ С МНЕНИЕМ СПИКЕРА! Как себя будут чувствовать граждане РФ в ближайшее время? Будет ли рост цен на лекарства? Можно ли лишить лицензии аптечные сети, которые завышают цены во время эпидемии? Что такое вирулентность вируса? Что будет с бизнесом в РФ в ближайший год? Какие перспективы у банковского сектора? Для чего сделали криптовалюту? Могут ли исчезнуть государства? Можно ли закрыть Москву на карантин? Что Дмитрий Потапенко советует сделать подписчикам телеканала ""Сталинград""?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f40/f40ab7f39f13a3f2673a2c98d43d277e.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Голодный карантин]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a90/a90b8ca13b93e6b36b31b4214be7b8d0.jpg" width="175"/></td></tr></table>Как в Советском Союзе справлялись с эпидемиями? В каком обществе мы сейчас живём? Какая роль спецслужб во время карантина? Что будет после окончания самоизоляции? Начнут ли выходить на улицу люди, которые останутся без работы после пандемии? Сколько лет компрометируется левая идея? О чём думают олигархи? Почему инициатива по борьбе с эпидемией спущена на глав регионов? Может ли под прикрытием карантина произойти трансфер президентской власти? Рассказывает российский историк спецслужб Александр Колпакиди.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/0b7/0b79e44a11355b034da8e4a3a4dfe88e.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Их надо лечить принудительно]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/9db/9db087978862ed32de5ef1511c0812b4.jpg" width="175"/></td></tr></table>Власть боится протестов? Хотят ли узаконить силовое давление в РФ? Почему первые лица страны не подписывают свои указы? Перейдут ли сотрудники МВД на сторону народа? Кто из лидеров государств сохраняет здравомыслие? Какая цель у нынешней власти?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6bb/6bb0a6cafdf716156290f096b7546a3e.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Итоги 2019 года. Константин Сивков]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/806/8067039919122211508fe558d54f29eb.jpg" width="175"/></td></tr></table>Военный эксперт, доктор военных наук Константин Сивков подводит политические итоги.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/fbf/fbff074942d5b051b809d5bb8b34d5c7.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ КАРАТЕЛЬНЫЕ ОРГАНЫ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/b3c/b3c1eb959eeff009d576ae5c70b7de30.jpg" width="175"/></td></tr></table>Что произошло на дороге в Кабардино-Балкарье? Куда были сделаны заявления по происшествию? Почему пострадавший не может получить документы на руки? Есть ли сговор МВД и медицинских сотрудников в Кабардино-Балькарье? Как нужно бороться за свои права? Что происходит на посту ГИБДД при въезде в Элисту? Как с нуля зарегистрировать общественную организацию?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/241/241289ab5550f47dd3397d524b45581b.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Конституция крепостного права]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d01/d014cdeffa39da050030186720892b77.jpg" width="175"/></td></tr></table>Кинорежиссёр и общественный деятель Игорь Владимирович Кульков о стратегии Путина, об изменениях в Конституции РФ и о грядущих переменах в России.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b73/b7305443da37d41c7eae6a08648b4a11.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Конституция в законе?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/2c6/2c67d8a8cc2c7c4b60f5ca9bffab1a5c.jpg" width="175"/></td></tr></table>Можно ли конституционную реформу назвать революцией? Что интересует власть? Улучшат ли поправки социальную жизнь граждан? Как принимаются поправки в Конституцию? Какова юридическая сила общероссийского голосования? Что такое прожиточный минимум и как это определить? Что качественно изменится после поправок в Конституцию?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d27/d27aa7453ca119a9218c6789b2197b53.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кто сбил ""боинг"" в Иране?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/148/148112273489f26d10c7d0f4e0d6f057.jpg" width="175"/></td></tr></table>Полковник ГРУ, кандидат наук Владимир Квачков анализирует несостоявшуюся войну Ирана и США, а также, возможные причины катастрофы ""Боинга"" 8 января в пригородах Тегерана.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/161/161d3e7fbc72d1f2763ad2a5777fb1c6.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кто смотрящий над Мишустиным?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d00/d00ea8a19b531502e4b89f038ae0c704.jpg" width="175"/></td></tr></table>Экономист и финансовый аналитик Владислав Жуковский о том, почему Михаил Мишустин под колпаком.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/18b/18ba4738a66edbb72fec49f5c12b3542.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ КТО такой ЕДИНОРОС?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fce/fce5e2dc18d91a63d7acf113818d1d06.jpg" width="175"/></td></tr></table>Что происходит в стране? Почему стройки работают? Адекватны ли меры по предотвращению распространения вируса? Что происходит при введении ЧС? Почему президент самоустранился от решения проблем? Готова ли система РФ к введению ЧС? Введение QR-кодов - это пресечение протестов? Сохранится ли режим повышенной готовности после пандемии коронавируса? Что из себя представляют депутаты ""Единой России""?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/944/94423ad801695c565bebfb384f017464.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Лень мозга]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/818/818d0d52cc80dc847281add60ea9a546.jpg" width="175"/></td></tr></table>Профессор, доктор биологических наук Сергей Савельев о природе лени, о причинах её возникновения и о том, какова функция лени в биологии организмов.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/952/9524be1c900a89ddf82108e886fea595.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Митинг на Суворовской площади. 17 марта в 16:00, 2020 года]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/83e/83ef5a9bd4da2e6acedf40726181f61b.jpg" width="175"/></td></tr></table>Митинг на Суворовской площади. 17 марта в 16:00, 2020 года Видео на канале Сталинград]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a49/a49c2ce357ec994af5b5a726fc2ff0c1.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Мы не знаем где рванет]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/48e/48e6e8f223d2401167c0fc3654f3d667.jpg" width="175"/></td></tr></table>Блогер, политолог Анатолий Несмиян (Эль-Мюрид) о революционной ситуации, о трансфере власти и базовом противоречии, о «региональной вольнице».]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/69b/69b97db25220e5516244379ab101158d.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Мы вернемся в космос]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5dd/5dde47cf5c41b52d5e1608dd0ef1aecf.jpg" width="175"/></td></tr></table>Что значит день 12 апреля? Что происходило в КБ ""Южное"" в советское время? Как проходили государственные испытания в присутствии генералов армии СССР? Что скрывалось под кодовым словом ""Куляба""? В чём трагедия советского ракетостроения в постперестроечное время? Что сейчас происходит на ""ЮЖМАШЕ""? Почему технологический прогресс второй половины 20 века мы будет ещё долго вспоминать? Какую возможность сверхдержавам предоставляет космос? В какую сторону должно измениться сознание человека?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/504/5047ca17566bf6af44128245922da309.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Нацпроект: Бедность]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f72/f722591802092a2c00e1676985168f77.jpg" width="175"/></td></tr></table>Бедность в России, проблема не новая, хорошо знали что такое бедность, в царской темной России. Забывать начали что это такое в советское время, но, смена власти вновь, вернула нас в отправную точку. Мы снова хорошо знаем что такое бедность и каково это быть бедным. Но в беспросветном мраке, мелькнула искра, в государстве решили бороться с бедность. Как и кто, поговорим об это в ролике.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a63/a63c32b34ec6d3eaeeedf55435087bd9.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Нефть добьет рубль]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/05a/05aaa0a8916212089e609b2585cf97b9.jpg" width="175"/></td></tr></table>В состоянии ли ЦБ стабилизировать ситуацию в российской экономике? Кого может потеснить РФ на рынке нефти? Сколько % от ВВП состовляет Фонд Национального Благосостояния? Кому выгодно падение цен на нефть? В чьих интересах дешёвое ""чёрное золото""?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/fe1/fe1b8279f41781cd6704cebb14eeeef9.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Нефтяная игла России]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f62/f62165037ef2e76674e68973152b709c.jpg" width="175"/></td></tr></table>Кто или что сейчас кормит Россию? За чей счёт банкет? Почему наше будущее печальнее, чем будущее крестьян в царской России?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/ddb/ddbff6b85dbe78799fce9e7fc6b0ff24.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Нефтяная война проиграна]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ab8/ab8bfb4d7b2d647dfe796199b2254049.jpg" width="175"/></td></tr></table>Что происходит в переговорах по нефти? Зачем Россия присоединилась к ОПЕК+? Что главы нефтяных компаний говорили Владимиру Путину? Кто руководит энергополитикой саудитов? Изменит ли соглашение ОПЕК+ ситуацию на рынке чёрного золота? Как РФ проиграла нефтяную войну?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/3d6/3d617660859a4d51357f66a5ee4d73d1.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Нефтянная война 2020]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8ba/8bada2c94120c4286146d1062afa8845.jpg" width="175"/></td></tr></table>Блогер, политолог Анатолий Несмиян о сильном обвале цен на нефть и взлете курса доллара  до 72 рублей и евро до 82.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/da4/da472ece4c31a6176b51c1877d5bb80a.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Нет денег? Отдай детей!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/29e/29ecd550ce290c4c6350603a4241411e.jpg" width="175"/></td></tr></table>Анастасия Кульпетова, исполнительный директор фонда «Константа»:]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/0e4/0e4b88c51cd3ead874959d226605b097.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Ни церкви ни государства]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/484/48476f37a7b66946fd5f885a2173f520.jpg" width="175"/></td></tr></table>Почему РПЦ МП еретическая церковь? На каком уровне находится религиозная грамотность у населения? Как переводится на русский язык слово ""Израиль""? Что такое экуменизм? Кто захватил власть в церкви? Что сказал Христос во время нагорной проповеди?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/5a5/5a55648a8d63ea6508e24739716ee24a.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Норманская теория - религия русофобов]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5bc/5bc10dd7e52e06a267a606105e02b241.jpg" width="175"/></td></tr></table>Как рождаются исторические мифы? Как ведут пропаганду русофобы?  Кто такие русские? Как образовалась ""терминологическая каша"" в понимании людей? Сколько предателей в армии США было во Второй Мировой войне? Кого можно считать патриотом? Оружие - это сила или слабость? Состоятельна ли норманская теория?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/ce5/ce553b4bc6d8384af167551c029b90be.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Новый этап уничтожения России]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fd3/fd39cdf55e4e3190ea03a5abfc21f1d3.jpg" width="175"/></td></tr></table>Клинический психолог Жанна Тачмамедова  о том, кому выгодно протащить закон о профилактике семейно-бытового насилия, кто за этим стоит и зачем этот закон нужен?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/30f/30fbc1bc3807777a4d81223d9bb25fb9.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Они пойдут в Сибирь]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ee1/ee1fcfe9a59bfe9c39195afb35b4835c.jpg" width="175"/></td></tr></table>Профессор РАН, доктор физико-математических наук Людмила Кузьминична Фионова о чудовищной опасности, надвигающейся на Россию с востока.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f9c/f9c543bb5c36f14511bca843bf98f6bd.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ""Отечество в опасности""]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/49f/49f91d2c75b1b5a438723a64e1a000c7.jpg" width="175"/></td></tr></table>Доктор экономических наук, учёный-экономист, публицист Валентин Катасонов об экономической ситуации в мире и эпицентрах финансового кризиса.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/4f5/4f5753d02fb572d7b1b2bb63b905a6a1.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Парад отставок... Кто следующий?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/b28/b28150ede4150c5b5a5f36433d8ec49b.jpg" width="175"/></td></tr></table>С чём связаны последние отставки губернаторов? Есть ли связь с пандемией коронавируса? Какую политику относительно регионов проводит Кремль 20 лет? Какой политический образ у Владимира Путина? Почему решено ""кошмарить"" бизнес? Как в Москве ""оптимизировали"" систему здравоохранения? Путинская ""вертикаль власти"" выиграла или проиграла от ""губернаторопада""?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6e1/6e138eb0b974d0bc66c08ff37d65cc9d.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ People больше НЕ хавает]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/826/826d5fc7b9b8d7acd0d7b693460a9245.jpg" width="175"/></td></tr></table>Публицист, блогер ""Soiz"" Василий Юрьевич Пушкин об отставке Медведева, о мифологизации Путинской системы, о потере горизонта, о демографии и об ощущении нарастающей неопределенности.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/98b/98b3dfa24d44934e3816f1279eecaa25.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Репрессии в Луганске]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/dbc/dbce719dde4a880ff6735f8f7128df6d.jpg" width="175"/></td></tr></table>Правозащитник Ирина Белова о том, что происходит в ДНР и ЛНР с ополченцами первой волны и добровольцами из РФ. Почему их бросают в застенки, кто в этом виноват, и что нужно делать.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/147/147676107e1fd82b4ecc492114745063.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Скорая помощь теперь как такси?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/daa/daa789eb8091b841cc6c0a0a71342209.jpg" width="175"/></td></tr></table>Представитель Информационного Агентства «Накануне.RU» Павел Пивоваров о забастовке водителей скорой помощи в Екатеринбурге.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/699/6991ff249311c7e5efd406deb44b67f4.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ События 90-х покажутся шалостью]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/70b/70b80eb22333e910ff0878fc7eb81cd1.jpg" width="175"/></td></tr></table>Почему проправительственные СМИ подставляют президента? Есть ли смысл провластным журналистам стараться? Почему у обывателей ""позитивные"" новости вызывают восхищение? Сколько лет надо, чтобы исправить разруху от перестройки? В чём заключается стратегическая ошибка Владимира Путина?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b64/b64b159add0b3139555b7b5379abddf3.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Сверхсмертность в РФ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/b89/b897fa0312061bbc3b0a7eaab9e7ad0d.jpg" width="175"/></td></tr></table>Зачем Володин поручил создать комиссию по выявлению сверхсмертности в центральных регионах РФ? В чём смысл операция ""Уран-2""? По каким критериям надо относиться к демографической ситуации в встране? Что такое избыточные смерти? В какие годы Россия потеряла больше всего своего населения? Какая цель рождаемости стоит к 2024 году? Для чего нужно публичное обсуждение рождаемости?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/0cd/0cdf11f2a62674bfb90318fdaf603ef9.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Тихая война в Шиесе]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/39e/39e970e2d99890f970bf71311b1af123.jpg" width="175"/></td></tr></table>Первый секретарь РесКома КПРФ республики Коми Олег Михайлов и юрист, экоактивист Оксана Владыка рассказывают про то, каким образом местным жителям удалось выиграть первое сражение против «системы» и про то, на что готов пойти народ, чтобы довести дело до конца.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/8c1/8c1761ef0e0a1f43abe4201fbc4d19be.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Убийственный проект]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/aa1/aa11bd64a8c6833ef73ad8f10ef42c2e.jpg" width="175"/></td></tr></table>Журналист, общественный деятель Иван Жушман о строительной мафии г.Москвы и об угрозе уничтожения русской культуры, о нарушение экологии города.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9a8/9a874344677ed9c4bfa56b4a3c5572a3.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Унитазные ""инвестиции"" Чубайса, или ""заграница нам поможет""?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/90f/90f54936e81694f5daa1e73c7636b143.jpg" width="175"/></td></tr></table>Юрий Степанович Рябцев, доктор технических наук, профессор, лауреат Ленинской и Государственной премий, один из создателей вычислительного комплекса системы ПРО С-300, С-400, С-500 рассказывает о необходимости максимального развития технологий любыми средствами.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/19e/19eedf0067755b91761b1740e8790287.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ В Америке больше нет мужчин]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/1c6/1c631b6fce9e4f7592da7f492c325588.jpg" width="175"/></td></tr></table>Вторую часть можно посмотреть на новом канале перейдя по этой ссылке :https://www.youtube.com/channel/UCMYxuPQId-JRp-EK6NHsMzA]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f9f/f9ff82855685ccfb9962ec9ae4f3f3f3.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Всё спишут на вирус]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a6f/a6ff92e2b1a3dbcfec56baf451148f3e.jpg" width="175"/></td></tr></table>Как себя ведут власти и народ во время пандемии? Какая обстановка в Латвии? Что говорят медицинские работники? Были ли примеры аналогичной паники в истории? Будет ли ужесточение карантина? Какой совет можно дать людям в сложившийся ситуации?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/0b1/0b190ff012e460563f3bcbd9b471f689.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Взрывы домов на фоне КОРОНАКРИЗИСА]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/801/8010b06c95a4b1083cbadfe00227c29b.jpg" width="175"/></td></tr></table>Может ли взрыв газа в доме в Орехово-Зуево быть терактом? Насколько народ озлоблен в наше время? В каком состоянии система ЖКХ в РФ? Как люди выдержат месяц без работы? Какие действия совершает президент РФ в сложившийся ситуации? Какие взаимоотношения между Путиным и региональными элитарными кланами? Какие негласные правила распространены среди губернаторов? Как себя вести простым людям сейчас?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/690/690c4771ae0b26e1aad901d847bb437d.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Зачем существует человек?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/2ab/2ab241a8d0119efba4c0a43dc868d901.jpg" width="175"/></td></tr></table>Профессор, специалист по ядерной физике и атомной энергетике Игорь Острецов рассказывает о том, какую роль в истории человечества сыграл СССР.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b21/b21e20cc6e4b4a22dff439b544dc8b49.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Затишье перед бурей]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/cc9/cc9e8b502df0c2f7b62aa65721482189.jpg" width="175"/></td></tr></table>Что сейчас происходит в Сирии? Какие действия идут со стороны турецкой армии? Какое соотношение сил у тех на Ближем Востоке? Как себя может повести армия РФ? Вступит ли Анкара в открытую войну с Дамаском? Сколько будет продолжаться нынешняя патовая ситуация? Как себя ведёт Башар Асад? В каком случае регион покинут американцы?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6bc/6bcf960a33164c8f06f8ae209da15229.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Он вам не Собянин]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fa3/fa3b55ecf1102670529e5d191bb4e2e9.jpg" width="175"/></td></tr></table>Журналист, общественный деятель Иван Жушман о новых поправках в закон строительной мафии г.Москвы и об угрозе радиоактивного заражения мегаполиса при строительстве юго-восточной хорды.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6f4/6f477f3738902ea8558e60cb091d065e.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Перепись бедных]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/786/78613007d8ac48aa4fd9587e680a6437.jpg" width="175"/></td></tr></table>Статистик,  доктор экономических наук, профессор Василий Михайлович Симчера отвечает на вопрос: сколько на самом деле бедных в нашей стране. 19 или 35 миллионов? Кого считать бедными? Кто такие «псевдобедные», и кто  «абсолютно бедные»?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/620/620c1c6af5e5dab50bfa7edeab0b40cc.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Ложь Польши]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/db2/db271f7591bfd5def4f239b856a10c4e.jpg" width="175"/></td></tr></table>Глава МИД Польши Яцек Чапутович заявил, что Варшава одержала победу в «историческом споре с Россией». «Мы заткнем поганый рот, который открывают некоторые деятели за бугром», - сказал президент Владимир Путин, пообещав открыть центр архивных документов о Второй мировой войне.  Эту ситуацию анализирует профессор кафедры истории России МПГУ, кандидат исторических наук Герман Артамонов.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/0ab/0ab38cd00cc5852dc9a2c5b0039d1c45.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Конфликт со львами. Тайган]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/382/382bac5e1bf95f97584790b8c3323fc3.jpg" width="175"/></td></tr></table>Директор института ИГСО Борис Кагарлицкий комментируют ситуацию, сложившуюся вокруг парка львов «Тайган» в Крыму и его директора Олега Зубкова.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/ecc/ecc07197423dadb1f30aa7c603ddd377.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Миссия Русских]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c8d/c8d169d117204c71538e9919260508c2.jpg" width="175"/></td></tr></table>Полковник ГРУ, кандидат наук Владимир Квачков отвечает на вопросы: слишком ли большая территория у России и есть ли резон с кем-то делиться?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/194/1942e651b89e5513e78066d217c496e3.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Конституция НЕ гарантирует]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5bc/5bc04ce1d96822957a0b9de10baac3b4.jpg" width="175"/></td></tr></table>Писатель и публицист Юрий Игнатьевич Мухин о реформе конституции РФ, о трёх ветвях власти, о гаранте конституции, прав и свобод граждан России и о том, что затеяли в Кремле.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/fa1/fa1f19fbb22ac07d66b30ecc6dff0f68.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Куда ещё хуже?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ee1/ee195d449be8caa7697dda1fd367046a.jpg" width="175"/></td></tr></table>Депутат Саратовской областной думы от КПРФ Николай Бондаренко про набор качеств которыми обладают руководители нашей страны.Какие кадровые решения принимает власть? К чему это всё приведёт?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/479/4797f2f24fe57f5736179f7aebc16a53.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Куда пойдёт Белоруссия?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/280/280087a9e824e5c8c8463feac0694bad.jpg" width="175"/></td></tr></table>Политолог, редактор интернет-портала «Евразия. Эксперт» Петр Петровский о том, как «Газпром» и другие топливо-энергетические корпорации, принадлежащие олигархату РФ, используя бюджетное правило, обдирают  и Белоруссию, и российских налогоплательщиков; об угрозе поглощения белорусской экономики и о том, куда Александр Лукашенко поведет свою страну.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/443/4434e9904cdcd9382fb4f03e0965fa58.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Чёрное небо над Красноярском]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/71e/71e5b60f84a20897217f18643e19c49f.jpg" width="175"/></td></tr></table>Экономист и финансовый аналитик Владислав Жуковский о чудовищном состоянии экологии в Красноярске и о том, что необходимо сделать для изменения ситуации. С чем связано замалчивание экологической катастрофы в Сибири? Можно ли назвать это экоцидом? Как больше миллиона человек оказались в ""газовой камере""? Почему богатый Красноярский край последние несколько лет находится на грани экологической катастрофы? Как прорвать замалчивание в федеральных СМИ? Что может помочь красноярцам, кроме огласки ситуации? Сколько человек должно выйти на митинг, чтобы федеральная власть сняла губернатора с поста?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a3b/a3b04c7b5d96914b698df27ba7f8ef1e.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кому принадлежит 70% России?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/b02/b028774338d5eb4c09b5f57fde5bcb92.jpg" width="175"/></td></tr></table>Какая доля у государства в российской экономике? В какой партии состоит глава ФАС? Какую компанию можно называть государственной? С какой скоростью продолжается приватизацию при власти Путина? Какая роль государства, как экономического актора? Как государство спасает крупные банки? Для чего создавался Фонд Национального Благосостояния? Чему учат в Высшей Секте Экономики? Почему ""кругом всё государственное"", но государство с этого ничего не получает? Что такое социализация предприятий? Для чего либералы лгут в своей пропаганде? Для чего надо изучать политэкономию? Рассказывает кандидат экономических наук Олег Комолов о том, кому принадлежит львиная доля собственности в России.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/fd6/fd6d396bae1a5184305272bae6c99c50.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Клинический путинизм]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/b16/b1632e7f791812b09ed3f812fc741305.jpg" width="175"/></td></tr></table>Поэт, журналист, общественный деятель Дмитрий Чёрный о том, кто такой Захар Прилепин? Когда он стал писателем? Был ли он ополченцем в Донбассе? Когда он стал владельцем ""Хутора Захара Прилепина""? Зачем он создаёт партию ""За правду""? Какие отношения у Прилепина с Путиным?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/80b/80b09d21172292af179d7b871bfeaf15.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Власть не способна управлять]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/668/66849072976f602b8a45ea399f89fb5e.jpg" width="175"/></td></tr></table>К чему приведёт паника по коронавирусу? Будет ли карантин? До чего довели ""реформы"" медицины? От чего в Италии происходят летальные случаи? Как коронавирус превращается в политику и экономику? Какие сценарии могут быть в России весной?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/623/623a3cade6b512a84471083c60572641.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Будем сопротивляться]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/06e/06e347798da30cc766aff2e7e31803b5.jpg" width="175"/></td></tr></table>Алексей Сороковой, координатор ""ОПР"" о сопротивлении безумству властей.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cdc/cdcea2ae669e8af402f90fd58d50282f.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Обращение к полицаям]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/824/8247eed14c84ce0087b5dde3d41f0d7a.jpg" width="175"/></td></tr></table>Для каких людей пропуск в Москве обязателен? Где находятся серверы контроля за гражданами РФ? В каком случае полицейский нарушает закон о полиции? Как власть имущие манипулируют юридическими понятиями? Какой совет можно дать сотрудникам МВД?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c8f/c8f36f85853e4bf076f90a9e037a52f2.mp4]]></stream_url>
+<category_id>26</category_id>
+</channel>
+
+
+</items>
