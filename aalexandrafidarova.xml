@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>АлександраФидарова</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Где ты, наш доктор?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/003/003b07e1a7d65af93a3cd949bb4b3cd1.jpg" width="175"/></td></tr></table>Старый плакат «Врач – друг народа», но как-то так стало, что врач стал не только «не другом народа», а скорее «пугалом», ведь самое страшное, что может быть это столкнуться с нашей системой здравоохранения.  Что происходит в российской медицине, куда делись «наши врачи», и как это выглядит в статистике? Об этом и не только в передаче.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9ec/9ece318550ff72b0bfc9fb2c6ac230bd.mp4]]></stream_url>
+<category_id>35</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кровные метры]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/85a/85ac1314ac61229a9b78bdf49efff765.jpg" width="175"/></td></tr></table>Жилье, дом, очаг-романтично, тепло и поэтично звучат эти слова. Чай с плюшками, кошечка на окошечке и прочая «милота». Хорошо рассуждать, когда у тебя есть дом. Когда дома нет, рассуждать об этом не хочется. Хочется иметь свой угол, и вот тут-то реальность приземляет воспарившую было мысль. В России половина семей не может позволить себе купить или улучшить жилищные условия. И вероятно, не сможет никогда решить этот острый вопрос, об этом и не только, рассуждаем в видео.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e92/e92b18f7547d129ce974f3270667cbf9.mp4]]></stream_url>
+<category_id>35</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кто сегодня молодец?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d82/d8274a0d115c25bf3fa31cc272d95acb.jpg" width="175"/></td></tr></table>Кто сегодня молодец? Порассуждаем на примере Екатеринбурга. Ведь, в конце концов, важно лишь кто победит. Именно их и запомнит история.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cf0/cf0a0f77333e46962c6416f95f482ee1.mp4]]></stream_url>
+<category_id>35</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кто заказывает шоу?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/90d/90daf0272a89bdfced421031e4ed1d2c.jpg" width="175"/></td></tr></table>Телевидение всегда и при любых режимах и властях было орудием пропаганды и агитации. Таковым оно остается и сейчас. Кто платит за это увлекательное шоу? Что воспитывает ""черное зеркало""? экрана? Что изменит приход новых социальных медиа, и ютуба? Поговорим об этом в выпуске.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f83/f8396ba0a3cc6b1ab2027385f41c9b00.mp4]]></stream_url>
+<category_id>35</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Нацпроект: Бедность]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f72/f722591802092a2c00e1676985168f77.jpg" width="175"/></td></tr></table>Бедность в России, проблема не новая, хорошо знали что такое бедность, в царской темной России. Забывать начали что это такое в советское время, но, смена власти вновь, вернула нас в отправную точку. Мы снова хорошо знаем что такое бедность и каково это быть бедным. Но в беспросветном мраке, мелькнула искра, в государстве решили бороться с бедность. Как и кто, поговорим об это в ролике.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a63/a63c32b34ec6d3eaeeedf55435087bd9.mp4]]></stream_url>
+<category_id>35</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Охранительство или протест?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/449/449ea48488963e816e96a30626089306.jpg" width="175"/></td></tr></table>Выбор без выбора, или выбор, в котором нам нечего предложить. Левые и патриоты оказались в неприятной ситуации, нас заставляют выбирать между поддержкой либерального протеста и охранительством. «По-хорошему» и то, и то неприемлемо. Но и остаться на обочине истории, маргинальными и неактуальными сегодняшнему дню нельзя. Рецептов нет и перспективы пока смутны и загадочны.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f79/f79fd39db8b02bc929fe214aabb40bcf.mp4]]></stream_url>
+<category_id>35</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Россиянин]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e3a/e3adb34a960ac3cb43524f64a78ca246.jpg" width="175"/></td></tr></table>В прошлом выпуске мы говорили с Вами об образе советского человека. С современником все проще. Мы можем не только ""видеть"" его образ и подробно изучать его ценности, формируя портрет ""россиянина"" живущего сейчас. Вот о нас с Вами, ныне живущих россиянах и поговорим. Как поется в одной известной песне ""смотрюсь в тебя, как в зеркало, до головокружения"". Не можем сказать, что портрет современника нам идейно близок. Но реальность, как говорится, диктует свои условия.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/7be/7be57773345aeca5b1d24b29f27e05e3.mp4]]></stream_url>
+<category_id>35</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Спасибо деду за победу]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/bb3/bb3a7de01aa2cd30e6f6ee5251782cc9.jpg" width="175"/></td></tr></table>Авторская программа режиссёра-документалиста Александры Фидаровой, посвящённая годовщине Великой Победы и не только...]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/4f6/4f672e09cd74403ac3582a2b1b297316.mp4]]></stream_url>
+<category_id>35</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Нацпроект: Бедность]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f72/f722591802092a2c00e1676985168f77.jpg" width="175"/></td></tr></table>Бедность в России, проблема не новая, хорошо знали что такое бедность, в царской темной России. Забывать начали что это такое в советское время, но, смена власти вновь, вернула нас в отправную точку. Мы снова хорошо знаем что такое бедность и каково это быть бедным. Но в беспросветном мраке, мелькнула искра, в государстве решили бороться с бедность. Как и кто, поговорим об это в ролике.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a63/a63c32b34ec6d3eaeeedf55435087bd9.mp4]]></stream_url>
+<category_id>35</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Герой Творец Потребитель]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/789/789baf6084550f932a2c44b97ea03920.jpg" width="175"/></td></tr></table>""Ты ж советский человек"" - не просто цитата из всеми любимого фильма. За этой цитатой стоял и стоит определенный образ. Образ в данном случае не только явление культурное, но и нравственное. Советский человек как образ и как нравственный ориентир никогда не был ""консервами времени"", он был отражением времени в котором жили конкретные люди. О нравственном выборе, советском человеке и его образе, поговорим в этом выпуске авторского блога.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cdc/cdc0b30b3106b060d734392e05cd011f.mp4]]></stream_url>
+<category_id>35</category_id>
+</channel>
+
+</items>
