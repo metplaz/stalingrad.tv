@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>История<</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ НАША ЗОЯ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/53c/53ca52cf955f0173e997a3c4be30f386.jpg" width="175"/></td></tr></table>Владимир Васильевич Квачков у памятника Зои Космодемьянской. Что известно советским разведчикам о легендарной комсомолке? Кто были её родители?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/1c3/1c320207bba066e6e94f65f5903f49a0.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Афган - 30 лет назад..]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/b41/b41e31e9e37c085c2dee39765eede6db.jpg" width="175"/></td></tr></table>Выпуск канала Сталинград в честь 30-ти летней годовщины вывода Советских войск из Афганистана. 15 февраля 2019 года на Поклонной Горе в городе Москве прошёл митинг посвящённый этой дате. Этот новостной выпуск мы посвящаем воинам-интернационалистам, всем павшим героям афганской войны. В ролике прозвучали музыкальные композиции Андрея Климнюка ""Февраль"" и ""Сон"".]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/adc/adceb469fe09de4040f2687f10e0fe3c.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Конституция: кто виноват и что делать?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/459/459b7145a9a752dca60cf3a61b44fdcc.jpg" width="175"/></td></tr></table>Юрий Жуков о тупиковом состоянии российского общества. Липовая конституция. Ельцин. Путин. Собянин.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/8ae/8aed240c5df20deaa58b7cf99c83d27b.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кто был прав?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/639/63927bd1910b24bb9c0a96d57acc4340.jpg" width="175"/></td></tr></table>Российский историк спецслужб Александр Колпакиди о причинах развала СССР, национализме, бандитах и взглядах Ленина,  Сталина и Троцкого.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/825/825c41a0a60e3bca8b61ab6af5375d55.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кумиры Путина - агенты США?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c6b/c6bf891e28a9bc4e054b62d67a12af6e.jpg" width="175"/></td></tr></table>Историк Юрий Николаевич Жуков о фальсификаторах отечественной истории и странной любви к ним президента РФ.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9cf/9cf240d47b98d7c1ea4ce856457e87a3.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Ложные цели красных блогеров]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/421/421ee2318f79d9f59c1db9f783a36b4d.jpg" width="175"/></td></tr></table>Кандидат исторических наук, археолог и основатель канала ""Красное ТВ"" Олег Двуреченский о проблемах современного левого блогерства в России. Нужно ли коммунистам конкурировать с Навальным? Как должен выглядеть настоящий марксистский кружок? Что надо делать красным блогерам?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a58/a58173f6abf3fee90c917e5d97a00087.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Мы никогда не были рабами!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/aaa/aaa98301b1d7aac76197141f50ca5280.jpg" width="175"/></td></tr></table>Историк Олег Двуреченский  про миф о долготерпении русского народа, и о мирном характере русского мужика. Так ли это?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6fb/6fbe05f342a9fabe0e75d22067e6d7dc.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Неизвестный Сталин]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/146/14679ad8369d32050d778e9df8106246.jpg" width="175"/></td></tr></table>Доктор исторических наук, главный научный сотрудник российской истории РАН Юрий Николаевич Жуков про истинные масштабы причины и следствия сталинских репрессий. Мог ли Сталин прекратить политические репрессии? Почему репрессии были, есть, и будут всегда? Какое общество хотел построить И.В.Сталин?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/2e2/2e21833b5a3a057f91ccaf8339ce07a6.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Операция «Уран». Подвиг советского человека]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/883/8832592857d1b88473f7ecacbd870af3.jpg" width="175"/></td></tr></table>Кандидат исторических наук Юрий Никифоров об операции ""Уран"", приказе 227, Сталинградской битве и Героях Советского Союза времён Второй мировой войны.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cc5/cc5c0dc0d26331f9808bb6afc9e8d0c9.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Письма немцев из Сталинграда]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/b8e/b8e655cc1ae3f59da43c972e20034563.jpg" width="175"/></td></tr></table>Председатель отделения Российского военно-исторического общества (РВИО) Александр Владимирович Макушин о роли Сталинградской битвы в истории. За что сражалась советская армия в Сталинграде? И о чём не принято говорить?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/bd1/bd12db51c36b9fd45d4909186b7c9828.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Разница в воспитании]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f9e/f9e546e12ae23a1e5c83ceb33af9f4cc.jpg" width="175"/></td></tr></table>Разница в воспитании Видео на канале Сталинград]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/5b2/5b289dd73eab58e88936b81b3c90f3b0.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ""Россия и Запад - два пути""]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/2a5/2a5f25e9f3c473c097a1cc0e18087efa.jpg" width="175"/></td></tr></table>Доктор исторических наук Вардан Багдасарян об уникальности исторического пути России. Чем мы кардинально отличаемся от Запада? Почему коммунизм чисто русское понятие?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/3e0/3e0fdd613763624d6e4ca612b81a2965.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Сериал ""Зорге"" - культурная оккупация]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/05d/05df778fd887be7a30d37c4adbf54a3a.jpg" width="175"/></td></tr></table>Российский историк спецслужб Александр Колпакиди про сериал Первого канала ""Зорге"", про ненависть ""нашей власти"" к советской истории, и о том, ради чего перевирают  легендарное прошлое накануне Дня Победы.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/3f0/3f0873b522673159f8c6b018fc272a95.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Штурм Белого Дома]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/eef/eef32ef5069303ada07f3dc04fb3eea6.jpg" width="175"/></td></tr></table>В этом выпуске мы вспоминаем события 1993 года, 26 лет назад ельцинизм уничтожил последние островки Советского законодательства и заложил основы для будущей эпохи Путина. Нужно ли помнить те трагические события для понимания современной политической обстановки?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f92/f92d3c7b21fabbc64ca38fc60f233bb1.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ СТАЛИНСКИЙ ПОЛК. ДЕНЬ ПОБЕДЫ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/884/8849eaf4a8504d02f42885edad2fdb15.jpg" width="175"/></td></tr></table>Группа ""СТАЛИНСКИЙ ПОЛК"" в ВКонтакте: https://vk.com/stalinskypolk Глава Общественного Движения ""СТАЛИНСКИЙ ПОЛК"" Эльдар Хасанов о значении празднования Дня Победы для нашего народа.
+Общественный активист Евгений Злобин из Перми рассказывает о тех препятствиях, которые ему создавали организаторы пермского ""Бессмертного полка"" и представители правоохранительных органов в его попытке участвовать в этом шествии с портретом Сталина и Знаменем Победы. Советский изобретатель, публицист Юрий Мухин о значении Знамени Победы и о том, почему он поддерживает идею СТАЛИНСКОГО ПОЛКА. УСТАВ ОБЩЕСТВЕННОГО ДВИЖЕНИЯ «СТАЛИНСКИЙ ПОЛК»: 1) Общественное Движение ""СТАЛИНСКИЙ ПОЛК"" главными своими задачами ставит: - защиту исторической правды о советском периоде российской истории; - борьбу с антисоветчиной, русофобией и нравственным разложением общества; - пропаганду идей справедливого и социально ориентированного государства; 2) Принимая участие в Общественном Движении ""СТАЛИНСКИЙ ПОЛК"", человек соглашается с тем, что первое в мире социалистическое государство было примером справедливого общества, несмотря на всю сложность и неоднозначность процессов, происходивших в СССР. 3) Принимая участие в Общественном Движении ""СТАЛИНСКИЙ ПОЛК"", человек соглашается: - участвовать в митингах, шествиях и демонстрациях, организованных Общественным Движением; - оказывать всемерную поддержку в распространении агитационных материалов Общественного Движения; - пропагандировать идеи справедливого общества; 4) Участие в Общественном Движении ""СТАЛИНСКИЙ ПОЛК"" является добровольным и не может служить ограничением для участия в других коммунистических, социалистических, патриотических и иных социально ориентированных партиях или движениях. 5) Человек, принимающий участие в Общественном Движении ""СТАЛИНСКИЙ ПОЛК"", осознаёт всю важность борьбы против любых проявлений антисоветской пропаганды, наиболее вопиющими примерами которой являются: - фальсификация истории Великой Отечественной войны; - попытки оправдания нацистских преступников; - дискредитация высшего руководства СССР в период Великой Отечественной войны; - преуменьшение роли СССР в Победе над нацистской Германией и её союзниками; - приравнивание коммунистического СССР к нацистской Германии, а Сталина к Гитлеру; - драпировка Мавзолея В. И. Ленина на время празднования Дня Победы 9 мая; - запрет на красные флаги и портреты И. В. Сталина во время проведения акции ""Бессмертный полк""; - подмена символов Победы; - установка мемориальных досок и памятников нацистам и их пособникам; - выпуск художественных и документальных фильмов, книг и другой продукции антисоветского и русофобского толка; 6) Принять участие в Общественном Движении ""СТАЛИНСКИЙ ПОЛК"" может любой достигший совершеннолетия человек, соблюдающий Устав Общественного Движения «СТАЛИНСКИЙ ПОЛК». 7) Координация участников Движения осуществляется через Главный Штаб «СТАЛИНСКОГО ПОЛКА».]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/97a/97a5f6da8ac581df32a0a6d7833276ab.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ В чем уникальность СССР?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d0e/d0e2d9a88209e061670f9e135ebfc7d7.jpg" width="175"/></td></tr></table>Профессор, доктор биологических наук Сергей Савельев об использовании научных открытий в области структурного анализа мозга  в определении методологии создания элиты нового типа.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/052/0527fbc575b4e260225375306664ba99.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ВЕЛИКАЯ ОТЕЧЕСТВЕННАЯ или ВТОРАЯ МИРОВАЯ?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/708/70876b783a3c70ea3f00c96ae2b260f8.jpg" width="175"/></td></tr></table>Что такое Великая Отечественная и Вторая мировая? Как сейчас празднуют День Победы на постсоветском пространстве и о мифах, которые тиражирует капиталистическая пропаганда.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/49d/49d8599090dec71c7f896b6afaf72c63.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Зачем прилетал Матиас Руст?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/00b/00badb2e86b47d82ba4befdf91f59f8a.jpg" width="175"/></td></tr></table>Инженер-физик Алексей Золотарёв про события 28 мая 1987 года, перелёт Матиаса Руста через границу СССР и посадку на Красной площади. Что это было, совместная спецоперация советских и зарубежных спецслужб или «Мост дружбы народов»?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f71/f71f12ff5035cc6b1d72ff747386eda7.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Революция. РПЦ. 1917 год]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/0f6/0f6a2d761bdb2fc3a5d28b359f4d852e.jpg" width="175"/></td></tr></table>Какую роль в свержении элиты в 1917 играла церковь? На какой исторической развилке оказалась Россия с 3 марта 1917? Какой комплекс мер предпринял синод, чтобы снять вопрос о монархии с повестки дня? Отрекались ли приемники династии Романовых от престола? Почему никто не вышел на поддержку царя? Почему церковь поддерживала республику? Когда кординально поменялась форма власти в России? Говорит доктор исторических наук Михаил Бабкин о роли РПЦ в свержении монархии в России.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/19e/19ee43e921102b8e83432774c18d9d0b.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
+
+
+</items>
