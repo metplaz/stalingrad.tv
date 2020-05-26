@@ -18,7 +18,12 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
 
- 
+ <channel>
+<title><![CDATA[ ЛЕКЦИЯ №29. ТАКТИЧЕСКАЯ МЕДИЦИНА. ОБЗОР СНАРЯЖЕНИЯ ТАКТИЧЕСКОГО МЕДИКА.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a38/a38bd147c0a3cdcdf6b3463214aa62e8.jpg" width="175"/></td></tr></table>Какое снаряжение лучше всего использовать? В чём ценность подручной сумки для полевого медика? По каким критериям надо выбирать рюкзак? На что нужно обратить внимание при выборе аптечки? Какие бывают подсумки?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d28/d286df17c4bf50c78cf58f21c116559c.mp4]]></stream_url>
+<category_id>26,24</category_id>
+</channel>
 <channel>
 <title><![CDATA[ ЧТО БУДЕТ В АМПУЛАХ.]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/df5/df5b1fad02e3636f610da8eddae68a40.jpg" width="175"/></td></tr></table>Опасны ли готовящиеся прививки для людей? Сколько времени надо на изготовление вакцины? Были ли в истории, когда насильственно вакцинировали людей? Как закончили врачи Третьего Рейха, которые проводили опыты на людях? Какой совет можно дать врачам в РФ?]]></description>
