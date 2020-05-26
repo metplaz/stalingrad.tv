@@ -1670,86 +1670,11 @@
 <description>Общество/description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/robshestvo.xml]]></playlist_url>
 </channel> 
-  
- <channel>
-<title><![CDATA[ Итоги 2019 года. Константин Сивков]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/806/8067039919122211508fe558d54f29eb.jpg" width="175"/></td></tr></table>Военный эксперт, доктор военных наук Константин Сивков подводит политические итоги.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/fbf/fbff074942d5b051b809d5bb8b34d5c7.mp4]]></stream_url>
-<category_id>21</category_id>
-</channel>
 <channel>
-<title><![CDATA[ Кто сбил ""боинг"" в Иране?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/148/148112273489f26d10c7d0f4e0d6f057.jpg" width="175"/></td></tr></table>Полковник ГРУ, кандидат наук Владимир Квачков анализирует несостоявшуюся войну Ирана и США, а также, возможные причины катастрофы ""Боинга"" 8 января в пригородах Тегерана.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/161/161d3e7fbc72d1f2763ad2a5777fb1c6.mp4]]></stream_url>
-<category_id>21</category_id>
+<title>Политика</title>
+<description>Политика</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/rpolitika.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Мы не знаем где рванет]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/48e/48e6e8f223d2401167c0fc3654f3d667.jpg" width="175"/></td></tr></table>Блогер, политолог Анатолий Несмиян (Эль-Мюрид) о революционной ситуации, о трансфере власти и базовом противоречии, о «региональной вольнице».]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/69b/69b97db25220e5516244379ab101158d.mp4]]></stream_url>
-<category_id>21</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Нефтяная война проиграна]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ab8/ab8bfb4d7b2d647dfe796199b2254049.jpg" width="175"/></td></tr></table>Что происходит в переговорах по нефти? Зачем Россия присоединилась к ОПЕК+? Что главы нефтяных компаний говорили Владимиру Путину? Кто руководит энергополитикой саудитов? Изменит ли соглашение ОПЕК+ ситуацию на рынке чёрного золота? Как РФ проиграла нефтяную войну?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/3d6/3d617660859a4d51357f66a5ee4d73d1.mp4]]></stream_url>
-<category_id>21</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Новый президент от Кремля]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/4a0/4a0f2611110b391dbcdbb2461b951b8d.jpg" width="175"/></td></tr></table>Какие цели сейчас стоять перед властью в РФ? Что такое управляемый бунт? Что является крайней мерой для сохранения режима? Какие составляющие дадут человеку из власти понравиться сторонникам левой идеи? Может ли социалист стать президентом в РФ? Как могут отодвинуть реальную оппозицию? Для чего надо знать психологию толпы? Что в данной ситуации должно делать левое движение?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/2f2/2f294be0e9ea0355a90dda7142279959.mp4]]></stream_url>
-<category_id>21</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Оккупация Севера. Шиес.]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/9d8/9d84d3720ed2218298a56ea5d2fa9f70.jpg" width="175"/></td></tr></table>Первый секретарь РесКома КПРФ республики Коми Олег Михайлов рассказывает про сопротивление местных жителей против строительства  мусорного полигона в Шиесе.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9b5/9b591408aed3c7ab2efbaf6109faa844.mp4]]></stream_url>
-<category_id>21</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Окопная правда Новороссии]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/343/3435873734d9c3479c1593b57ce24ac8.jpg" width="175"/></td></tr></table>Донецкий публицист, общественный деятель Роман Манекин комментирует передачу Александра Рогаткина ""Окопная правда"" на канале ""Россия 24"", а также гражданскую войну в Новороссии. Что такое братание? Что такое атаманщина? Какой выход из этой войны?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/806/806ef7c18ebb7a60c4ce143e2e6ed64f.mp4]]></stream_url>
-<category_id>21</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Они пойдут в Сибирь]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ee1/ee1fcfe9a59bfe9c39195afb35b4835c.jpg" width="175"/></td></tr></table>Профессор РАН, доктор физико-математических наук Людмила Кузьминична Фионова о чудовищной опасности, надвигающейся на Россию с востока.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f9c/f9c543bb5c36f14511bca843bf98f6bd.mp4]]></stream_url>
-<category_id>21</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Путин 2099]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/7e6/7e6aab4c079de1c60bfb7f42d5660a3e.jpg" width="175"/></td></tr></table>Полковник ГРУ, кандидат наук Владимир Квачков о том, нужно ли объединиться националистам, монархистам, либералам и всем остальным для совместной борьбы с действующей властью? Какие шаги следует предпринять и чего делать нельзя?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9ff/9fff23a8a76127ee0fa371c4dd9c4a76.mp4]]></stream_url>
-<category_id>21</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Путин и его команда ..]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/458/4583c4e0aa675b22b90724cd14a6f33a.jpg" width="175"/></td></tr></table>ПОПОВИЧ Василий Андреевич - контр-адмирал в отставке, ветеран подразделения особого риска, член Антинацистского Международного комитета - даёт оценку антинародной деятельности ""президента"" России.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/4dc/4dc5ca8cffba0c3ba0327e8cd64d0aa8.mp4]]></stream_url>
-<category_id>21</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Путин в тротиловом эквиваленте]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/88f/88ff6ee402685d0a9883245f2d7dc968.jpg" width="175"/></td></tr></table>Бывший министр печати и информации РФ Михаил Полторанин о том, почему Ельцин привел Путина к власти, какое будущее ждет население страны, об экономической и политической ситуации в России и откуда берутся новинки наших вооружений.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/740/740def1edd2038d9c52ee88468fc6653.mp4]]></stream_url>
-<category_id>21</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Репрессии в Луганске]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/dbc/dbce719dde4a880ff6735f8f7128df6d.jpg" width="175"/></td></tr></table>Правозащитник Ирина Белова о том, что происходит в ДНР и ЛНР с ополченцами первой волны и добровольцами из РФ. Почему их бросают в застенки, кто в этом виноват, и что нужно делать.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/147/147676107e1fd82b4ecc492114745063.mp4]]></stream_url>
-<category_id>21</category_id>
-</channel>
-<channel>
-<title><![CDATA[ В Америке больше нет мужчин]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/1c6/1c631b6fce9e4f7592da7f492c325588.jpg" width="175"/></td></tr></table>Вторую часть можно посмотреть на новом канале перейдя по этой ссылке : https://www.youtube.com/channel/UCMYxuPQId-JRp-EK6NHsMzA]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f9f/f9ff82855685ccfb9962ec9ae4f3f3f3.mp4]]></stream_url>
-<category_id>21</category_id>
-</channel>
-
 <channel>
 <title>РаботаНадОшибками</title>
 <description>РаботаНадОшибками/description>
