@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>Аналитика</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Амнистия кредитов]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a54/a5430467192318782d72698954892348.jpg" width="175"/></td></tr></table>Доктор экономических наук, учёный-экономист, публицист  Валентин Катасонов о перспективе списания долгов кредитных должников, в том числе ипотечных, и о том, что нужно сделать для реализации этой программы, о реформе денежно-кредитной системы, о влиянии ЦБ на политику, об эффективности Эльвиры Набиулленой.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/285/285ba20d7ce9edfd382d5826fda789ea.mp4]]></stream_url>
+<category_id>2</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Чеченцы - личная гвардия Путина?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c81/c815ca521878bc37a8234c2845fe763b.jpg" width="175"/></td></tr></table>Генерал-полковник Леонид Ивашов о неравноправии регионов РФ.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/54e/54e97a31e7dca11cb22437b548229911.mp4]]></stream_url>
+<category_id>2</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ""Эффективная"" медицина]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ca3/ca3f8ef53e0d7880ad6004a55965d1da.jpg" width="175"/></td></tr></table>Экс Зам. директора НИИ детской онкологии и гематологии НМИЦ им. Н. Н. Блохина Максим Рыков рассказал о причинах банкротства детского онкоцентра.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/864/864449c1b03faa9a2ca42eb935d06598.mp4]]></stream_url>
+<category_id>2</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кто будет в новом правительстве РФ?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/848/848c085f2b8971aecd2339e0915e25d4.jpg" width="175"/></td></tr></table>Депутат Саратовской областной думы от КПРФ Николай Бондаренко о турбулентности во власти и в стране в целом.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9aa/9aa6af78d409c867f40a34f0aa10c287.mp4]]></stream_url>
+<category_id>2</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кто был прав?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/639/63927bd1910b24bb9c0a96d57acc4340.jpg" width="175"/></td></tr></table>Российский историк спецслужб Александр Колпакиди о причинах развала СССР, национализме, бандитах и взглядах Ленина,  Сталина и Троцкого.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/825/825c41a0a60e3bca8b61ab6af5375d55.mp4]]></stream_url>
+<category_id>2</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кто виноват в сбитом «боинге»? Магомед Толбоев]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8f7/8f79e403b8ea7cd2920dcd50d86a1942.jpg" width="175"/></td></tr></table>Герой России, летчик-испытатель генерал-майор Магомед Омарович Толбоев о том, кто на самом деле виноват в сбитом боинге под Тегераном.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c3d/c3d22e23912fbb5045a03ce3ee87799e.mp4]]></stream_url>
+<category_id>2</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Опаснее чем десять Навальных]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a33/a333645c352705577cf87baed53999cc.jpg" width="175"/></td></tr></table>Российский историк спецслужб Александр Колпакиди о  высказывании об ""убогом и клоачном"" русском языке преподавателя факультета гуманитарных наук Высшей школы экономики Гасана Гусейнова.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/147/14708420389f75a0176875dffe4fbc32.mp4]]></stream_url>
+<category_id>2</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Разница в воспитании]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f9e/f9e546e12ae23a1e5c83ceb33af9f4cc.jpg" width="175"/></td></tr></table>Военный историк, публицист Борис Юлин о том, кого воспитывали в СССР и сейчас.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/5b2/5b289dd73eab58e88936b81b3c90f3b0.mp4]]></stream_url>
+<category_id>2</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Трансфер власти запущен]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/edc/edcf83003cb37c80bd29d2d10199559a.jpg" width="175"/></td></tr></table>Экономист и финансовый аналитик Владислав Жуковский о трансфере власти в России.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b91/b9197f5c9bb8478f7cff58e6cc066155.mp4]]></stream_url>
+<category_id>2</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Учитель лакей?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/870/87093cc2869c3f12871d2bff2d2ae185.jpg" width="175"/></td></tr></table>Историк, писатель Фёдор Викторович Лисицын о современной системе образовании в России. Чем отличаются учебники стандарта СССР и современные учебники? Какую роль в этом процессе занимает учитель? Чем отличается современная система образования от системы образования в СССР?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/fad/fad9e60ed93dae89b4bcd498c8224cce.mp4]]></stream_url>
+<category_id>2</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Герой Творец Потребитель]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/789/789baf6084550f932a2c44b97ea03920.jpg" width="175"/></td></tr></table>""Ты ж советский человек"" - не просто цитата из всеми любимого фильма. За этой цитатой стоял и стоит определенный образ. Образ в данном случае не только явление культурное, но и нравственное. Советский человек как образ и как нравственный ориентир никогда не был ""консервами времени"", он был отражением времени в котором жили конкретные люди. О нравственном выборе, советском человеке и его образе, поговорим в этом выпуске авторского блога.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cdc/cdc0b30b3106b060d734392e05cd011f.mp4]]></stream_url>
+<category_id>2</category_id>
+</channel>
+
+
+</items>
