@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ТоварищАртём</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ НАРОД ПРОТИВ ФАШИЗМА]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/698/698624abd497cd0ddf882a91aad874bf.jpg" width="175"/></td></tr></table>Как патриотически настроенные граждане вступили в борьбу с полицаями 9 мая? Как воспрепятствовать фашистскому режиму РФ?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c8c/c8ca2d3b1a4c160ebc53596bbc3c2b5e.mp4]]></stream_url>
+<category_id>28</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Чернобыль - с чего начинается смута?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/15d/15dcddb4c54029788ac3f509b388498c.jpg" width="175"/></td></tr></table>Какая связь между выходом американского сериала ""Чернобыль"" и волнениями в Екатеринбурге вокруг постройки собора.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/da1/da1f02000bfff3aaeed9c3ea21b34530.mp4]]></stream_url>
+<category_id>28</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Донбасс. Технология предательства]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/772/772204d176bc3c982aed0c7598bb5143.jpg" width="175"/></td></tr></table>О том, что сегодня происходит в республиках Новороссии. Зачем руководство ДНР и ЛНР согнало бюджетников на акцию ""за украину""? Каким образом продвигается системная сдача позиций и слив Новороссии?  Как идет выдача паспортов РФ, а также о ситуации на границах республик.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b36/b3683cc303c2ce77d192ec91b61cd05c.mp4]]></stream_url>
+<category_id>28</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Как правильно сопротивляться ""новой нормальности""]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/304/3047ab38abea7915a257aa7bd4561e44.jpg" width="175"/></td></tr></table>Что означает справедливость в понимании Собянина С.С.? В каких странах идёт сопротивление так называемому карантину? Что заявил экс-глава МВД Австрии Герберт Кикль? Что выявила комиссия ВОЗ в Белоруссии? Что такое ""новая нормальность""? Почему граждане в карантине становятся ""стукачами""? Как эксперты в РФ разворачивают своё мнение? Как на наших глазах устанавливается общепланетарный контроль?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/03f/03f17ebbff056c8b4f5e8afc143b5ebb.mp4]]></stream_url>
+<category_id>28</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Хроника минского сговора. Порожняк Путина.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/64b/64b9c1c781accf0a3edca1b47aa19485.jpg" width="175"/></td></tr></table>Почему республики до сих пор не признаны? Чем занимаются депутаты Народного Совета? Какие договоренности были достигнуты в Париже? А также об отношении властей РФ к русскому народу.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/852/852901db82ed4be70793fa24a20beee9.mp4]]></stream_url>
+<category_id>28</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Когда умер Лужков]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/4ba/4ba0b09f93792ee9d29fd1cf5cc5c9e0.jpg" width="175"/></td></tr></table>10.12.19 Бывший мэр Москвы Юрий Лужков умер на 84-м году жизни.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/295/295466f486b632e9ddb500bfbf29327b.mp4]]></stream_url>
+<category_id>28</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Путин=Горбачёв]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/75d/75d43edc9532f6cee16ec47cd63c0c37.jpg" width="175"/></td></tr></table>За что полицаи винтят людей? Почему Беларусь - это оплот разума? Как наносят удар по 9 мая? Как АП управляет мнением врачей? Как собираются ""оптимизировать"" образование? Как СМИ манипулируют паникой? Что священнослужители думают о закрытии храмов на Пасху?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/230/23029d4043cc88e62c6d7e77acc6b821.mp4]]></stream_url>
+<category_id>28</category_id>
+</channel>
+<channel>
+<title><![CDATA[ СОБЯНИНСКИЙ ФАШИЗМ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/aa4/aa45a2d600dda4d3026cc39a7da73d80.jpg" width="175"/></td></tr></table>Что такое фашизм? Как проходит информационная атака на общество? В чьих интересах устроена экономика РФ? Как проходит контроль над гражданами? Какая криминогенная обстановка сейчас в России? Какой источник доходов у нефтяных олигархов? Какая роль у силовиков в нынешней ситуации? Что делать простым людям?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/586/58685849318a6ca3552bff736e8ea500.mp4]]></stream_url>
+<category_id>28</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Спецоперация «Концлагерь»]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e08/e08a6570c154d6476e29a6539eac5212.jpg" width="175"/></td></tr></table>Чем аукнется народу его молчание? Что происходит в Краснодаре? Что общего между Путиным в 2020 и Ельциным в 1992? Как ведёт себя мэр Москвы? Почему власть не помогает людям деньгами во время кризиса? Почему Владимир Путин передал федеральную собственность регионам? Чем насолили нынешней власти половцы и печенеги? Зачем в Краснодар перебрасывают войска? В чём особенности вируса COVID-19? Как работают пропагандистские СМИ в РФ? Почему либеральная оппозиция слилась в одно с путинским режимом? Силовики в России - это защитники или каратели?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/4eb/4eb97565b728a5cd238a0f06f3726702.mp4]]></stream_url>
+<category_id>28</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Суд над Стрелковым Цель – Россия]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/1fa/1fa1ab66ca68f30034d447791c4a08d4.jpg" width="175"/></td></tr></table>Начальник штаба славянской бригады и МО ДНР в отставке, Эльдар Хасанов об авиационной катастрофе, произошедшей 17 июля 2014 года, Boeing 777 (рейс MH17). Кто виноват и  кому эта катастрофа была нужна?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/528/528b199a9234c699f575b36310c01d33.mp4]]></stream_url>
+<category_id>28</category_id>
+</channel>
+<channel>
+<title><![CDATA[ УГРОЗА ЗАКРЫТИЯ КАНАЛА]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/6fe/6fec742dfadd83be83d4beb25804c20b.jpg" width="175"/></td></tr></table>Угроза закрытия канала]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/843/8433bee2c5ffe4d17d949e5b3da89e85.mp4]]></stream_url>
+<category_id>28</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Почему мы это терпим?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/85a/85a1c2447f121a4c42e2a1f19131e093.jpg" width="175"/></td></tr></table>Читайте новости на сайте ""Сталинград"":https://stalingrad.tv/news/ Смотрите познавательные фильмы на сайте ""Сталинград"":https://stalingrad.tv/films/]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/8a7/8a7e8a8fd882c4e2252aab0c4b1f7de6.mp4]]></stream_url>
+<category_id>28</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ТРАВЯТ НАРОД КАК КЛЕЩЕЙ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/76d/76dcf913c03a9fdd5e40ff172717f7a8.jpg" width="175"/></td></tr></table>Началась ли подковёрная борьба элит в РФ? Как любители ночного хоккея перераспределяют между собой ресурсы страны? Почему власть спустя 26 лет дала ход делу Анатолия Быкова? Почему карантин был продлён до 31 мая? Чем руководствуются в мэрии разрешая работу стройкомплекса в Москве во время пандемии? Что пишут зрители телеканала ""Сталинград"" на почту? Зачем нужен курс ""Гражданская оборона в современных условиях""?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/841/841fea19c47e211224421deb9dda9b40.mp4]]></stream_url>
+<category_id>28</category_id>
+</channel>
+<channel>
+<title><![CDATA[ РУССКИЙ КОММУНИЗМ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a88/a889bcd6cafde7b09c713ca7219217aa.jpg" width="175"/></td></tr></table>Почему наша цивилизация вновь столкнулась с фашизмом? Как не упасть духом в массовой деградации? Кто хозяин капиталистической системы? Что западные элиты уготовили России? Какой есть выход из сложившийся ситуации? К какому будущему мы должны придти?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/72b/72bca20440207b0f1e67a7698568fb35.mp4]]></stream_url>
+<category_id>28</category_id>
+</channel>
+<channel>
+<title><![CDATA[ #9маяпротивфашизма]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8f2/8f2894c57e63595f8694c735d4c0402e.jpg" width="175"/></td></tr></table>В чём схожи ситуации в Москве и Киеве сейчас? Можно ли обойти штрафы? Как почтить память советских воинов 9 мая? Присылайте свои материалы на почту: stalingradpolk@gmail.com]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/2b7/2b7be7371f851bea7fec7caea7021790.mp4]]></stream_url>
+<category_id>28</category_id>
+</channel>
+
+
+</items>
