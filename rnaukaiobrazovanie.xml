@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>НаукаиОбразование<</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ КАК БЛОКИРУЮТ РАЗВИТИЕ ДЕТЕЙ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fc0/fc0ed63b6fe9a628cf42b599491017ee.jpg" width="175"/></td></tr></table>Как дети воспринимают два месяца дистанционного образования? Сколько человек должно быть в классе? Почему власти умные не нужны? Что такое ""семейное образование""? Для чего музыкантам и спортсменам нужна культура? Почему современные школьники не понимают причинно-следственные зависимости?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f1a/f1afc1b22c311eb364dc7b6d7ae530ec.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Юрий Мухин: праздники настоящие и праздники ""липовые""]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f54/f5482d104c29aaf648a74ec6e03a8c32.jpg" width="175"/></td></tr></table>Юрий Мухин: праздники настоящие и праздники &quot;липовые&quot; Видео на канале Сталинград]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b54/b540ed106444d587e716c16daa5845c2.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Александр Зиновьев - пророк своего Отечества.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d91/d91f4490734e8da15ab5241472b7b16d.jpg" width="175"/></td></tr></table>На канале ""Сталинград"" руководитель Биографического института АЛЕКСАНДРА ЗИНОВЬЕВА, Президент Международного Центра науки и культуры имени АЛЕКСАНДРА ЗИНОВЬЕВА.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/926/926d58c10bc1ada1466a5120ca1014db.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Альтернативная энергетика: вымысел или реальность?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/9f6/9f6c571bcdbe280cade0e52311622af6.jpg" width="175"/></td></tr></table>Андрей Паршев о возможности альтернативной энергетики.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/42e/42e5304bffb6d11d11157ee71345e5c6.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Барыгам спорт не нужен]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/19f/19f6ca9107911e23d51bb249ff7cd033.jpg" width="175"/></td></tr></table>Репортаж канала Сталинград с митинга-собрания, посвященного попыткам ""отжать"" два спорткомплекса в Санкт-Петербурге под коммерческую застройку. Сотни детей больше не смогут заниматься там спортом. Общественный деятель и спортсмен Андрей Николаевич Кочергин, а также все неравнодушные люди города пытаются отстоять эти объекты.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/66e/66eb182938529f27123e521b479b6e6c.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Что стало с наукой? Вера Мысина]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/79a/79abf6e8c1054befa18ed656edff05d0.jpg" width="175"/></td></tr></table>Кандидат биологических наук Вера Мысина о положении дел в науке РФ. Чего хотят учёные, и что нужно власти?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/349/3494907ad6349c3d99ec29c17b0046b1.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Cколько крови он прольёт для достижения ответа.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/063/0638056f23c819d1c5ede10aa89af587.jpg" width="175"/></td></tr></table>Острецов Игорь Николаевич — доктор технических наук, профессор, специалист по ядерной физике и атомной энергетике. Автор монографии «Введение в философию ненасильственного развития».]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/59d/59d648cccea4984e1c751304890a024c.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Капитализму наука не нужна]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/884/88474888bd52afdec9ec910a2be5172b.jpg" width="175"/></td></tr></table>Николай Николаевич Платошкин о том, что наука в РОССИИ может развиваться только при СОЦИАЛИЗМЕ.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a02/a02a8e2959254511d07ae2e34f8f1104.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ На кого работает РАН?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/189/189bd2abf5ca8f28aaf1f8d8101ca627.jpg" width="175"/></td></tr></table>Кандидат биологических наук Вера Мысина о проведении генетических исследований в мире. Кто их проводит, для кого и с какой целью? Чем это может быть опасно для России и человечества в целом?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e1d/e1dedea527039089c4a5b94c365e4be4.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Общество тотального контроля]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/658/658589045f37c0e81978829e7325b315.jpg" width="175"/></td></tr></table>Ольга Четверикова, о том, на каких принципах - экономических, политических, религиозных, этических - хотят построить человеческое общество Западные элиты.  Чем отличается современный человек от советского? Что такое постчеловек? Какой ценой будет достигнуто технологическое бессмертие?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/176/1769d6e6613610abe41c17a037b41831.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Предотвратить необратимое]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/522/522823e3390a7470ed4eb3a6ec00dc58.jpg" width="175"/></td></tr></table>Ольга Четверикова о том, почему необходимо срочно остановить программу ""Цифровая школа"". Что такое смарт-города? К чему приведет зависимость от Западных технологий?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/548/548c370798477597423b83cbd3e63ba7.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Путинизм]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ab2/ab257dd158099d1ce439f1e29f0e87b7.jpg" width="175"/></td></tr></table>Доктор физико-математических наук, профессор, Степан Сулакшин анализирует послание Путина Федеральному собранию 2019 года. Какое любимое слово Путина? Правда и ложь в выступлении президента.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/217/217f14862012acfae47dcba130b57098.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Разница в воспитании]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f9e/f9e546e12ae23a1e5c83ceb33af9f4cc.jpg" width="175"/></td></tr></table>Разница в воспитании Видео на канале Сталинград]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/5b2/5b289dd73eab58e88936b81b3c90f3b0.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Советские учебники - начальные классы]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/3cc/3cc942726c68216ed343c2cef699f74c.jpg" width="175"/></td></tr></table>Приобрести книги проекта ""Сталинский букварь"" можно по ссылке: https://filosof.org/index.php?route=product/category&path=299 Cталинский СССР 50-х годов находился на пике своей мощи во всех сферах, от промышленности до искусства. Тогдашний уровень образования до сих пор может служить блистательным примером для любой страны. К сожалению, негативные тенденции ставшие проявляться в системе образования сразу после смерти Сталина, сейчас достигли своего апогея. О полезной общественной инициативе, противостоящей оболваниванию наших детей, рассказывает руководитель проекта по переизданию советских учебников «Сталинский букварь» Дмитрий Фронтов.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/025/02583b6a953ea0558d83156730d51638.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ""Сталинский букварь""..]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/17d/17d250470fa9460538a39d1ecff875ae.jpg" width="175"/></td></tr></table>Сталинский СССР 50-х годов находился на пике своей мощи во всех сферах, от промышленности до искусства. Тогдашний уровень образования до сих пор может служить блистательным примером для любой страны. К сожалению, негативные тенденции ставшие проявляться в системе образования сразу после смерти Сталина, сейчас достигли своего апогея. О полезной общественной инициативе, противостоящей оболваниванию наших детей, рассказывает руководитель проекта по переизданию советских учебников «Сталинский букварь» Дмитрий Фронтов.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/7fb/7fb5b154e765d93126b2ed8b0266c689.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Цифровое слабоумие ..]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ffc/ffc51552ef4c9c71a81eee6b1b2e5dd7.jpg" width="175"/></td></tr></table>Ольга Четверикова, доцент МГИМО, рассказывает о том для чего у нас в России внедряют проект ""цифровая школа"". Что такое цифровое слабоумие?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/300/300ef1d357dd86a788d9e46982727d38.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Учитель лакей?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/870/87093cc2869c3f12871d2bff2d2ae185.jpg" width="175"/></td></tr></table>Историк, писатель Фёдор Викторович Лисицын о современной системе образовании в России. Чем отличаются учебники стандарта СССР и современные учебники? Какую роль в этом процессе занимает учитель? Чем отличается современная система образования от системы образования в СССР?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/fad/fad9e60ed93dae89b4bcd498c8224cce.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Уран-235 - ахиллесова пята Америки.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f2c/f2cedefd45dcb920409b0909fb7bea63.jpg" width="175"/></td></tr></table>Острецов Игорь Николаевич (род. 19 февраля 1939 года) — доктор технических наук, профессор, специалист по ядерной физике и атомной энергетике. Автор монографии «Введение в философию ненасильственного развития» С 1986 по 1987 руководил работами Министерства энергетического машиностроения СССР на ЧАЭС.Один из авторов ЯРТ энергетики (тяжелоядерная релятивистская энергетика)  Вместе с соавторами руководит общественным «Московским Энергетическим Клубом».]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e11/e11174138faf3577d0a6916e32442336.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Власть препятствует прогрессу!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/922/922dc697e36db366035356c9369f7293.jpg" width="175"/></td></tr></table>Александр Николаевич Томилин рассуждает о путинской ""цифровизации"", несущем бред Грефе и о целях образования. Доктор физико-математических наук, профессор.  Главный научный сотрудник Института системного программирования РАН, Профессор кафедры Автоматизации систем вычислительных комплексов.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/859/8598cae778190cc121d625281b2a9a3d.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Воспитать Нового Человека]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/6a8/6a8fecf1e374e14b7351383a9a96d7df.jpg" width="175"/></td></tr></table>Николай Платошкин о том, при каких условиях возможно воспитать нового человека. Каким должен быть новый человек? Возможно ли воспитать его при существующей системе?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/dcd/dcd728a94a293b7930b16c696a01b8a1.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ВПК РФ - понты власти.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/7a1/7a1fb2ffc9280a97d623a6b2d192047e.jpg" width="175"/></td></tr></table>Степан Сулакшин реальном положении в ВПК, в науке, в образовании.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/436/4365ec765e276670f260b318110b3270.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Цифровое скотство]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f6b/f6b59cf0bec0b03f9b90e347e2f0bc65.jpg" width="175"/></td></tr></table>Кандидат физико-математических наук, консультант по Big Data Ирина Константиновна Мухина о месте человеке в новом технологическом укладе, о синергическом эффекте Техносферы, о Сбербанке, о крипто-валюте, о «Хомо-диджитал» (homo-digital), о трёх инновационных направлениях и о социальной инженерии.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/246/246d56590fa4d0da118c6b4c5f1eb09f.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Наука на экспорт]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/b76/b7625aff8913c7d261a81453c90facea.jpg" width="175"/></td></tr></table>Директор института ИГСО Борис Кагарлицкий комментируют ситуацию, сложившуюся в российской науке и дает прогноз о её перспективах, в связи с заявлениями Кудрина о распределении бюджетных средств.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/38a/38af0e15e0140c316a343871d25113a6.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Коронавирус: Это важно знать каждому!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/122/122a8159a52962da128031e69883ac52.jpg" width="175"/></td></tr></table>Кандидат биологических наук Вера Мысина о том, к чему нас готовит коронавирус. Готова ли Россия к пандемии? Чем является коронавирус для России? Что делает правительство, чтоб обезопасить население?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b6c/b6cc166e124c756fdee4691082267cb9.mp4]]></stream_url>
+<category_id>18</category_id>
+</channel>
+
+
+</items>
