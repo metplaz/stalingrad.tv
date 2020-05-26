@@ -1659,11 +1659,18 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b6c/b6cc166e124c756fdee4691082267cb9.mp4]]></stream_url>
 <category_id>18</category_id>
 </channel>
+ 
 <channel>
+<title>ОбратныйОтсчет</title>
+<description>ОбратныйОтсчет/description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/robratniyotschet.xml]]></playlist_url>
+</channel>
+ <channel>
 <title>Общество</title>
 <description>Общество/description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/robratniyotschet.xml]]></playlist_url>
 </channel>
+  
  <channel>
 <title>Общество</title>
 <description>Общество/description>
