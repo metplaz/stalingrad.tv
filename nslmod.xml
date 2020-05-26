@@ -1662,12 +1662,7 @@
  
 <channel>
 <title>ОбратныйОтсчет</title>
-<description>ОбратныйОтсчет/description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/robratniyotschet.xml]]></playlist_url>
-</channel>
- <channel>
-<title>Общество</title>
-<description>Общество/description>
+<description>ОбратныйОтсчет</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/robratniyotschet.xml]]></playlist_url>
 </channel>
   
