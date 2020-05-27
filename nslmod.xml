@@ -962,19 +962,10 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/rkarantin.xml]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[ Госпереворот в Китае]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f18/f180cf79a20f22ac6cb00981b4cb8e04.jpg" width="175"/></td></tr></table>Китаевед, автор книги «Кланы и политические группы КНР» Николай Вавилов о коронавирусе и его политической подоплёке. Расстановке политических сил в Китае и их отношению к России и США.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/318/3186d2beff94bbbf62d9472456877be7.mp4]]></stream_url>
-<category_id>11</category_id>
+<title>Китай</title>
+<description>Китай</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/rkitay.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Китайская либеральная революция]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/3b8/3b805e50a8f15c43a0ddb3e51f0a4025.jpg" width="175"/></td></tr></table>Китаевед, автор книги «Кланы и политические группы КНР» Николай Вавилов о торговой войне между Китаем и США. Будет ли глобальный конфликт?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/137/1371b2e269de7c0e8b670d84e2a3aae8.mp4]]></stream_url>
-<category_id>11</category_id>
-</channel>
- 
- 
 <channel>
 <title>Курилы</title>
 <description>Курилы</description>
