@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ИгорьКульков</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Главный итог этого года. Игорь Кульков]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/4f1/4f1ecc6af33e309e492355a35ff53236.jpg" width="175"/></td></tr></table>Кинорежиссёр и общественный деятель Игорь Владимирович Кульков делает обзорный анализ событий, происшедших в разных сферах жизни нашей страны в 2019-ом году, и рассказывает о самой страшной тенденции в России.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/698/698b6211b6eef8481c0127da708bc012.mp4]]></stream_url>
+<category_id>110</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Конституция крепостного права]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d01/d014cdeffa39da050030186720892b77.jpg" width="175"/></td></tr></table>Кинорежиссёр и общественный деятель Игорь Владимирович Кульков о стратегии Путина, об изменениях в Конституции РФ и о грядущих переменах в России.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b73/b7305443da37d41c7eae6a08648b4a11.mp4]]></stream_url>
+<category_id>110</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Не стань предателем]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/6b0/6b0c63f67b19729c0bf2ee68e08158ce.jpg" width="175"/></td></tr></table>Что происходит в России? Где находится Путин? Как уничтожается православная вера в РФ? Почему отменили празднование 9 мая? Как под прикрытием коронавируса вводится чипирование? Что в сложившийся ситуации должен делать патриот страны?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/1b6/1b62b9fec5348ac69a156bcefff06954.mp4]]></stream_url>
+<category_id>110</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Новый президент от Кремля]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/4a0/4a0f2611110b391dbcdbb2461b951b8d.jpg" width="175"/></td></tr></table>Какие цели сейчас стоять перед властью в РФ? Что такое управляемый бунт? Что является крайней мерой для сохранения режима? Какие составляющие дадут человеку из власти понравиться сторонникам левой идеи? Может ли социалист стать президентом в РФ? Как могут отодвинуть реальную оппозицию? Для чего надо знать психологию толпы? Что в данной ситуации должно делать левое движение?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/2f2/2f294be0e9ea0355a90dda7142279959.mp4]]></stream_url>
+<category_id>110</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ПЛОДЫ ПУТИНСКОГО ПАТРИОТИЗМА]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5ea/5ea29e34205bc6ad92f2238ec55d7d7d.jpg" width="175"/></td></tr></table>Кинорежиссёр и общественный деятель Игорь Владимирович Кульков о патриотизме, о перспективах для молодежи в нашей стране и о том, почему половина населения хочет уехать из России.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b64/b64ec0a2b56478c2aced34eee3381819.mp4]]></stream_url>
+<category_id>110</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Трагедия в Забайкалье]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fa3/fa3cf3eaddd2252e434d94e7f686d1f0.jpg" width="175"/></td></tr></table>Кинорежиссёр и общественный деятель Игорь Владимирович Кульков о трагедии в Забайкальском крае, где солдат-срочник Рамиль Шамсутдинов расстрелял 10 человек, восемь из которых погибли.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/637/637753755d23eef84be2861a5dddd2dc.mp4]]></stream_url>
+<category_id>110</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Умрёт ли Путин от коронавируса?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/2d3/2d398b01d3b66995f66623f2d97adaf0.jpg" width="175"/></td></tr></table>Что происходит в России? Для чего вводится запрет покидать квартиры? Когда будет создан электронный концлагерь? Избавит ли пропуск в город от опасности заражения коронавирусом? Почему Владимир Путин оттягивал момент карантина в РФ?  Интересен ли президент России западу? Кто управлял нашей страной 20 лет? Для чего будет введена всемирная вакцинация населения?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d62/d625293779a94d31a5fd255db4513dc6.mp4]]></stream_url>
+<category_id>110</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Уничтожение русских семей]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c37/c3712eecb48ca57c8ba6cba2391f7641.jpg" width="175"/></td></tr></table>Кинорежиссёр и общественный деятель Игорь Владимирович Кульков о многодетной семье Лапшиных, которая тайно переехала из родной Вологодской области в глухой поселок Карелии спасаясь от беспредела органов опеки.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/fcd/fcde9b876cc4b461ed60de4e853a00ba.mp4]]></stream_url>
+<category_id>110</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Верховный Путин]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/493/493858cf144deeec35505d1a5d039ffd.jpg" width="175"/></td></tr></table>Кинорежиссёр и общественный деятель Игорь Владимирович Кульков о Верховном Правителе России.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6a0/6a0da5fc9d0eba0e8cdc8776862e364f.mp4]]></stream_url>
+<category_id>110</category_id>
+</channel>
+
+</items>
