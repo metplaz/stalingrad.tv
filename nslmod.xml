@@ -921,36 +921,13 @@
 <description>Аналитика</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ranalitika.xml]]></playlist_url>
 </channel>
+
 <channel>
-<title><![CDATA[ Премьера фильма ""МОЗГОВОЙ""]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/6eb/6eb51f37ca92c941e76655a2f24deb96.jpg" width="175"/></td></tr></table>23 мая в 17:00 на телеканале ""Сталинград"" и сайте https://stalingrad.tv/ смотрите документальный фильм российского добровольца - Юрия Горошко (позывной ""Тавр"") о легендарном командире бригады ""Призрак"" - Алексее Борисовиче Мозговом. Как появилась идея создать фильм о легендарном командире бригады ""Призрак""? С кем из исторический личностей можно сравнить Алексея Мозгового? В чём была его главная ошибка? Почему фильм об Алексее Борисовиче актуален и сейчас? Как Мозговой подымал хозяйство на Донбассе? Что будет в России в ближайшее время? Кто убил Алексея Мозгового? В фильме собраны эксклюзивные интервью бойцов и командиров, которые знали комбрига лично.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/53a/53aa1ae2a08dd9e62fb02933a5803e61.mp4]]></stream_url>
-<category_id>3</category_id>
+<title>Анонс</title>
+<description>Анонс</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ranons.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ ! АНОНС ФИЛЬМА ПРО МОЗГОВОГО !]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a4d/a4d6dad87900ace83e7362638601b286.jpg" width="175"/></td></tr></table>Трейлер документального фильма российского добровольца - Юрия Горошко (позывной ""Тавр"") о легендарном командире бригады ""Призрак"" - Алексее Борисовиче Мозговом.В фильме собраны эксклюзивные интервью бойцов и командиров, которые знали комбрига лично. Их мнения и воспоминания о нём.P.S. Уникальные видеоматериалы подобраны из архивов военкоров бригады ""Призрак"".]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d8c/d8c98bade16bf806c04ece28431d3b3e.mp4]]></stream_url>
-<category_id>3</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Анонс идеи Русского Христианского Социализма]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ada/ada3048762c66764e749a00c669a3591.jpg" width="175"/></td></tr></table>Полковник ГРУ, кандидат наук Владимир Квачков об идеологии Русского Христианского Социализма. К чему нас приведет нынешний строй и почему нам необходимы срочные перемены?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/bfe/bfef5728bf6fdaa350b7b679033eb5e9.mp4]]></stream_url>
-<category_id>3</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Анонс! Презентация книги ""Земля украденных надежд""]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/67d/67ddbd1d2756c3a772cd0bc9711e9f40.jpg" width="175"/></td></tr></table>8 ноября в 18 часов в Библиотеке-читальне им. И. С. Тургенева по адресу г.Москва Бобров пер., 6, стр. 1 пройдет презентация новой книги ""Земля украденных надежд"" Юрий Евич кандидат медицинских наук, писатель, участник боевых действий, инструктор по тактической медицине рассказывает,  почему нам будет полезно её прочесть. Юрий Евич Телефон:  8-982-716-76-99 Вконтакте: https://vk.com/yurichnovorossia Email: EvichY@yandex.ru]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/310/310a8ec71c141d755b2bd1ac79d5cf1a.mp4]]></stream_url>
-<category_id>3</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Анонс прямого эфира с Александром Пасечником]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d01/d0195bde9e39b61220fce697afa06143.jpg" width="175"/></td></tr></table>Мы анонсируем прямой эфир с Александром Пасечником, который состоится 26 октября в 20:00. Главный редактор канала ""СТАЛИНГРАД"" ответит на часто задаваемые вопросы подписчиков.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/785/785bb4eb6e3c2398d7129f4aab9c1bd0.mp4]]></stream_url>
-<category_id>3</category_id>
-</channel>
+
 <channel>
 <title><![CDATA[ ЧТО ДЕЛАТЬ ВОЕННЫМ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d5d/d5d093680a4e60de7c2b05b69bf17af0.jpg" width="175"/></td></tr></table>Почему режим подчёркнуто принимает незаконные решения? Как должны вести себя люди в форме? В каком статусе находится сейчас Россия? Как мотивируют росгвардейцев бить народ? Кто сейчас служит в силовых структурах? Как общаться с сотрудниками в погонах?]]></description>
