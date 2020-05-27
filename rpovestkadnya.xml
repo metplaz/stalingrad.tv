@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ПовесткаДня<</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Путин не знает, Кадыров пропал, пятнадцать процентов свободных.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/0e7/0e7738ba2f2bf09a18377bf9f2d893cf.jpg" width="175"/></td></tr></table>Здравствуйте, товарищи!Вы смотрите первый выпуск программы «Повестка дня».Каждый день с понедельника по пятницу мы будем сообщать Вам об основных событиях, произошедших в нашей стране и мире.Сколько % граждан России соблюдает самоизоляцию? Есть вред от ношения масок? Почему власти Москвы не будут отключать приложение социального мониторинга? Когда пройдёт Парад Победы? Будет ли акция "Бессмертный полк"? Вокруг чего обострилась ситуация в Крыму?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/ad9/ad903b6fb9484469e0b17ac7960cfcdb.mp4]]></stream_url>
+<category_id>182</category_id>
+</channel>
+
+
+</items>
