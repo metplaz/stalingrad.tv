@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ПламенПасков</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Нас считают за скотов]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/24b/24bd7ea454d55f4b28caad1c7de13b31.jpg" width="175"/></td></tr></table>Как разрабатывают новые вакцины? Сколько по времени делается препарат для прививок? Как идут против мировых трендов президенты Белоруссии и Танзании? Какая главная цель у здравоохранения была в СССР и социалистической Болгарии? Сколько лет существует вакцина от коронавируса? Что может быть в ампулах для прививок от ковид-19?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e3f/e3f340f72963193e615d962067e9a393.mp4]]></stream_url>
+<category_id>149</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЗАЧЕМ СОБЯНИНУ НУЖНА НАША КРОВЬ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5b5/5b52ac42b95dc933ab1fd5fd32660e39.jpg" width="175"/></td></tr></table>Зачем будет производится изъятие крови? Кто пишет инструкции для медицинских работников? Кого можно назвать современными янычарами? Как на Болгарии западные элиты обкатывают систему контроля населения? Чьи указы исполняет Сергей Собянин? Какие планы существуют у элит? Кто выступает архитекторами глобального контроля населения?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/8e5/8e512f46f6ac02f1d37b7342df0ca436.mp4]]></stream_url>
+<category_id>149</category_id>
+</channel>
+<channel>
+<title><![CDATA[ COVID-19 от А до Я]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/1a2/1a28539f2cc210dbec7acfb07bc3ef0d.jpg" width="175"/></td></tr></table>Что такое COVID-19? Столько вирусов входит в ""семью коронавирусов""? Есть ли вакцины против этого? Что находится в итальянских грузовиках? Как мутирует вирус? Как через СМИ пугают население? Как человек может переболеть коронавирусом и этого не заметить? Что такое ""самоизоляции""? Кто руководит правительствами России и Болгарии? Почему все СМИ в мире ведут себя одинаково? Как пандемия скрыла обвалы фондовых бирж? Какие три цели глобальной операции ""COVID-19""?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/aff/affee3e219bd8f6b674dede106bdf34b.mp4]]></stream_url>
+<category_id>149</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЕС - Тюрьма Народов]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/56c/56c24f614455e6e19e7de307304d48a5.jpg" width="175"/></td></tr></table>Болгарский политик и общественный деятель Пламен Пасков, о настоящей жизни в Европейском Союзе и целях ЕС относительно других народов.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/de5/de51cdc58f51d473dc06f29c6ef9e7ed.mp4]]></stream_url>
+<category_id>149</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Почему Швеция вне карантина?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/55b/55b88a1be6c8cfc10c60286223867395.jpg" width="175"/></td></tr></table>Кто стоит за выступлением экс-главы МВД Австрии? Какая иерархия у теневых игроков в мировой политики? Как разделились руководители ФРС? Есть ли в РФ группировки которые борются с цифровизацией? Что сейчас происходит в странах Южной Европы?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/900/9008b1d6c53e92f9129cd2f1dcec9fae.mp4]]></stream_url>
+<category_id>149</category_id>
+</channel>
+
+</items>
