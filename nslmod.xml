@@ -1425,7 +1425,7 @@
 <category_id>17</category_id>
 </channel>
 
- <channel>
+<channel>
 <title>НаукаиОбразование</title>
 <description>НаукаиОбразование</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/rnaukaiobrazovanie.xml]]></playlist_url>
@@ -1441,6 +1441,11 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/robshestvo.xml]]></playlist_url>
 </channel> 
 <channel>
+<title>ПовесткаДня</title>
+<description>ПовесткаДня</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/rpovestkadnya.xml]]></playlist_url>
+</channel>
+ <channel>
 <title>Политика</title>
 <description>Политика</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/rpolitika.xml]]></playlist_url>
