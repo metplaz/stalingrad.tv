@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>Аграрии</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ В России сегодня крепостное право.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f87/f87b519b087cb423dfe597f8e64b73d8.jpg" width="175"/></td></tr></table>Василий Мельниченко - фермер, председатель общественного движения «Федеральный сельсовет» о возрождении в путинской России крепостного права.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/006/006cbdb741ecc81b152b9d0d4b3a57e2.mp4]]></stream_url>
+<category_id>1</category_id>
+</channel>
+<channel>
+<title><![CDATA[ По плодам их узнаете их..]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c12/c12162963ad77afda239b64a145918f5.jpg" width="175"/></td></tr></table>По плодам их узнаете их.. Видео на канале Сталинград]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e43/e43248dc1ebffaed56d629b059799da5.mp4]]></stream_url>
+<category_id>1</category_id>
+</channel>
+
+
+</items>
