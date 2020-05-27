@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>Дальнобойщики</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Дальнобойщик о цене на топливо, туалетной бумаге и Роснефти]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/146/14677471ed12771e4997ea8e2514a0bf.jpg" width="175"/></td></tr></table>Дальнобойщик Алексей Сороковой рассказывает о тяжелом труде дальнобойщика, дорожающем топливе и туалетной бумаге...]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/2bd/2bdc817283d1d208fbb4e5fb029bf3c6.mp4]]></stream_url>
+<category_id>7</category_id>
+</channel>
+<channel>
+<title><![CDATA[ КАРАТЕЛЬНЫЕ ОРГАНЫ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/b3c/b3c1eb959eeff009d576ae5c70b7de30.jpg" width="175"/></td></tr></table>Что произошло на дороге в Кабардино-Балкарье? Куда были сделаны заявления по происшествию? Почему пострадавший не может получить документы на руки? Есть ли сговор МВД и медицинских сотрудников в Кабардино-Балькарье? Как нужно бороться за свои права? Что происходит на посту ГИБДД при въезде в Элисту? Как с нуля зарегистрировать общественную организацию?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/241/241289ab5550f47dd3397d524b45581b.mp4]]></stream_url>
+<category_id>7</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Мы не сдаёмся]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/20c/20c20b0e7edd79b841ecc5e97a1b22aa.jpg" width="175"/></td></tr></table>Координатор «Объединения Перевозчиков России» Алексей Сороковой про коррупцию и давление государства на малый, и средний бизнес. Зачем введён федеральный закон о СРО (Саморегулируемых организациях)? К чему приведут новые нормы и законопроекты?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/428/42865bc3374639859d5a01497e6625de.mp4]]></stream_url>
+<category_id>7</category_id>
+</channel>
+
+
+</items>
