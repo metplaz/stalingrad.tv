@@ -921,36 +921,15 @@
 <description>Аналитика</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ranalitika.xml]]></playlist_url>
 </channel>
-
 <channel>
 <title>Анонс</title>
 <description>Анонс</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ranons.xml]]></playlist_url>
 </channel>
-
 <channel>
-<title><![CDATA[ ЧТО ДЕЛАТЬ ВОЕННЫМ]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d5d/d5d093680a4e60de7c2b05b69bf17af0.jpg" width="175"/></td></tr></table>Почему режим подчёркнуто принимает незаконные решения? Как должны вести себя люди в форме? В каком статусе находится сейчас Россия? Как мотивируют росгвардейцев бить народ? Кто сейчас служит в силовых структурах? Как общаться с сотрудниками в погонах?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/743/743954f380776db566e1d194b8655b5d.mp4]]></stream_url>
-<category_id>4</category_id>
-</channel>
-<channel>
-<title><![CDATA[ На осколках Советского флота]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c61/c6139cf42e51b203e1aafa3c6e6aa795.jpg" width="175"/></td></tr></table>Контр-адмирал Василий Попович о том, в каком положении находится сейчас Военно-морской флот России]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9a4/9a42ed06db1906927d1e961f87de1f76.mp4]]></stream_url>
-<category_id>4</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Путин и его команда ..]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/458/4583c4e0aa675b22b90724cd14a6f33a.jpg" width="175"/></td></tr></table>ПОПОВИЧ Василий Андреевич - контр-адмирал в отставке, ветеран подразделения особого риска, член Антинацистского Международного комитета - даёт оценку антинародной деятельности ""президента"" России.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/4dc/4dc5ca8cffba0c3ba0327e8cd64d0aa8.mp4]]></stream_url>
-<category_id>4</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Реформа в армии. Так ли это?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/78e/78e73576bfad516bd14f42a457cc6932.jpg" width="175"/></td></tr></table>Кандидат исторических наук, контр-адмирал Василий Андреевич Попович про реформу Российской армии которую проводит Путин и Шойгу. За что дали звание Героя России Анатолию Сердюкову? За кого будут воевать наши солдаты?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c8c/c8c285618fa1e93c0f72dc375f32ca10.mp4]]></stream_url>
-<category_id>4</category_id>
+<title>Армия</title>
+<description>Армия</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/rarmiya.xml]]></playlist_url>
 </channel>
 <channel>
 <title>Блогеры</title>
