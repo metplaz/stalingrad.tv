@@ -18,7 +18,12 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
 </channel>
 
-  
+<channel>
+<title><![CDATA[ БУДЕТ ЛИ ВТОРАЯ ВОЛНА?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/38e/38e3187266e72b055799b7bfe88a3d89.jpg" width="175"/></td></tr></table>Почему власти почти всех стран мира повелись на провокацию коронабесия? Зачем сказали "одеть намордники"? Как российской медициной и СМИ управляют из вне?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9f0/9f061ca871e00e93d1967bdbb444f4fa.mp4]]></stream_url>
+<category_id>10</category_id>
+</channel>
 <channel>
 <title><![CDATA[ ЧТО БУДЕТ В АМПУЛАХ.]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/df5/df5b1fad02e3636f610da8eddae68a40.jpg" width="175"/></td></tr></table>Опасны ли готовящиеся прививки для людей? Сколько времени надо на изготовление вакцины? Были ли в истории, когда насильственно вакцинировали людей? Как закончили врачи Третьего Рейха, которые проводили опыты на людях? Какой совет можно дать врачам в РФ?]]></description>
