@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ЕвгенийСпицын</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Как подменяют символы Победы советского народа]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/7bc/7bcd175846b4c9ba214c26106798a4ae.jpg" width="175"/></td></tr></table>Почему власть запретила праздник 9 мая? Как работали в тылу во время войны? Сколько сейчас лет ветеранам Великой Отечественной Войны? Когда установили 9 мая праздничным днём? Как Сталин вернул Сахалин и Курильские острова? Как 30 лет в РФ шельмовался праздник 9 мая? Когда триколор стал гос.флагом? Как политтехнологи глумятся над памятью советских воинов?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/927/927a11bad87eb8190380a5c7cb293384.mp4]]></stream_url>
+<category_id>97</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кому служит национализм?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/480/480a72faeffc8ff6503b3b8d47d87573.jpg" width="175"/></td></tr></table>Историк и публицист Евгений Спицын о национализме, который является самым мощным оружием капитала, а также о том, кто и с какой целью финансировал Гитлера и его сегодняшних последователей. Когда начинается национализм и кому он выгоден?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e22/e22350a62fe70801e321b2e72facf4ad.mp4]]></stream_url>
+<category_id>97</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кто придумал украинство?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/add/adde42860ef4efb96a3c956c55963edb.jpg" width="175"/></td></tr></table>Историк и публицист Евгений Спицын  о зарождении в России украинства, его генезисе, а также о роли большевиков в этом разрушительном проекте. Кто придумал украинство?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c18/c189e7ed4e79cc047fea438185755960.mp4]]></stream_url>
+<category_id>97</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Пакт Молотова-Риббентропа]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5bb/5bb4cfd7ba13d7e6c3b59d8c6e9bec14.jpg" width="175"/></td></tr></table>Историк и публицист Евгений Спицын о Пакте Молотова-Риббентропа. Был ли это сговор СССР с фашистской Германией?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/5c0/5c018cd9a490db74200d61d33e2a3c9a.mp4]]></stream_url>
+<category_id>97</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Памятник Иуде]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d4c/d4cb9b8194e21c49540ab52770957803.jpg" width="175"/></td></tr></table>Историк и публицист Евгений Спицын о личности писателя Александра Солженицына, о книге ""Архипелаг ГУЛАГ"" и для чего она была написана?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b9c/b9c0ae487d16ac97aed007d21b3d7b81.mp4]]></stream_url>
+<category_id>97</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Правда о начале войны]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/6d4/6d4ca79018a41987988cd4a7df33f607.jpg" width="175"/></td></tr></table>Историк и публицист Евгений Спицын о первых днях Великой Отечественной Войны, мифах и вранье в истории нашей страны, пропаганде, направленной на очернение Сталина и всего советского прошлого. Кому выгодно замалчивать правду о Великой отечественной войне?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6eb/6ebf6f3658cf22abac6f35c1bb50350e.mp4]]></stream_url>
+<category_id>97</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Воровские налоги]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/545/545993eaee72cb56aa63dbccf3d093b2.jpg" width="175"/></td></tr></table>Историк и публицист Евгений Спицын про налоговую систему в СССР в период правления И.В.Сталина и сегодня. В чём принципиальная разница?  ]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/3fe/3fe187bd529a8b3894913df4dcda3aef.mp4]]></stream_url>
+<category_id>97</category_id>
+</channel>
+
+</items>
