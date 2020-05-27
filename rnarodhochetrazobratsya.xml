@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>НародХочетРазобраться<</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Митинг 03.08.19]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/1b2/1b2c07c8e86c9a31dbe16fbb297875ec.jpg" width="175"/></td></tr></table>Московское правительство продолжает нарушать законы, лишая москвичей права голоса арестовывая независимых кандидатов и их сторонников. Что происходило 3 августа в центре Москвы на акции протеста «Вернем себе право на выборы-2»?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d5a/d5ada41a6e130aff284243d4751ebcad.mp4]]></stream_url>
+<category_id>17</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Митинг в защиту южных Курил 20.01.2019. Москва.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f41/f41f7181a6976b5bef4df2ca802c6ef1.jpg" width="175"/></td></tr></table>Общественное движение ""Сталинский полк"" и канал ""Сталинград"" на митинге в защиту южных Курил. ]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/044/0443e447534a7ffff496bd52dca1ae94.mp4]]></stream_url>
+<category_id>17</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Ни вершка нашей земли никому!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/45f/45f9f894b8f7b42d31c7a1c89fe94b69.jpg" width="175"/></td></tr></table>Эльдар Хасанов: ""Ни вершка нашей земли никому!"" Начальник штаба Славянской бригады и МО ДНР (в отставке).]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b26/b263dfec361281a984d0d34279ec3948.mp4]]></stream_url>
+<category_id>17</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Обратная связь: народ - власть.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/df1/df147d15821884f604f93f618483c2f3.jpg" width="175"/></td></tr></table>Бывший политзаключенный Кирилл Барабаш об ответственности власти перед народом и обратной связи ""народ-власть"" и сегодняшнем митинге. Митинг начнется в 13-00 на Суворовской площади.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/783/783fd5402718d7613655885851abf452.mp4]]></stream_url>
+<category_id>17</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Оффшорная мафия ЦБ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ffd/ffd131c06c94c5a87fb215417b8be3d0.jpg" width="175"/></td></tr></table>Оффшорная мафия ЦБ Видео на канале Сталинград]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/78b/78ba19a43e34752886fd4595c7c1be74.mp4]]></stream_url>
+<category_id>17</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Правительство Москвы продало нас как крепостных..]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/0cc/0ccdffbd501f16e010b8db25f5ebf74d.jpg" width="175"/></td></tr></table>Жители Кунцево пытаются отстоять свои права в борьбе с группой компаний ""ПИК"" и правительством Москвы.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a40/a40d71c4ba7a94e32897e8191bf69552.mp4]]></stream_url>
+<category_id>17</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Россия и мировая закулиса]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/22f/22f395bd781656ba07f64baa21b97176.jpg" width="175"/></td></tr></table>Профессор, доктор исторических наук Вардан Багдасарян, рассказыаает о формировании глобального общества. Кто стоит за этими процессами? Мировое правительство - выдумка или реальность? Какой интерес представляет Россия для политических элит Запада? И что нас ждёт в перспективе, если мы не начнём строить собственную цивилизационную модель?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/927/927e0497b63a49666813fef928fc2cfa.mp4]]></stream_url>
+<category_id>17</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Верховный суд: законы? Нет, не слышали!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c06/c069fcfc88d9f19367a49c5a1d06126a.jpg" width="175"/></td></tr></table>Верховный суд признал снос 37 домов в Кунцево законным. Эти дома не входили в программу реновации и их снесут без согласия жильцов. Протесты жителей силой подавлялись сотрудниками ЧОП компании-застройщика.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b25/b250aeac5d0739e3a026733cd3fd3945.mp4]]></stream_url>
+<category_id>17</category_id>
+</channel>
+
+
+</items>
