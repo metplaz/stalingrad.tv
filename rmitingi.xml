@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>Мнение</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ 17 марта - рождение новой силы]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a8c/a8c2768af890c2313d9f32124752bee7.jpg" width="175"/></td></tr></table>Выступление лидеров коалиционного собрания, посвященного митингу 17 марта . Стрелков, Калашников, Удальцов.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/603/60321a4e22bbd69d53af26716df47d3d.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Альтернативное будущее для России]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/7d9/7d9cf07598d4e74d4d132f4edcdb3400.jpg" width="175"/></td></tr></table>Организаторы митинга 17 марта о целях и задачах данного мероприятия.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/070/070a8b391665c211920bdb6ddd26851c.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Что происходит в Северной Осетии]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/3d1/3d1a539241a1debfb759687ca2e65252.jpg" width="175"/></td></tr></table>Почему осетинский ОМОН отказался разгонять митинг во Владикавказе? Как жители Владикавказа относятся к главе республики? Может ли в мае повторится народный сход в Северной Осетии? Есть ли коронавирус в Алании? Сколько предприниматели выдержат без работы? За что местные жители благодарны Вадиму Чельдиеву? Как ситуация будет развиваться в ближайшие 2 месяца?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/ba0/ba0a23d4670627804b73d9793fcef1c5.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Митинг 17 марта 2019 (яркие моменты выступлений)]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/6b5/6b54ca1863306106060620bc6e2f39b8.jpg" width="175"/></td></tr></table>Митинг 17 марта (яркие моменты выступлений).]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/247/247316359a60d63cf45c902557755509.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Митинг 17 марта - Обращение к народу]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/2e6/2e6814196b69afbc6324878fd4f79277.jpg" width="175"/></td></tr></table>Обращение организаторов митинга 17 марта с призывом прийти на это мероприятие и поддержать.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/650/650a102ef45bf656b322a14d73f86efb.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Митинг на Суворовской площади. 17 марта в 16:00, 2020 года]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/83e/83ef5a9bd4da2e6acedf40726181f61b.jpg" width="175"/></td></tr></table>Митинг на Суворовской площади. 17 марта в 16:00, 2020 года Видео на канале Сталинград]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a49/a49c2ce357ec994af5b5a726fc2ff0c1.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Митинг - послесловие...]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c04/c0423e7d576faa5eeec17a8315184020.jpg" width="175"/></td></tr></table>Максим Калашников, Владислав Жуковский и другие участники митинга 17 марта делятся своими впечатлениями от этого мероприятия.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c41/c4184f5fac6f0cae80e91b1f9bc3fb82.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Митинг против рабства в России!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e50/e501c70ab7284e845b65c4397750177b.jpg" width="175"/></td></tr></table>7 ноября в Москве на Суворовской площади в 19:00 пройдет митинг против рабства в России.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/068/0683cc04525230dcff73ec8a80a2bb79.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Осетия встала за правду]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e94/e94a07d283053741cfe175cbc40f2322.jpg" width="175"/></td></tr></table>Какая сейчас обстановка в Северной Осетии? Что говорят местные жители? Какую помощь задержанным активистам оказывают их соратники? Какая причина народного схода во Владикавказе? Как так называемая самоизоляция влияет на индивидуальных предпринимателей? Как власть запугивает несогласных?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9b6/9b6f1371fdcadc8d527e5f963950516e.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel>
+<channel>
+<title><![CDATA[ От митингов к стачке!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a14/a1436c2ee5c508b4a1f2b90f96f7f238.jpg" width="175"/></td></tr></table>Руководитель общественного движения «Сталинский полк», член редколлегии канала «Сталинград» Эльдар Хасанов высказывает своё принципиальное мнение относительно выборов в России.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/07e/07e513d0874df203cd4caf93c762a620.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Протесты в Северной Осетии]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a0e/a0e803bae21ec7bb555437583769b760.jpg" width="175"/></td></tr></table>Что происходит во Владикавказе? Кто организатор митинга? Какая позиция у властей? Какой возраст у пришедших? Почему протестующие сомневаются в действительности пандемии коронавируса?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/1aa/1aad9b41e5a5a758f44d28af72de5359.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Улан-Удэ. Точка кипения]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/55f/55f124706ee2674e90f47f7974bf6b78.jpg" width="175"/></td></tr></table>Специальный репортаж из Улан-Удэ канала Сталинград. 15 сентября в столице Бурятии, городе Улан-Удэ, прошел первый после недельных стихийных акций протеста санкционированный митинг. Люди заявили о недоверии к действующему главе республики Алексею Цыденову и новоизбранному мэру Улан-Удэ Игорю Шутенкову а так же партии «Единая Россия».]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/697/697ce112dfc5a755fbaa9b7590de4c9e.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel>
+
+
+</items>
