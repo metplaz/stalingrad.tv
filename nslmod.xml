@@ -1998,51 +1998,19 @@
 <description>ИгорьГундаров</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aigorgundarov.xml]]></playlist_url>
 </channel>
-
 <channel>
 <title>ИгорьКульков</title>
 <description>ИгорьКульков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aigorkulkov.xml]]></playlist_url>
 </channel>
+<channel>
+<title>ИгорьОстрецов</title>
+<description>ИгорьОстрецов</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aigorostrecov.xml]]></playlist_url>
+</channel>
 
 
 
-<channel>
-<title><![CDATA[ Cколько крови он прольёт для достижения ответа.]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/063/0638056f23c819d1c5ede10aa89af587.jpg" width="175"/></td></tr></table>Острецов Игорь Николаевич — доктор технических наук, профессор, специалист по ядерной физике и атомной энергетике. Автор монографии «Введение в философию ненасильственного развития».]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/59d/59d648cccea4984e1c751304890a024c.mp4]]></stream_url>
-<category_id>111</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Для чего был создан Советский Союз]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/373/37348d0528514749cad0a538a740dfe6.jpg" width="175"/></td></tr></table>Доктор технических наук, профессор, специалист по ядерной физике и атомной энергетике Острецов Игорь Николаевич высказывает свою точку зрения на то, в чем заключалась историческая миссия Советского Союза, в чем заслуга Ельцина, а также где заканчивается исторический материализм.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/77f/77f74ccd904b5209b284540e93ce0c4f.mp4]]></stream_url>
-<category_id>111</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Кто взорвал Чернобыль?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/607/6075f86b1d4e3a2bdd8a9324bd63fcbe.jpg" width="175"/></td></tr></table>Профессор,  специалист по ядерной физике и атомной энергетике Игорь Николаевич Острецов рассказал о том, что сотрудники станции ЧАЭС не могли вмешиваться в работу четвертого блока без разрешения из Москвы. Поэтому, все действия сотрудников АЭС, которые привели к взрыву, не могли быть самостоятельны, а проводились по приказу, как минимум заведующего сектором атомной энергетики ЦК КПСС Георгием Алексеевичем Копчинским. Так кому это бы]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cac/cac72d95e1c0acfa40225e170146f33f.mp4]]></stream_url>
-<category_id>111</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Уран-235 - ахиллесова пята Америки.]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f2c/f2cedefd45dcb920409b0909fb7bea63.jpg" width="175"/></td></tr></table>Острецов Игорь Николаевич (род. 19 февраля 1939 года) — доктор технических наук, профессор, специалист по ядерной физике и атомной энергетике. Автор монографии «Введение в философию ненасильственного развития»]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e11/e11174138faf3577d0a6916e32442336.mp4]]></stream_url>
-<category_id>111</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Взрыв «Буревестника»]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c0b/c0bc68e34b26e5deae093680ccf57a5d.jpg" width="175"/></td></tr></table>Профессор, специалист по ядерной физике и атомной энергетике Игорь Николаевич Острецов рассказал о том, что именно случилось на полигоне в Архангельской области, где взорвалась реактивная двигательная установка, в двигателе которой было использовано радиоактивный изотопный источник питания. Могла ли это быть новая межконтинентальная ракета «Буревестник»? И, может ли в принципе существовать такая ракета?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/3fa/3fad1e82b8b62196119280a061758970.mp4]]></stream_url>
-<category_id>111</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Зачем существует человек?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/2ab/2ab241a8d0119efba4c0a43dc868d901.jpg" width="175"/></td></tr></table>Профессор, специалист по ядерной физике и атомной энергетике Игорь Острецов рассказывает о том, какую роль в истории человечества сыграл СССР.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b21/b21e20cc6e4b4a22dff439b544dc8b49.mp4]]></stream_url>
-<category_id>111</category_id>
-</channel>
 <channel>
 <title><![CDATA[ Свободная Россия]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d10/d10b438248e49417af8e82542f25b75c.jpg" width="175"/></td></tr></table>Игорь Скурлатов о своём движении Свободная Россия и о работе по объединению всех патриотических сил.]]></description>
