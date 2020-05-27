@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ИванЖушман</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Убийственный проект]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/aa1/aa11bd64a8c6833ef73ad8f10ef42c2e.jpg" width="175"/></td></tr></table>Журналист, общественный деятель Иван Жушман о строительной мафии г.Москвы и об угрозе уничтожения русской культуры, о нарушение экологии города.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9a8/9a874344677ed9c4bfa56b4a3c5572a3.mp4]]></stream_url>
+<category_id>106</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Вперёд - в девяностые]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/171/1719d85c21033ec811acf28bbdaf71d7.jpg" width="175"/></td></tr></table>Страну всё чаще потрясают вооруженные преступления и жестокие убийства. Казалось, мы прошли этот путь ещё в прошлом веке. 90-е возвращаются?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e69/e69a148ffa758ce639536c6f9acbb072.mp4]]></stream_url>
+<category_id>106</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Он вам не Собянин]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fa3/fa3b55ecf1102670529e5d191bb4e2e9.jpg" width="175"/></td></tr></table>Журналист, общественный деятель Иван Жушман о новых поправках в закон строительной мафии г.Москвы и об угрозе радиоактивного заражения мегаполиса при строительстве юго-восточной хорды.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6f4/6f477f3738902ea8558e60cb091d065e.mp4]]></stream_url>
+<category_id>106</category_id>
+</channel>
+
+</items>
