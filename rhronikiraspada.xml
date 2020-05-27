@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ХроникиРаспада</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ ОСТАНОВИТЬ ФАШИЗМ #ЭльМюрид]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c40/c40bb346fbc193e35a6b7a2ebbe97bab.jpg" width="175"/></td></tr></table>Как общество смиряется с электронными пропусками? Сколько % населения принудительно вакцинируют? Какие рычаги задействуют для принуждения к прививкам??]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/8df/8dfc3e4dc02cc2efa5b70cd7d76db989.mp4]]></stream_url>
+<category_id>31</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ГЛАВНЫЙ ПО СТРАНЕ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/138/138c3cf2639d1b09d2ae8dc8f784b802.jpg" width="175"/></td></tr></table>Что означает заявление Путина по пандемии коронавируса? Как будет проходить голосование по Конституции? Кто заинтересован в максимальном оттягивании голосования? Между какими группами во власти идёт борьба? Что делать в сложившийся ситуации простым людям?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/bec/becce8a6f4b1ba836f9cb095fd23e349.mp4]]></stream_url>
+<category_id>31</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ИМ УЖЕ НИЧЕГО НЕ ПОМОЖЕТ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/53c/53ca52cf955f0173e997a3c4be30f386.jpg" width="175"/></td></tr></table>Владимир Васильевич Квачков у памятника Зои Космодемьянской. Что известно советским разведчикам о легендарной комсомолке? Кто были её родители?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/19f/19f0044a04ad0df096847a5de3973ea4.mp4]]></stream_url>
+<category_id>31</category_id>
+</channel>
+
+
+</items>
