@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>Украина</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Выдача Елены Бойко на Украину... Что это было?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8a5/8a5a7cea06de399d9c51b9d0369a026b.jpg" width="175"/></td></tr></table>Максим Равреба, киевский журналист, бывший ведущий канала ""Интер"", политэмигрант. О ситуации с Еленой Бойко, депортированной из РФ в нацистскую Украину.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/15f/15f61e7b182bef5212244d637a1b77ef.mp4]]></stream_url>
+<category_id>29</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Взгляд из Киева. Куда уехал цирк?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c5d/c5da357dc02fdeb7cf8d3c3433240479.jpg" width="175"/></td></tr></table>Композитор, заслуженный артист УССР Владимир Быстряков о новом президенте, колонизации страны, о глубинных процессах в государственном устройстве, а также о тех регионах планеты, в которых украинская элита построила себе светлое будущее.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/99f/99f57987cacae59bb3d682f838c67ad5.mp4]]></stream_url>
+<category_id>29</category_id>
+</channel>
+
+
+</items>
