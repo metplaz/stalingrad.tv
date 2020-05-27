@@ -18,7 +18,12 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
 
- 
+ <channel>
+<title><![CDATA[ БУДЕТ ЛИ ВТОРАЯ ВОЛНА?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/38e/38e3187266e72b055799b7bfe88a3d89.jpg" width="175"/></td></tr></table>Почему власти почти всех стран мира повелись на провокацию коронабесия? Зачем сказали "одеть намордники"? Как российской медициной и СМИ управляют из вне?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9f0/9f061ca871e00e93d1967bdbb444f4fa.mp4]]></stream_url>
+<category_id>149,10</category_id>
+</channel>
 <channel>
 <title><![CDATA[ Путин не знает, Кадыров пропал, пятнадцать процентов свободных.]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/0e7/0e7738ba2f2bf09a18377bf9f2d893cf.jpg" width="175"/></td></tr></table>Здравствуйте, товарищи!Вы смотрите первый выпуск программы «Повестка дня».Каждый день с понедельника по пятницу мы будем сообщать Вам об основных событиях, произошедших в нашей стране и мире.Сколько % граждан России соблюдает самоизоляцию? Есть вред от ношения масок? Почему власти Москвы не будут отключать приложение социального мониторинга? Когда пройдёт Парад Победы? Будет ли акция "Бессмертный полк"? Вокруг чего обострилась ситуация в Крыму?]]></description>
