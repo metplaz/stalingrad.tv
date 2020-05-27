@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ХроникаМинскогоСговора</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Хроника Минского сговора]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/185/185d91464f90f82d211dcaf7da3068be.jpg" width="175"/></td></tr></table>В феврале 2015 года Владимир Путин поставил жирную точку в событиях ""Русской весны"": подписал Минский сговор с представителем киевской хунты Петром Порошенко.  Здесь мы расскажем о том, к каким последствиям привело подписание этого документа.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b9a/b9a434537c7e8e32cdf4e7ba0fc8613e.mp4]]></stream_url>
+<category_id>32</category_id>
+</channel>
+<channel>
+
+</items>
