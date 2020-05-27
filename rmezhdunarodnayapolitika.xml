@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>МеждународнаяПолитика</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Кто сбил ""боинг"" в Иране?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/148/148112273489f26d10c7d0f4e0d6f057.jpg" width="175"/></td></tr></table>Полковник ГРУ, кандидат наук Владимир Квачков анализирует несостоявшуюся войну Ирана и США, а также, возможные причины катастрофы ""Боинга"" 8 января в пригородах Тегерана.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/161/161d3e7fbc72d1f2763ad2a5777fb1c6.mp4]]></stream_url>
+<category_id>13</category_id></channel>
+<channel>
+<title><![CDATA[ Кто виноват в сбитом «боинге»? Магомед Толбоев]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8f7/8f79e403b8ea7cd2920dcd50d86a1942.jpg" width="175"/></td></tr></table>Герой России, летчик-испытатель генерал-майор Магомед Омарович Толбоев о том, кто на самом деле виноват в сбитом боинге под Тегераном.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c3d/c3d22e23912fbb5045a03ce3ee87799e.mp4]]></stream_url>
+<category_id>13</category_id></channel>
+<channel>
+<title><![CDATA[ Россия и Украина - политика предателей.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5a9/5a95859c4e6897780eb6fe7bcbc7f9a4.jpg" width="175"/></td></tr></table>ПОПОВИЧ Василий Андреевич - контр-адмирал в отставке, ветеран подразделения особого риска, член Антинацистского Международного комитета.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/26d/26d32b0e60c2bd3cada82cb200249912.mp4]]></stream_url>
+<category_id>13</category_id></channel>
+<channel>
+<title><![CDATA[ Спасти Сирию - предать Донбасс]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5c8/5c807c538427d0091a8317765cee68fa.jpg" width="175"/></td></tr></table>Леонид Ивашов объясняет почему Россия вошла в Сирию и почему наша власть предала русских на Донбасе]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a43/a43f7117339b4e4b2f79ed8a137f3062.mp4]]></stream_url>
+<category_id>13</category_id></channel>
+<channel>
+<title><![CDATA[ Сукины сыны империализма! Доколе? Встреча с послом Венесуэлы 2.02.2019]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/be5/be54c09d21473c06d8cec21af0efd509.jpg" width="175"/></td></tr></table>Сукины сыны империализма! Доколе? Встреча с послом Венесуэлы 2.02.2019.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a04/a045b564124fafa3a267f2872ec1506f.mp4]]></stream_url>
+<category_id>13</category_id></channel>
+<channel>
+<title><![CDATA[ Украина: Выборы без выбора]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/386/3864d43030f3e1be4a6f2241711b7252.jpg" width="175"/></td></tr></table>Роман Василишин о том, повлияют ли выборы президента на Украине на отношения с Россией. Кто стоит за кандидатами в президенты? Почему элиты Украины и России будут зачищаться? Новая книга автора и собрание сочинений по ссылке - https://kv-journal.su/content/beg-po-solnechnomu-krugu]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9e8/9e824cf30b2cac9f9a83218991f8d268.mp4]]></stream_url>
+<category_id>13</category_id></channel>
+<channel>
+<title><![CDATA[ Возврат к капитализму - это предательство]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/aff/afffbad4515c41e57bc751c0c83fb1b6.jpg" width="175"/></td></tr></table>Юрий Назаров о предательстве Родины сегодняшней властью.Юрий Владимирович Назаров — советский и российский актёр театра и кино. Народный артист Российской Федерации.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/17d/17d463dc9b37d46e7a92d86202c91eba.mp4]]></stream_url>
+<category_id>13</category_id></channel>
+<channel>
+<title><![CDATA[ Зачистка Элит]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c71/c716528cd59ec289c4cd8c3347572e98.jpg" width="175"/></td></tr></table>Экономист Леонид Пайдиев о национальной политике России, сходствах нынешней ситуации с 1917 годом и транзите власти.  ]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/23d/23dc0c9bd235541182edb97c403d5649.mp4]]></stream_url>
+<category_id>13</category_id></channel>
+<channel>
+<title><![CDATA[ Замена Доллара]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/26d/26d117789dd8abc312f0457671a955cb.jpg" width="175"/></td></tr></table>Замена Доллара Видео на канале Сталинград]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b40/b401c4c3798299d28690dfd322b73d30.mp4]]></stream_url>
+<category_id>13</category_id></channel>
+<channel>
+<title><![CDATA[ Затишье перед бурей]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/cc9/cc9e8b502df0c2f7b62aa65721482189.jpg" width="175"/></td></tr></table>Что сейчас происходит в Сирии? Какие действия идут со стороны турецкой армии? Какое соотношение сил у тех на Ближем Востоке? Как себя может повести армия РФ? Вступит ли Анкара в открытую войну с Дамаском? Сколько будет продолжаться нынешняя патовая ситуация? Как себя ведёт Башар Асад? В каком случае регион покинут американцы?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6bc/6bcf960a33164c8f06f8ae209da15229.mp4]]></stream_url>
+<category_id>13</category_id></channel>
+
+
+</items>
