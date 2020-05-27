@@ -1061,34 +1061,15 @@
 <description>Украина</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/rukraina.xml]]></playlist_url>
 </channel>
+<channel>
+<title>Фильмы</title>
+<description>Фильмы</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/rfilms.xml]]></playlist_url>
+</channel>
+
 
  
- 
-<channel>
-<title><![CDATA[ МОЗГОВОЙ]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/176/17601422360e7c39705b2c2fac75b245.jpg" width="175"/></td></tr></table>Документальный фильм Юрия Горошко посвященный легендарному командиру бригады ""Призрак"" Алексею Мозговому.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/278/278c0f2a0761b4ec03ad15f0b0b8d4b6.mp4]]></stream_url>
-<category_id>30</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Хабад - обыкновенный фашизм]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8ee/8ee84fdf7c36dc7aaef25385ce687cd1.jpeg"" width=""175""/></td></tr></table>Этот фильм о том, что на самом деле представляет из себя религиозная организация ""Хабад"". Их политическое влияние растёт с каждым годом. Они уже не скрывают своих целей. Их сторонники находятся у власти как в России, так и в Соединённых Штатах Америки. Чего они на самом деле хотят и к чему стремятся? Об этом и многом другом вы узнаете из фильма ""Хабад - обыкновенный фашизм"".]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c53/c53e6d1697e0cb17e3c2d5a930d3f747.mp4]]></stream_url>
-<category_id>30</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Ангелы «Зимней Вишни»]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a4b/a4b60a93d992d348c74e6507c6ad66c9.jpg" width="175"/></td></tr></table>25 марта 2020 года исполнилось ровно два года со дня пожара в торгово-развлекательном центре «Зимняя Вишня» По официальным данным там погибло 60 человек, 37 из них это дети. Что же стало причиной пожара? кто виноват в смерти стольких человек? Почему такая трагедия стала возможна именно в наше время? На эти и многие другие вопросы мы попытаемся дать ответы в нашем фильме.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/ee6/ee63fde9a8f3046bcdb60ab516489ab2.mp4]]></stream_url>
-<category_id>30</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Хабад - обыкновенный фашизм]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8ee/8ee84fdf7c36dc7aaef25385ce687cd1.jpeg"" width=""175""/></td></tr></table>Этот фильм о том, что на самом деле представляет из себя религиозная организация ""Хабад"". Их политическое влияние растёт с каждым годом. Они уже не скрывают своих целей. Их сторонники находятся у власти как в России, так и в Соединённых Штатах Америки. Чего они на самом деле хотят и к чему стремятся? Об этом и многом другом вы узнаете из фильма ""Хабад - обыкновенный фашизм"".]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/142/142ce3cd96b46a5eb177a84242a73c9b.mp4]]></stream_url>
-<category_id>30</category_id>
-</channel>
-<channel>
+ <channel>
 <title><![CDATA[ ОСТАНОВИТЬ ФАШИЗМ #ЭльМюрид]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c40/c40bb346fbc193e35a6b7a2ebbe97bab.jpg" width="175"/></td></tr></table>Как общество смиряется с электронными пропусками? Сколько % населения принудительно вакцинируют? Какие рычаги задействуют для принуждения к прививкам??]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/8df/8dfc3e4dc02cc2efa5b70cd7d76db989.mp4]]></stream_url>
@@ -1100,7 +1081,7 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/bec/becce8a6f4b1ba836f9cb095fd23e349.mp4]]></stream_url>
 <category_id>31</category_id>
 </channel>
-<channel>
+ <channel>
 <title><![CDATA[ ИМ УЖЕ НИЧЕГО НЕ ПОМОЖЕТ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/53c/53ca52cf955f0173e997a3c4be30f386.jpg" width="175"/></td></tr></table>Владимир Васильевич Квачков у памятника Зои Космодемьянской. Что известно советским разведчикам о легендарной комсомолке? Кто были её родители?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/19f/19f0044a04ad0df096847a5de3973ea4.mp4]]></stream_url>
