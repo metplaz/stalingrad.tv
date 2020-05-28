@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>СтепанСулакшин</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Будет жесткий карантин]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e84/e84396515629afc1a48322ec68beb4cd.jpg" width="175"/></td></tr></table>Какие последствия будут от пандемии коронавируса? До чего довела страну ""оптимизация"" здравоохранения? Где мобилизационные запасы РФ? Как через нефтяные горки разрушили Советский Союз? Какая статистика заболевших в Москве? Нужно ли объявлять в РФ жёсткий карантин по китайскому примеру? Какие ближайшие перспективы у России? Что показывает моделирование будущего? Нужно ли идти голосовать за поправки в Конституцию? Какое испытание должен пройти народ?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/612/612eab645e446bae3cca7dd24230b99b.mp4]]></stream_url>
+<category_id>162</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Формула Путина-Штайнмайера]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5f1/5f162d2649548953fd9d3a7b29ff44b2.jpg" width="175"/></td></tr></table>Доктор физико-математических и политических наук Степан Степанович Сулакшин рассказывает о подписании формулы Штайнмайера президентом Украины Владимиром Зеленским. Что это значит для русских людей Донбасса?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b3c/b3ced6e02acd9f7582489302fd85048a.mp4]]></stream_url>
+<category_id>162</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Первый законный митинг Путина - в добровольную отставку]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/75e/75ea6fc24bf8a34df8dcbdfde351b022.jpg" width="175"/></td></tr></table>1 мая в 12.00, ГАЙД-ПАРК в Сокольниках, Первый законный митинг с требованием: Президент Путин, уходи в добровольную отставку! Стране нужны перемены, новая Конституция, Программа Сулакшина!]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9cb/9cbdff628f78cc7bc26f1339ac8ce825.mp4]]></stream_url>
+<category_id>162</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Программа Сулакшина ""Российская Весна начинается!""]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/eee/eeeb6550588e0f7923726a94f899949c.jpg" width="175"/></td></tr></table>По просьбе С.Сулакшина и его команды размещаем на канале ""Сталинград"" программу С. Сулакшина ""Российская Весна начинается!""Оригинальное видео на канале С. Сулакшина:]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c50/c505667e2afefc7677c6c7e60e70bb7f.mp4]]></stream_url>
+<category_id>162</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Путинизм]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ab2/ab257dd158099d1ce439f1e29f0e87b7.jpg" width="175"/></td></tr></table>Доктор физико-математических наук, профессор, Степан Сулакшин анализирует послание Путина Федеральному собранию 2019 года. Какое любимое слово Путина? Правда и ложь в выступлении президента.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/217/217f14862012acfae47dcba130b57098.mp4]]></stream_url>
+<category_id>162</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Путин изменит курс?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/bcf/bcf4d3005a55f5cf3a6a46241b44150e.jpg" width="175"/></td></tr></table>Степан Сулакшин о невозможности смены курса Путиным и необходимости социальной революции.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cab/cabcda523072ade17978c8cd7855f6d4.mp4]]></stream_url>
+<category_id>162</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ВПК РФ - понты власти.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/7a1/7a1fb2ffc9280a97d623a6b2d192047e.jpg" width="175"/></td></tr></table>Степан Сулакшин реальном положении в ВПК, в науке, в образовании.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/436/4365ec765e276670f260b318110b3270.mp4]]></stream_url>
+<category_id>162</category_id>
+</channel>
+
+</items>
