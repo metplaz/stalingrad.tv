@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>КонстантинСивков</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Что готовят США?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c0d/c0d313d1846b917b75c4be767cf53152.jpg" width="175"/></td></tr></table>Военный эксперт, специалист в военной политологии Константин Сивков размышляет о том, где и как может начаться военный конфликт между Россией и США.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/de9/de978cbb4910a3b6ba0afe9f7fdfc618.mp4]]></stream_url>
+<category_id>120</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Электронная оккупация. Начало]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e27/e279ecbba33abb517ee152e59478e88a.jpg" width="175"/></td></tr></table>Военный эксперт Константин Валентинович Сивков про внедрение электронных паспортов для граждан Российской Федерации с июля 2020 года. Зачем и кому это нужно?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/7d2/7d22abc9763fb7f0a9274f9866f6938c.mp4]]></stream_url>
+<category_id>120</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Глобальный КОРОНАкризис]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ec3/ec30cb6dcc17960940f89eb85d4fff2a.jpg" width="175"/></td></tr></table>Военный эксперт Константин Сивков о том, как глобальные и Российские элиты будут использовать эпидемию коронавируса.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6e4/6e4aa14b13b54076ae4bbb5b060b1003.mp4]]></stream_url>
+<category_id>120</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Итоги 2019 года. Константин Сивков]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/806/8067039919122211508fe558d54f29eb.jpg" width="175"/></td></tr></table>Военный эксперт, доктор военных наук Константин Сивков подводит политические итоги.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/fbf/fbff074942d5b051b809d5bb8b34d5c7.mp4]]></stream_url>
+<category_id>120</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Конец гегемонии США. Константин Сивков]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/03e/03e37748cfe0d707bdb2498209a50a09.jpg" width="175"/></td></tr></table>В чём конкретно США превосходит Иран? Каких ресурсов не хватает американцам? Как к возможному конфликту готовится Иран? Какой уровень аналитиков в военной элите США? Вашингтон больше не всемирный гегемон? Авиакатастрофа около Тегерана - это роковая случайность или замаскированная диверсия? Как ситуация вокруг Ирана отразится на выборах в США в 2020 году?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b78/b7812ffa1fb80d3b152ea3d67ad9e51e.mp4]]></stream_url>
+<category_id>120</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Природа бунта]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/cb4/cb42d899a10dca5be5c13ce84d0bbaf0.jpg" width="175"/></td></tr></table>Военный эксперт Константин Сивков о природе бунтов и их предпосылках. Почему революция в России может начаться через 2 года?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/ae3/ae36634b8bf97aecfedd1870da93e291.mp4]]></stream_url>
+<category_id>120</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Революция или оккупация..]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/6ad/6adb84676647703c42b1a31322de8097.jpg" width="175"/></td></tr></table>Военный эксперт Константин Сивков про ситуацию в ВПК России, и к чему нас готовит эта власть…]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d08/d088a51870e92131115ff85d44de49a4.mp4]]></stream_url>
+<category_id>120</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Зачем стягивают армию?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/6eb/6eb191866d18b26ea9f09d6218b5b616.jpg" width="175"/></td></tr></table>Что происходит вокруг нас? Мы наблюдаем ренессанс западной цивилизации? Как наводят страх на население? Как на телевидение РФ провозгласили коммунизм? В чём восточная цивилизация сильнее западной? Что должны помнить сотрудники силовых ведомств?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/204/2042573720db498083f82d03968daad0.mp4]]></stream_url>
+<category_id>120</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Затишье перед бурей]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/cc9/cc9e8b502df0c2f7b62aa65721482189.jpg" width="175"/></td></tr></table>Что сейчас происходит в Сирии? Какие действия идут со стороны турецкой армии? Какое соотношение сил у тех на Ближем Востоке? Как себя может повести армия РФ? Вступит ли Анкара в открытую войну с Дамаском? Сколько будет продолжаться нынешняя патовая ситуация? Как себя ведёт Башар Асад? В каком случае регион покинут американцы?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6bc/6bcf960a33164c8f06f8ae209da15229.mp4]]></stream_url>
+<category_id>120</category_id>
+</channel>
+
+</items>
