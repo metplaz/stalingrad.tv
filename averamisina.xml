@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ВераМысина</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Академия воров]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/7f9/7f9ca39d7104dfd353b61f254fd8a80b.jpg" width="175"/></td></tr></table>Кандидат биологических наук Вера Мысина о  том, что происходило в Российской академии наук до и после Путинской реформы.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cce/cce00a8e24b0a947b125f40a1a6887ac.mp4]]></stream_url>
+<category_id>70</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Что стало с наукой? Вера Мысина]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/79a/79abf6e8c1054befa18ed656edff05d0.jpg" width="175"/></td></tr></table>Кандидат биологических наук Вера Мысина о положении дел в науке РФ. Чего хотят учёные, и что нужно власти?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/349/3494907ad6349c3d99ec29c17b0046b1.mp4]]></stream_url>
+<category_id>70</category_id>
+</channel>
+<channel>
+<title><![CDATA[ На кого работает РАН?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/189/189bd2abf5ca8f28aaf1f8d8101ca627.jpg" width="175"/></td></tr></table>Кандидат биологических наук Вера Мысина о проведении генетических исследований в мире. Кто их проводит, для кого и с какой целью? Чем это может быть опасно для России и человечества в целом?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e1d/e1dedea527039089c4a5b94c365e4be4.mp4]]></stream_url>
+<category_id>70</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Необходим экстренный карантин!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c37/c37910712a3023ae7f774561dfc31a91.jpg" width="175"/></td></tr></table>Можно ли верить ВОЗу? Почему во многих странах мира по одному сценарию проходила ""оптимизация"" медицины? Что из себя представляет человек для власти капитала? Готова ли система здравоохранения в РФ к борьбе с эпидемиями? В какую ситуацию поставлены школьные учителя в момент карантина? Как справиться с эпидемией вируса? Как в Советском Союзе выходили из чрезвычайных обстоятельств? Как власть РФ пытается решить проблему полумерами?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/8aa/8aaf1e539f50b154f4b29d30ae408875.mp4]]></stream_url>
+<category_id>70</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Коронавирус: Это важно знать каждому!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/122/122a8159a52962da128031e69883ac52.jpg" width="175"/></td></tr></table>Кандидат биологических наук Вера Мысина о том, к чему нас готовит коронавирус. Готова ли Россия к пандемии? Чем является коронавирус для России? Что делает правительство, чтоб обезопасить население?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b6c/b6cc166e124c756fdee4691082267cb9.mp4]]></stream_url>
+<category_id>70</category_id>
+</channel>
+
+</items>
