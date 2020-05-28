@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ВиталийИванов</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Их надо лечить принудительно]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/9db/9db087978862ed32de5ef1511c0812b4.jpg" width="175"/></td></tr></table>Власть боится протестов? Хотят ли узаконить силовое давление в РФ? Почему первые лица страны не подписывают свои указы? Перейдут ли сотрудники МВД на сторону народа? Кто из лидеров государств сохраняет здравомыслие? Какая цель у нынешней власти?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6bb/6bb0a6cafdf716156290f096b7546a3e.mp4]]></stream_url>
+<category_id>74</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Капитализм не работает]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/156/15698a8e5caf8806b2ef8b6885d50f9e.jpg" width="175"/></td></tr></table>Полковник милиции Иванов Виталий Иванович о кризисе государственности России при капитализме.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/42d/42deb70f880c0c9056db28a697aaf30b.mp4]]></stream_url>
+<category_id>74</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Крах системы МВД - Моя полиция меня «бережет»]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/655/655bf4c1cf5f9a10cf41af5aaaf00a46.jpg" width="175"/></td></tr></table>Жуткая правда о том, что сейчас происходит в системе МВД России, рассказанная полковником милиции Ивановым Виталием Ивановичем. Почему милицию переименовали в полицию? Кого охраняют внутренние войска? Где зарегистрированы государственные ведомства на самом деле?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/3e8/3e818bb598312be436cd258b68d1aedd.mp4]]></stream_url>
+<category_id>74</category_id>
+</channel>
+<channel>
+<title><![CDATA[ МВД вчера и сегодня]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/05d/05dff12d505b081599537f4f73a56bb3.jpg" width="175"/></td></tr></table>Полковник милиции, доцент и кандидат юридических наук Виталий Иванович Иванов проводит сравнительный анализ 90-хх и наших дней, как преступность 90-ххорганично трансформировалась в нынешнюю политическую элиту и законную власть. И, законна ли эта власть?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/83a/83a8f4a599ab333a2b6a5b6a146d67aa.mp4]]></stream_url>
+<category_id>74</category_id>
+</channel>
+
+</items>
