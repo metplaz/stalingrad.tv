@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ОлегДвуреченский</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Что у нас украли?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/291/2913c76f68b723274751029fe84fade4.jpg" width="175"/></td></tr></table>Историк, археолог, основатель канала «Красное ТВ» Олег Двуреченский о том что: могла ли Россия войти в 20-й век эволюционным путём, каким должно быть социальное государство и  о сценарии построения справедливого общества.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d7c/d7c7543e7d52a6a9603fc4506411cada.mp4]]></stream_url>
+<category_id>141</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Фактор краха]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/917/91725c9336cf8f711a29c84231fc5683.jpg" width="175"/></td></tr></table>Историк, археолог, основатель канала «Красное ТВ» Олег Двуреченский о трех факторах и двух идеологиях разрушивших СССР, о глубинной причине 91-го года, и об экономической модели нового социализма.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/96d/96d703f3d8fcc8ae472a40f13f392f2c.mp4]]></stream_url>
+<category_id>141</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Как там в России? Воруют...]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/9ec/9eca7427e37c20cb044d6ed001b5b720.jpg" width="175"/></td></tr></table>Ввиду важности информации телеканал «Сталинград» размещает у себя данный видеоролик с дружественного нам канала «Красное.тв».Воровство в России пожалуй одна из самых острых проблем. И была ей всегда. Дураки, дороги и воровство. И казалось бы, ну что такого, ну гвоздик с завода принес домой, завод же государственный следовательно мой,  или бумаги с работы притащил, бумага же буржуйская, а он меня и так обкрадывает, но масштаб этой логики можно расширять, ну страну обокрал, что ж такого? О том почему мы воруем, кто такие несуны и почему мы так и не стали хозяевами своей страны. Об этом будем размышлять с Олегом Двуреченским.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/afc/afc3660c31935c62bf32777ed5e01370.mp4]]></stream_url>
+<category_id>141</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Лишние люди России]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/395/395b786fc98ec75573cc799365f7ede6.jpg" width="175"/></td></tr></table>Историк Олег Двуреченский о том почему государству в России больше не нужны люди.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f61/f61e15c7b9f192aa724c3f952e60eaba.mp4]]></stream_url>
+<category_id>141</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Ложные цели красных блогеров]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/421/421ee2318f79d9f59c1db9f783a36b4d.jpg" width="175"/></td></tr></table>Кандидат исторических наук, археолог и основатель канала ""Красное ТВ"" Олег Двуреченский о проблемах современного левого блогерства в России. Нужно ли коммунистам конкурировать с Навальным? Как должен выглядеть настоящий марксистский кружок? Что надо делать красным блогерам?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a58/a58173f6abf3fee90c917e5d97a00087.mp4]]></stream_url>
+<category_id>141</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Мы никогда не были рабами!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/421/421ee2318f79d9f59c1db9f783a36b4d.jpg" width="175"/></td></tr></table>Историк Олег Двуреченский  про миф о долготерпении русского народа, и о мирном характере русского мужика. Так ли это?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6fb/6fbe05f342a9fabe0e75d22067e6d7dc.mp4]]></stream_url>
+<category_id>141</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Нефтяная игла России]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f62/f62165037ef2e76674e68973152b709c.jpg" width="175"/></td></tr></table>Кто или что сейчас кормит Россию? За чей счёт банкет? Почему наше будущее печальнее, чем будущее крестьян в царской России?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/ddb/ddbff6b85dbe78799fce9e7fc6b0ff24.mp4]]></stream_url>
+<category_id>141</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Время наступать]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/2ca/2ca25a391a588978984659a63618dcf3.jpg" width="175"/></td></tr></table>Встреча главного редактора канала «Сталинград»  Александра Пасечника с основателем канала «Красное ТВ» Олегом Двуреченским. Так ли сильно разнятся цели и задачи у двух каналов?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e67/e67ac5a3346e18e2bb3f2eb72bcf7bcf.mp4]]></stream_url>
+<category_id>141</category_id>
+</channel>
+
+</items>
