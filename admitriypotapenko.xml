@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ДмитрийПотапенко</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Что будем строить?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/686/686af41923577baa9d3e5b68e0e189aa.jpg" width="175"/></td></tr></table>Предприниматель, экономист Дмитрий Потапенко размышляет о том что, важно не жалеть об ошибках прошлого, а предотвращать ошибки будущего.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/253/253bcb8b921cfe6341457cc8c28ff471.mp4]]></stream_url>
+<category_id>91</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЭТО государство должно умереть]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d65/d658d92a0c8c79b641b4095eec6ca19c.jpg" width="175"/></td></tr></table>!МНЕНИЕ РЕДАКЦИИ НЕ СОВПАДАЕТ С МНЕНИЕМ СПИКЕРА!Как себя будут чувствовать граждане РФ в ближайшее время? Будет ли рост цен на лекарства? Можно ли лишить лицензии аптечные сети, которые завышают цены во время эпидемии? Что такое вирулентность вируса? Что будет с бизнесом в РФ в ближайший год? Какие перспективы у банковского сектора? Для чего сделали криптовалюту? Могут ли исчезнуть государства? Можно ли закрыть Москву на карантин? Что Дмитрий Потапенко советует сделать подписчикам телеканала ""Сталинград""?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f40/f40ab7f39f13a3f2673a2c98d43d277e.mp4]]></stream_url>
+<category_id>91</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ФСБ - войны кланов]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/bc7/bc7198e756aba824c3344798117e8629.jpg" width="175"/></td></tr></table>Предприниматель, экономист Дмитрий Потапенко  рассказывает о группировках и арестах сотрудников ФСБ.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/36c/36ca4636f701c93a164fe2384643930f.mp4]]></stream_url>
+<category_id>91</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Москва-Шиес Транзит]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/735/735ce5b997b0218906e5aa7d514ba5a2.jpg" width="175"/></td></tr></table>Предприниматель, экономист Дмитрий Потапенко размышляет о мусорной проблеме в Шиесе, о том, каким способом её можно решить, и кто занимается мусорным бизнесом в Москве. Как быть жителям Шиеса? Почему «мусорная проблема с нами всерьёз и надолго»…]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/5fd/5fd465160a4b8eee6ce62cf210d3f370.mp4]]></stream_url>
+<category_id>91</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Новая пенсионная пирамида]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fde/fde4e5472accfb4f8645cb2b7a0e4365.jpg" width="175"/></td></tr></table>Предприниматель, экономист Дмитрий Потапенко о негосударственных пенсионных фондах, пенсионной реформе и новом депутатском бизнесе. Какой должна быть пенсионная реформа и нужна ли она вообще?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b0d/b0d86c713ef4e15abf5a0915bed3a652.mp4]]></stream_url>
+<category_id>91</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ПОСЛЕ ПУТИНА КТО?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/461/461f1ab0b3a5dcaed3e1fcdaa8b36f54.jpg" width="175"/></td></tr></table>Предприниматель, экономист Дмитрий Потапенко размышляет об разных идеологиях, и ради чего их используют. О том, что будет после ухода Путина, кто придёт на смену этой власти?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/282/282b5fcd5b5316514b4ca3f032f9d8a1.mp4]]></stream_url>
+<category_id>91</category_id>
+</channel>
+<channel>
+<title><![CDATA[ У них нет проблем]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/773/7736ffee7b7df99eaa3011af59161617.jpg" width="175"/></td></tr></table>Предприниматель, экономист Дмитрий Потапенко про состояние дел в современной экономике РФ. Что нас ждёт в 2019-2020гг.?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/233/23365062f2fdcca1ae9d20269eb7275a.mp4]]></stream_url>
+<category_id>91</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Власть «расшатывает лодку»]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d0d/d0d1535f3783fa651344a61c3b3b2cc9.jpg" width="175"/></td></tr></table>Как нужно вводить карантин в крупных городах? В чём ошибки нынешнего московского карантина? Куда в смутное время пойдут люди из силовых структур? Какой прогноз на ближайшее время? Как аналогичные проблемы решаются сейчас в Америке? Из-за чего в РФ в поляризация общества? В чём смысл карантина? Может ли ситуация с вирусом привести к социальному взрыву? Что в первую должно обеспечить государство своим гражданам?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cd7/cd746f0301a211413b6865f5f8cfcfc9.mp4]]></stream_url>
+<category_id>91</category_id>
+</channel>
+
+</items>
