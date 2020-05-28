@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ВикторияГарсияБерналь</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ 30 серебренников за Курилы.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/3d7/3d7e3dcc1bec9d096331b37aaf21337d.jpg" width="175"/></td></tr></table>Александр Широкорад об угрозах, которые несет с собой сдача южных Курил. Александр Борисович Широкорад — российский популярный писатель и публицист. Автор более сотни научно-популярных книг по артиллерии, военной технике, истории.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/394/3944b703879ce6929183f1753602c7bb.mp4]]></stream_url>
+<category_id>72</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Бороться за свои права!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d92/d92735290b95149d772e9349eaa4cc15.jpg" width="175"/></td></tr></table>Журналист и политолог Виктория Гарсия-Берналь о митингах и выборах в МосгорДуму. Что не так делает власть и почему?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/491/491a24f54c09455790dbdd87e31e08c8.mp4]]></stream_url>
+<category_id>72</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Эффективные чиновники содержанки]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/013/013772f21732f85beab659d887a436ac.jpg" width="175"/></td></tr></table>Журналист и политолог Виктория Гарсия-Берналь про декларации о доходах чиновников за 2018 год. Почему жены чиновников богатеют не по дням, а по часам?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/7d7/7d7931c7574ed9d80812bcfdf3e1f81f.mp4]]></stream_url>
+<category_id>72</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Как будем голосовать?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/17c/17ced6ffa4a43757855bf116e651653c.jpg" width="175"/></td></tr></table>Откуда уверенность власти, что народ проголосует за поправки в Конституцию? Стоит ли идти голосовать в апреле? Какую агитацию придумали кремлёвские политтехнологи для каждой отдельной социальной группы? Могут ли реанимировать рейтинг ""Единой России""? Какие новые партии появятся на внутрироссийской политической сцене? Как будет проходить голосование по поправкам в Конституцию?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/872/872379671e27dd7b2f2d55d32e139801.mp4]]></stream_url>
+<category_id>72</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Куда плывёт Россия?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/4ea/4ea8e6827948ea0ea54ec66baea95a4b.jpg" width="175"/></td></tr></table>Журналист и ведущий телеканала ЦарьГРАД, известный блогер Виктория Гарсия-Берналь, и, главный редактор телеканала «Сталинград» Александр Пасечник спорят о роли РПЦ в современной политической жизни России; о русском вопросе, национализме, сращивании церковной иерархии с олигархами и чиновниками, отношении к президенту и власти. Куда движется страна Россия?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a14/a141a2d1ad3005e618c1bec352d38bd5.mp4]]></stream_url>
+<category_id>72</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Москва - не Россия или мусор на экспорт]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fb9/fb987e4a03437d23395a7d92c780a8b6.jpg" width="175"/></td></tr></table>Виктория Гарсия-Берналь о ситуации вокруг мусорных протестов в Архангельске.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/37e/37ec342be76e58977dfdb9ede6655536.mp4]]></stream_url>
+<category_id>72</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Россия без олигархов.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8fe/8fec5eb98f5d06b2b74e81965703bc51.jpg" width="175"/></td></tr></table>Виктория Гарсия-Берналь - популярный блогер, политолог, журналист о политическом моменте, Курилах и олигархате.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/5e3/5e35cf012d163628ae55f0134b2470ed.mp4]]></stream_url>
+<category_id>72</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Зондеркоманда Мишустина]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f5a/f5a2987654bd30594c51d6328e0051ea.jpg" width="175"/></td></tr></table>Журналист и политолог Виктория Гарсия-Берналь о выступлениях Соловьева, новых и старых министрах в России и изменении конституции.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/dff/dff6f4c75bae9f4d78fee8d44e95b225.mp4]]></stream_url>
+<category_id>72</category_id>
+</channel>
+
+</items>
