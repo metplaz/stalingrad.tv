@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>КириллБарабаш</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ ОТ СЛОВ К ДЕЛУ. САМООРГАНИЗАЦИЯ. (ЧАСТЬ I) #КириллБарабаш]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/3d4/3d45f4f0afbda830f5dd4ec66cb364da.jpg" width="175"/></td></tr></table>Как начать общаться с единомышленниками? Почему уже мало, просто, отправлять друг другу ролики в сообщениях? Какие категории людей полезны в организации дела?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/832/832b151cbc037403ebd16c23998371c3.mp4]]></stream_url>
+<category_id>117</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кирилл Барабаш: ""Никаких дискуссий по территориальным вопросам!""]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c21/c21a3b1e00f900a3188a3bc5ddf44462.jpg" width="175"/></td></tr></table>Кирилл Барабаш: о присяге, долге и предательстве.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/51d/51d9f5098a69822aa4bc2739153d97be.mp4]]></stream_url>
+<category_id>117</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кирилл Барабаш: ""Верить ""суке"" нельзя""..]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/4ae/4ae17f60e6a902bd16aa013c2203326f.jpg" width="175"/></td></tr></table>Бывший политзаключенный Кирилл Барабаш о Солженицыне.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/469/469aa52b5007083daa195d72b6ee3290.mp4]]></stream_url>
+<category_id>117</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Обратная связь: народ - власть.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/df1/df147d15821884f604f93f618483c2f3.jpg" width="175"/></td></tr></table>Бывший политзаключенный Кирилл Барабаш об ответственности власти перед народом и обратной связи ""народ-власть"" и сегодняшнем митинге. Митинг начнется в 13-00 на Суворовской площади.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/783/783fd5402718d7613655885851abf452.mp4]]></stream_url>
+<category_id>117</category_id>
+</channel>
+
+</items>
