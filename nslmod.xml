@@ -1940,11 +1940,6 @@
 <description>ОльгаЧетверикова</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aolgachetverikova.xml]]></playlist_url>
 </channel>
-
-
-
-
-
 <channel>
 <title><![CDATA[ Путин скачет на медведе]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/963/96311a85cf0bf177532bb077693215d3.jpg" width="175"/></td></tr></table>Ольга Шалина, руководитель Московского отделения партии ""Другая Россия"" о роли элит в деградации страны.]]></description>
@@ -1963,13 +1958,11 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/944/94423ad801695c565bebfb384f017464.mp4]]></stream_url>
 <category_id>148</category_id>
 </channel>
-
 <channel>
 <title>ПламенПасков</title>
 <description>ПламенПасков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aplamenpaskov.xml]]></playlist_url>
 </channel>
-
 <channel>
 <title><![CDATA[ Рафи Джабар: ""Мы убиваем русских и нам за это ничего нет...""]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8fb/8fbaac674e296d587b0d8a484e74206b.jpg" width="175"/></td></tr></table>Ополченец ДНР Рафи Джабар (позывной ""Абдулла"") о странной войне на Донбассе.]]></description>
@@ -2164,34 +2157,9 @@
 <category_id>167</category_id>
 </channel>
 <channel>
-<title><![CDATA[ НАРОД ПРОТИВ ФАШИЗМА]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/698/698624abd497cd0ddf882a91aad874bf.jpg" width="175"/></td></tr></table>Как патриотически настроенные граждане вступили в борьбу с полицаями 9 мая? Как воспрепятствовать фашистскому режиму РФ?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c8c/c8ca2d3b1a4c160ebc53596bbc3c2b5e.mp4]]></stream_url>
-<category_id>168</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Ингушетия - глупость или предательство?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e55/e554c6e7a57717d9f01ef8c29c0a3b7b.jpg" width="175"/></td></tr></table>Эльдар Хасанов - начальник штаба Славянской бригады и МО ДНР в отставке о сититуации в Ингушетии.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/095/095c843664c57e4fb4a17fad6d2c6f07.mp4]]></stream_url>
-<category_id>168</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Ни вершка нашей земли никому!]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/45f/45f9f894b8f7b42d31c7a1c89fe94b69.jpg" width="175"/></td></tr></table>Эльдар Хасанов: ""Ни вершка нашей земли никому!"" Начальник штаба Славянской бригады и МО ДНР (в отставке).]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b26/b263dfec361281a984d0d34279ec3948.mp4]]></stream_url>
-<category_id>168</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Сталин как идея]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/65d/65da12dda2bcabd7315c05fe1773d4bc.jpg" width="175"/></td></tr></table>Сталин как идея Видео на канале Сталинград]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/217/21700834a7d849c346d5fddc78d7cc58.mp4]]></stream_url>
-<category_id>168</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Суд над Стрелковым Цель – Россия]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/1fa/1fa1ab66ca68f30034d447791c4a08d4.jpg" width="175"/></td></tr></table>Начальник штаба славянской бригады и МО ДНР в отставке, Эльдар Хасанов об авиационной катастрофе, произошедшей 17 июля 2014 года, Boeing 777 (рейс MH17). Кто виноват и  кому эта катастрофа была нужна?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/528/528b199a9234c699f575b36310c01d33.mp4]]></stream_url>
-<category_id>168</category_id>
+<title>ЭльдарХасанов</title>
+<description>ЭльдарХасанов</description>
+<playlist_url><![CDATA[]]></playlist_url>
 </channel>
 <channel>
 <title><![CDATA[ Их нужно лечить электричеством]]></title>
