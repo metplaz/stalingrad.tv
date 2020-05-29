@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>СергейУдальцов</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Коммунисты - борьба на два фронта]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/95c/95c90f56cf3b811f7927180627fd28a7.jpg" width="175"/></td></tr></table>Координатор Левого фронта Сергей Удальцов о согласованном митинге на проспекте Сахарова 20 июля, о недопуске независимых кандидатов на выборы в Мосгордуму, а также о том, как патриотическая оппозиция должна бороться с либералами в Кремле и с либералами на улице.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b42/b42d9af7cd8dae9b0466b08fb70dc8ff.mp4]]></stream_url>
+<category_id>159</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Либералы правят балы]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/2c4/2c49812009d4bb1fc37178d74626ae7e.jpg" width="175"/></td></tr></table>Координатор Левого фронта Сергей Удальцов о том, что либералы более сплочены и более подготовлены к переменам во власти, чем лево патриотические силы, и, к чему это может привести. История повторится? Мы стоим на пороге исторических событий…]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/af6/af66eb6c4ede9be3912b53086fdec468.mp4]]></stream_url>
+<category_id>159</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Пожар в Грузии]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/77b/77b8d180be368641a280df65d35431f2.jpg" width="175"/></td></tr></table>Координатор Левого фронта Сергей Удальцов о разгорающихся волнениях в столице Грузии.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/1ea/1eab7d6b85c99130d0ffd9933c6d5e22.mp4]]></stream_url>
+<category_id>159</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Путинский блицкриг]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/97d/97d7e23f5037453dd604e911ab6885eb.jpg" width="175"/></td></tr></table>Координатор ""Левого фронта"" Сергей Удальцов об отставке правительства РФ, назначении нового премьер-министра и о том, как Путин в очередной раз хочет «обмишустить» народ России.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/97a/97ad312018974aac4267853d8820412e.mp4]]></stream_url>
+<category_id>159</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Устал врать]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a07/a0748d13865c70729ff8be1ef4abf82d.jpg" width="175"/></td></tr></table>Координатор Левого фронта Сергей Удальцов о анализирует прямую линию с Путиным.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/4c6/4c6450b45cc201947623f19000bc64f5.mp4]]></stream_url>
+<category_id>159</category_id>
+</channel>
+
+</items>
