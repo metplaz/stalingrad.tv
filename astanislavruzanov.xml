@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>СтаниславРузанов</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Большевики и церковь]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/7fc/7fc2deef7dedce7810de7a2ccd268915.jpg" width="175"/></td></tr></table>Историк, председатель движения ""Трудовая Россия"" Станислав Рузанов об отношении большевиков к церкви.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/bee/bee6242f75221651fc0c1e0f09823217.mp4]]></stream_url>
+<category_id>160</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Рабство в тренде]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/26a/26a3e12e7c0f8c751292696f12a6284f.jpg" width="175"/></td></tr></table>Историк, председатель движения ""Трудовая Россия"" Станислав Рузанов о современном крепостном праве в России. Кто и зачем пропагандирует крепостное право?  ]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/2e3/2e3e6c42617f19593a43d61d250bae7d.mp4]]></stream_url>
+<category_id>160</category_id>
+</channel>
+
+</items>
