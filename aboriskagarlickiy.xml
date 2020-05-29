@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>БорисКагарлицкий</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Чем Чечня отличается от Пскова.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/2dd/2dd689ff9c185077037b365367978299.jpg" width="175"/></td></tr></table>Борис Кагарлицкий объясняет почему долги за газ Чечне простят, а вот другим российским регионам - нет.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/987/9874e8cbef5b0a2f532513247e75ed16.mp4]]></stream_url>
+<category_id>59</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Эксперимент нового рейха]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e09/e093305d0bb492280a841cdfc655c0d1.jpg" width="175"/></td></tr></table>Чем руководствуются власти вводя уголовную ответственность за нарушения самоизоляции? Как будут выписываться штрафы? Что делать простым людям в сложившийся ситуации? Как проходила пандемия в Италии?  Будут психические заболевания в результате карантина? Если самоизоляция продлится месяц, что будет в России? Какая борьба за власть идёт в Кремле? Может ли премьер-министр объявлять ЧС? В чём разница между народом и населением?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cf6/cf60a5c9850e65965fe75468542193d8.mp4]]></stream_url>
+<category_id>59</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Они доиграются...]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f1a/f1a822864efd7040809c239233be8900.jpg" width="175"/></td></tr></table>Борис Кагарлицкий об опасных играх власти и системном кризисе..Статья Бориса Кагарлицкого о Курилах:http://rabkor.ru/columns/analysis/2018/12/20/kuril-islands/ А также канал Рабкор]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/671/67167302969f167d2ffe924598380e7b.mp4]]></stream_url>
+<category_id>59</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Наука на экспорт]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/b76/b7625aff8913c7d261a81453c90facea.jpg" width="175"/></td></tr></table>Директор института ИГСО Борис Кагарлицкий комментируют ситуацию, сложившуюся в российской науке и дает прогноз о её перспективах, в связи с заявлениями Кудрина о распределении бюджетных средств]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/38a/38af0e15e0140c316a343871d25113a6.mp4]]></stream_url>
+<category_id>59</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Конфликт со львами. Тайган]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/382/382bac5e1bf95f97584790b8c3323fc3.jpg" width="175"/></td></tr></table>Директор института ИГСО Борис Кагарлицкий комментируют ситуацию, сложившуюся вокруг парка львов «Тайган» в Крыму и его директора Олега Зубкова.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/ecc/ecc07197423dadb1f30aa7c603ddd377.mp4]]></stream_url>
+<category_id>59</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Власть не способна управлять]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/668/66849072976f602b8a45ea399f89fb5e.jpg" width="175"/></td></tr></table>К чему приведёт паника по коронавирусу? Будет ли карантин? До чего довели ""реформы"" медицины? От чего в Италии происходят летальные случаи? Как коронавирус превращается в политику и экономику? Какие сценарии могут быть в России весной?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/623/623a3cade6b512a84471083c60572641.mp4]]></stream_url>
+<category_id>59</category_id>
+</channel>
+
+</items>
