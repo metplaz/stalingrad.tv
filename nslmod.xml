@@ -2199,22 +2199,9 @@
 <category_id>175</category_id>
 </channel>
 <channel>
-<title><![CDATA[ Юрий Мухин: праздники настоящие и праздники ""липовые""]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f54/f5482d104c29aaf648a74ec6e03a8c32.jpg" width="175"/></td></tr></table>Юрий Мухин: праздники настоящие и праздники липовыe. Видео на канале Сталинград]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b54/b540ed106444d587e716c16daa5845c2.mp4]]></stream_url>
-<category_id>176</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Юрий Мухин: при Сталине мы всё могли!]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e63/e63884f5d018484cdd72090ddc6fb1b8.jpg" width="175"/></td></tr></table>В студии канала ""Сталинград"" советский изобретатель, политик, публицист, писатель Юрий Мухин рассуждает о личности И.В. Сталина и ностальгии людей по тем временам, когда они чувствовали себя гражданами великой страны и людьми ""первого сорта"".]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/5f7/5f7912d12db1328e407421d1533e435a.mp4]]></stream_url>
-<category_id>176</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Конституция НЕ гарантирует]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5bc/5bc04ce1d96822957a0b9de10baac3b4.jpg" width="175"/></td></tr></table>Писатель и публицист Юрий Игнатьевич Мухин о реформе конституции РФ, о трёх ветвях власти, о гаранте конституции, прав и свобод граждан России и о том, что затеяли в Кремле.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/fa1/fa1f19fbb22ac07d66b30ecc6dff0f68.mp4]]></stream_url>
-<category_id>176</category_id>
+<title>ЮрийМухин</title>
+<description>ЮрийМухин</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriymuhin.xml]]></playlist_url>
 </channel>
 <channel>
 <title><![CDATA[ СТАЛИНСКИЙ ПОЛК. Юрий Назаров]]></title>
