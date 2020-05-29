@@ -2095,16 +2095,9 @@
 <category_id>159</category_id>
 </channel>
 <channel>
-<title><![CDATA[ Большевики и церковь]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/7fc/7fc2deef7dedce7810de7a2ccd268915.jpg" width="175"/></td></tr></table>Историк, председатель движения ""Трудовая Россия"" Станислав Рузанов об отношении большевиков к церкви.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/bee/bee6242f75221651fc0c1e0f09823217.mp4]]></stream_url>
-<category_id>160</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Рабство в тренде]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/26a/26a3e12e7c0f8c751292696f12a6284f.jpg" width="175"/></td></tr></table>Историк, председатель движения ""Трудовая Россия"" Станислав Рузанов о современном крепостном праве в России. Кто и зачем пропагандирует крепостное право?  ]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/2e3/2e3e6c42617f19593a43d61d250bae7d.mp4]]></stream_url>
-<category_id>160</category_id>
+<title>СтаниславРузанов</title>
+<description>СтаниславРузанов</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/astanislavruzanov.xml]]></playlist_url>
 </channel>
 <channel>
 <title><![CDATA[ Блогеры - Ай, как не просто!]]></title>
@@ -2117,9 +2110,6 @@
 <description>СтепанСулакшин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/astepansulakshin.xml]]></playlist_url>
 </channel>
-
-
-
 <channel>
 <title><![CDATA[ Муж - домашнее животное женщины]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/4d1/4d12938dea8c23b5ba0956a05c79f337.jpg" width="175"/></td></tr></table>Педагог и психолог Татьяна Львовна Шишова о том, кто является ЖЕРТВОЙ и на кого нацелен ЗАКОН о профилактике семейно-бытового насилия.]]></description>
