@@ -2204,16 +2204,9 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriymuhin.xml]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[ СТАЛИНСКИЙ ПОЛК. Юрий Назаров]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/b0e/b0e8b0f0da7dd4a1f2c6b6065fe34c22.jpg" width="175"/></td></tr></table>Группа ""СТАЛИНСКИЙ ПОЛК"" в ВКонтакте: https://vk.com/stalinskypolk Народный артист России Юрий Назаров о роли Сталина в Победе над нацистской Германией и попытках компрадорской элиты очернить его имя.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/58b/58bad431b3054e0546fd30cd6c6d0fac.mp4]]></stream_url>
-<category_id>177</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Возврат к капитализму - это предательство]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/aff/afffbad4515c41e57bc751c0c83fb1b6.jpg" width="175"/></td></tr></table>Юрий Назаров о предательстве Родины сегодняшней властью. Юрий Владимирович Назаров — советский и российский актёр театра и кино. Народный артист Российской Федерации.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/17d/17d463dc9b37d46e7a92d86202c91eba.mp4]]></stream_url>
-<category_id>177</category_id>
+<title>ЮрийНазаров</title>
+<description>ЮрийНазаров</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriynazarov.xml]]></playlist_url>
 </channel>
 <channel>
 <title><![CDATA[ Операция «Уран». Подвиг советского человека]]></title>
