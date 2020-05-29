@@ -1730,22 +1730,9 @@
 <category_id>115</category_id>
 </channel>
 <channel>
-<title><![CDATA[ Что будет после коронавируса?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/25a/25af4e2c09174cb3f93992f35a34788b.jpg" width="175"/></td></tr></table>Всемирная пандемия: форс-мажор или флешмоб? Как работает психология масс под влиянием СМИ? Как мировая экономика реагирует на коронавирус? Что такое ЧайнаАмерика? В чём заключается восточная хитрость? Как надорвалась ФРС? Что такое ""технологическое варварство""? Для чего навязываются нездоровые образы поведения? Какое отношение надо вырабатывать к событиям в мире? В чём особенности менталитета итальянцев, испанцев и японцев? Будут ли в новом мире блокчейн технологии занимать главное место в экономике? В чём смысл жизни современного человека?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/911/911b8f184ac031cfe30288cd89aca711.mp4]]></stream_url>
-<category_id>116</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Матрица уже здесь]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8e4/8e49782715f86f331124ee62f7a6a0da.jpg" width="175"/></td></tr></table>Что такое QR-коды для граждан? Является ли введение поголовной цифровизации ограничением свободы? Может ли цифровизация быть справедливой? В чьих интересах действует мэрия Москвы?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cf5/cf538e9a386b9c0b02e5d1b6ea826fd6.mp4]]></stream_url>
-<category_id>116</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Цифровое скотство]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f6b/f6b59cf0bec0b03f9b90e347e2f0bc65.jpg" width="175"/></td></tr></table>Кандидат физико-математических наук, консультант по Big Data Ирина Константиновна Мухина о месте человеке в новом технологическом укладе, о синергическом эффекте Техносферы, о Сбербанке, о крипто-валюте, о «Хомо-диджитал» (homo-digital), о трёх инновационных направлениях и о социальной инженерии.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/246/246d56590fa4d0da118c6b4c5f1eb09f.mp4]]></stream_url>
-<category_id>116</category_id>
+<title>ИринаМухина</title>
+<description>ИринаМухина</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/airinamuhina.xml]]></playlist_url>
 </channel>
 <channel>
 <title>КириллБарабаш</title>
