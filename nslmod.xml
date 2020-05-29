@@ -1420,25 +1420,17 @@
 <description>ВикторияГарсияБерналь</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aviktoriyagarsiyabernal.xml]]></playlist_url>
 </channel>
- 
- 
- 
 <channel>
 <title><![CDATA[ КрымНАШ а Россия?]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/330/330eee59622093ba6c683e8075eb383e.jpg" width="175"/></td></tr></table>Коренной крымчанин, кандидат исторических наук, член ассоциации политологов Крыма Виктор Харабуга о ситуации вокруг Крыма. Что произошло в Крыму в 2014 году? Почему Крым, находясь в составе России, является отчужденной территорией? Если Крым наш, то можно ли так сказать о самой России?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f33/f333a5430a0087e644317b2ff6e94936.mp4]]></stream_url>
 <category_id>73</category_id>
 </channel>
- 
- 
-<channel>
+ <channel>
 <title>ВиталийИванов</title>
 <description>ВиталийИванов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avitaliyivanov.xml]]></playlist_url>
 </channel>
-
- 
- 
 <channel>
 <title><![CDATA[ Взгляд из Киева. Куда уехал цирк?]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c5d/c5da357dc02fdeb7cf8d3c3433240479.jpg" width="175"/></td></tr></table>Композитор, заслуженный артист УССР Владимир Быстряков о новом президенте, колонизации страны, о глубинных процессах в государственном устройстве, а также о тех регионах планеты, в которых украинская элита построила себе светлое будущее.]]></description>
@@ -1936,16 +1928,9 @@
 <playlist_url><![CDATA[https://github.com/metplaz/stalingrad.tv/blob/nslmod/aolegdvurechenskiy.xml]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[ Когда закончатся деньги]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/981/981d675ca9d4cbd26ffabb3f0ed1bd31.jpg" width="175"/></td></tr></table>Сколько предприятий понесёт убытки от самоизоляции? Почему нельзя потратить деньги из ФНБ? Как по ВВП России бьёт кризис весны 2020 года? Какую роль каждая из стран играет в мировом разделении труда? Что должна сделать власть, чтобы помочь бизнесу выйти из кризиса? В чёт нюансы сделки в ОПЕК+? Как будут насыщать экономику РФ после кризиса? Сколько сейчас тратит Россия на борьбу с коронавирусом? Когда будет пик последствий от карантина? Как проходили крупные кризисы в экономике в 20 веке? В каком случае экономика может противостоять кризису?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/67e/67e262c6bbdc40efad21463a09d4845b.mp4]]></stream_url>
-<category_id>142</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Кому принадлежит 70% России?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/b02/b028774338d5eb4c09b5f57fde5bcb92.jpg" width="175"/></td></tr></table>Какая доля у государства в российской экономике? В какой партии состоит глава ФАС? Какую компанию можно называть государственной? С какой скоростью продолжается приватизацию при власти Путина? Какая роль государства, как экономического актора? Как государство спасает крупные банки? Для чего создавался Фонд Национального Благосостояния? Чему учат в Высшей Секте Экономики? Почему ""кругом всё государственное"", но государство с этого ничего не получает? Что такое социализация предприятий? Для чего либералы лгут в своей пропаганде? Для чего надо изучать политэкономию? Рассказывает кандидат экономических наук Олег Комолов о том, кому принадлежит львиная доля собственности в России.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/fd6/fd6d396bae1a5184305272bae6c99c50.mp4]]></stream_url>
-<category_id>142</category_id>
+<title>ОлегКомолов</title>
+<description>ОлегКомолов</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aolegkamolov.xml]]></playlist_url>
 </channel>
 <channel>
 <title><![CDATA[ Оккупация Севера. Шиес.]]></title>
