@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>КонстантинСёмин</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Америка уже здесь]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/808/808694cb7da322e0729e7fe9befcdcc2.jpg" width="175"/></td></tr></table>Известный журналист и блогер Константин Сёмин размышляет о самом ценном, что мы потеряли после развала Советского Союза...  ]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/47c/47c3385013e3bbbd706577497ba30c17.mp4]]></stream_url>
+<category_id>119</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Сказки закончились]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/406/406f5d78b894a882730737568f10e092.jpg" width="175"/></td></tr></table>Известный журналист и блогер Константин Сёмин об избавлении общества от иллюзий. Когда созреют перемены в обществе?  Что делать тем, кто понимает, что происходит в стране и в мире, но растерян и подавлен?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/93d/93db09217464dbb1aa4196128431815b.mp4]]></stream_url>
+<category_id>119</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Власть готовится]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/67b/67b6c3bc2b0e065a9dbbca47a7733182.jpg" width="175"/></td></tr></table>Военный эксперт Константин Сивков о двух ударах, которые готовится принять власть. Почему они торопятся? Какие потрясения нас ждут в будущем?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/3e7/3e7c613b33a01b2763b300ea66ad2a79.mp4]]></stream_url>
+<category_id>119</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Главная опасность коронавируса]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/bcb/bcbf8731dc571de7ff9357ead7425aee.jpg" width="175"/></td></tr></table>Что из себя представляет пандемия коронавируса? Чем это закончится для РФ? Что происходило в США во время прошлых катастроф? Как увеличивается страх безработицы от пандемии? Как будет работать экономика в авральном режиме? Как американское правительство будет спасать банки? Что в случае ЧП думает человек с мелко-буржуазным сознанием? Чем отличается поведения китайцев от итальянцев в экстраординарных ситуациях? Что такое ""корпоративизм""? Куда улетят олигархи во время пандемии?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f7d/f7d3f14aa84c8c6d79d5c87c32cbb3c2.mp4]]></stream_url>
+<category_id>119</category_id>
+</channel>
+
+</items>
