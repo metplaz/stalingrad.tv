@@ -1916,25 +1916,10 @@
 <description>НиколайБондаренко</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/anikolaybondarenko.xml]]></playlist_url>
 </channel>
-
-
 <channel>
-<title><![CDATA[ Госпереворот в Китае]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f18/f180cf79a20f22ac6cb00981b4cb8e04.jpg" width="175"/></td></tr></table>Китаевед, автор книги «Кланы и политические группы КНР» Николай Вавилов о коронавирусе и его политической подоплёке. Расстановке политических сил в Китае и их отношению к России и США.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/318/3186d2beff94bbbf62d9472456877be7.mp4]]></stream_url>
-<category_id>136</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Китайская либеральная революция]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/3b8/3b805e50a8f15c43a0ddb3e51f0a4025.jpg" width="175"/></td></tr></table>Китаевед, автор книги «Кланы и политические группы КНР» Николай Вавилов о торговой войне между Китаем и США. Будет ли глобальный конфликт?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/137/1371b2e269de7c0e8b670d84e2a3aae8.mp4]]></stream_url>
-<category_id>136</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Китайский ГКЧП]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e5d/e5d564d46bc78160fefc34a827994578.jpg" width="175"/></td></tr></table>Что происходит в Китае? На сколько разрушена логистика в Поднебесной? Почему китайские капиталы уходят из Китая? Зачем власти КНР форсируют панику среди населения? Зачем чиновники города Ханжоу запретили продавать противовирусные препараты в аптеках? Почему Комитет по здравоохранению пересчитали количество заболевших? Как идёт противостояние между комсомольцами и Си Цзинпином? Что в аэропорту Уханя делает 5 тысяч военнослужащих НОАК? Почему ВКС РФ прибыли в Гуанжоу на 5 бортах? Зачем Помпео объявил Си Цзинпина врагом человечества? Как проходили протесты в Китае в 1989 году? Могут ли похожие события быть сейчас? Какой план во внутренней политике был у Си Цзинпина до 2020 года? Сколько микроэлектроники импортирует Китай? Почему Навальный ненавидит Китай и призывает воевать против него? Как должна повести себя Россия в отношениях с КНР?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e6d/e6deedc0fb140e4d4ac46a1577abc024.mp4]]></stream_url>
-<category_id>136</category_id>
+<title>НиколайВавилов</title>
+<description>НиколайВавилов</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/anikolayvavilov.xml]]></playlist_url>
 </channel>
 <channel>
 <title><![CDATA[ Дамба алчности]]></title>
@@ -1942,16 +1927,11 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/8ab/8ab9218d1b7d89aa796eddf2910b3feb.mp4]]></stream_url>
 <category_id>137</category_id>
 </channel>
-
 <channel>
 <title>НиколайПлатошкин</title>
 <description>НиколайПлатошкин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/anikolayplatoshkin.xml]]></playlist_url>
 </channel>
-
-
-
-
 <channel>
 <title><![CDATA[ Феномен Ленина]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5fd/5fd123a4e70a2bea22f50f4f914e558e.jpg" width="175"/></td></tr></table>Историк-религиовед Николай Сергеевич рассказывает о жизненном пути Ленина, о предпосылках появления такого политического деятеля. Что способствовало его приходу к власти? На какие жертвы он готов был пойти ради своих целей? Почему Ленин - человек будущего?]]></description>
@@ -1975,11 +1955,6 @@
 <description>ОлегДвуреченский</description>
 <playlist_url><![CDATA[https://github.com/metplaz/stalingrad.tv/blob/nslmod/aolegdvurechenskiy.xml]]></playlist_url>
 </channel>
-
-
-
-
-
 <channel>
 <title><![CDATA[ Когда закончатся деньги]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/981/981d675ca9d4cbd26ffabb3f0ed1bd31.jpg" width="175"/></td></tr></table>Сколько предприятий понесёт убытки от самоизоляции? Почему нельзя потратить деньги из ФНБ? Как по ВВП России бьёт кризис весны 2020 года? Какую роль каждая из стран играет в мировом разделении труда? Что должна сделать власть, чтобы помочь бизнесу выйти из кризиса? В чёт нюансы сделки в ОПЕК+? Как будут насыщать экономику РФ после кризиса? Сколько сейчас тратит Россия на борьбу с коронавирусом? Когда будет пик последствий от карантина? Как проходили крупные кризисы в экономике в 20 веке? В каком случае экономика может противостоять кризису?]]></description>
