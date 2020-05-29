@@ -1920,16 +1920,9 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/anikolayplatoshkin.xml]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[ Феномен Ленина]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5fd/5fd123a4e70a2bea22f50f4f914e558e.jpg" width="175"/></td></tr></table>Историк-религиовед Николай Сергеевич рассказывает о жизненном пути Ленина, о предпосылках появления такого политического деятеля. Что способствовало его приходу к власти? На какие жертвы он готов был пойти ради своих целей? Почему Ленин - человек будущего?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/844/8447c82eb60df269bdf3ee8738743a28.mp4]]></stream_url>
-<category_id>139</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Сталин и церковь]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a4f/a4fdae79e9adcae5cafd1561a92277f1.jpg" width="175"/></td></tr></table>Историк-религиовед Николай Сергеевич Сапелкин рассказывает о жизненном пути Сталина, о его обучении в духовной семинарии, ссылках и других факторах которые повлияли на его отношение к религии. Правда ли, что Сталин был безбожником и ""фактически уничтожил веру"" как говорят?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/165/16529cd834086f1a6ce09f01174c9a0a.mp4]]></stream_url>
-<category_id>139</category_id>
+<title>НиколайСапелкин</title>
+<description>НиколайСапелкин</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/anikolyasapelkin.xml]]></playlist_url>
 </channel>
 <channel>
 <title><![CDATA[ Сладкая жизнь. Николай Эрней]]></title>
