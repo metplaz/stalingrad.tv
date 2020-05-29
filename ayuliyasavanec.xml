@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ЮлияСаванец</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Лекция №5. Первая помощь. Введение на канале Сталинград]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/95b/95b19e5619564bdae747fbee5b565705.jpg" width="175"/></td></tr></table>Когда появились международные движения ""Красного креста"", ""Красного полумесяца"" и ""Красного кристалла""? Что такое первая медицинская помощь? Почему пострадавшему нельзя давать никакие лекарства? Кто обязан оказывать первую помощь? Что для спасателя чрезвычайная ситуация? Чем может поможет свидетель происшествия? Какой существует алгоритм первой помощи? Как вступать в диалог с пострадавшим? Как работать с потерявшим сознание человеком?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/352/3520b9b702a4c572878556cfe3bb07e6.mp4]]></stream_url>
+<category_id>171</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Лекция №5. Первая помощь. Травмы, раны, кровотичение]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/2c6/2c6db20d91c44a096798ee11b6ba4b83.jpg" width="175"/></td></tr></table>Что такое сердечно-лёгочная реанимация? Как понять, что человек мёртв? Почему важно просить вызвать скорую помощь адресно? Чем помощь взрослому отличается от помощи ребёнку? Что делать, если человек подавился? Как помочь самому себе в случае, если затруднено дыхание? Что делать при сильном кровотечении? Как правильно помогать при переломах конечностей?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/24a/24a306543e5073eb2123fbfbc7ce9b2c.mp4]]></stream_url>
+<category_id>171</category_id>
+</channel>
+
+</items>
