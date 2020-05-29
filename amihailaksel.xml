@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>МихаилАксель</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Будьте решительнее..!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8e0/8e0501d9d694a8e6496e1d12d7da843d.jpg" width="175"/></td></tr></table>Какое самое яркое общественно-политическое событие в истории современной России, в котором участвовал Эдуард Лимонов? На кого из известных людей повлиял он повлиял? Какие идеалы отстаивал Эдуард Вениаминович? Что в его биографии первичнее - политик или писатель? В чём Лимонова обвиняли противники? Летов и Лимонов - что общего между ними? Чем Эдуард Вениаминович занимался за границей? Какие литературные произведения Лимонова можно посоветовать прочитать? Дело Лимонова будет жить и без его участия? Говорит Михаил Аксель, член исполкома партии «Другая Россия».]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d26/d261ab90f461c3d5a8b028e01da2dead.mp4]]></stream_url>
+<category_id>132</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Русофобия на осколках СССР]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/75f/75f3c6c14affb3e372a3e2ffdf8fded4.jpg" width="175"/></td></tr></table>Михаил Аксель, член исполкома ""Другая Россия"" о причинах русофобии в бывших республиках СССР.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6fa/6fa6444419d71b7e6707ab3e597eb621.mp4]]></stream_url>
+<category_id>132</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кровавое дело ""Сети""]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/25e/25edfe908c433b47868727eb646cfe75.jpg" width="175"/></td></tr></table>В России политические репрессии набирают обороты, множество активистов получают реальные сроки. Активист движения ""Другая Россия"" Михаил Аксель поделился своим мнением по поводу происходящего.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/31d/31ddfdd17c2bfacd834f3a083df68ec9.mp4]]></stream_url>
+<category_id>132</category_id>
+</channel>
+
+</items>
