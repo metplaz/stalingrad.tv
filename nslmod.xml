@@ -2208,22 +2208,9 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriyevich.xml]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[ Конституция: кто виноват и что делать?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/459/459b7145a9a752dca60cf3a61b44fdcc.jpg" width="175"/></td></tr></table>Юрий Жуков о тупиковом состоянии российского общества. Липовая конституция. Ельцин. Путин. Собянин.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/8ae/8aed240c5df20deaa58b7cf99c83d27b.mp4]]></stream_url>
-<category_id>174</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Кумиры Путина - агенты США?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c6b/c6bf891e28a9bc4e054b62d67a12af6e.jpg" width="175"/></td></tr></table>Историк Юрий Николаевич Жуков о фальсификаторах отечественной истории и странной любви к ним президента РФ.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9cf/9cf240d47b98d7c1ea4ce856457e87a3.mp4]]></stream_url>
-<category_id>174</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Неизвестный Сталин]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/146/14679ad8369d32050d778e9df8106246.jpg" width="175"/></td></tr></table>Доктор исторических наук, главный научный сотрудник российской истории РАН Юрий Николаевич Жуков про истинные масштабы причины и следствия сталинских репрессий. Мог ли Сталин прекратить политические репрессии? Почему репрессии были, есть, и будут всегда? Какое общество хотел построить И.В.Сталин?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/2e2/2e21833b5a3a057f91ccaf8339ce07a6.mp4]]></stream_url>
-<category_id>174</category_id>
+<title>ЮрийЖуков</title>
+<description>ЮрийЖуков</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriyzhukov.xml]]></playlist_url>
 </channel>
 <channel>
 <title><![CDATA[ Новая концепция миграционного законодательства.]]></title>
