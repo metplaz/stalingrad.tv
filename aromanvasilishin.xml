@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>РоманВасилишин</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Бунт в Чемодановке]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/617/6177b0f60d941f3a273b72f498fc3a1b.jpg" width="175"/></td></tr></table>Политический аналитик Роман Василишин про цыганский беспредел против местных жителей в селе Чемодановка Пензенской области.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/21f/21fe1f625c24982bc12ccc87a9c97201.mp4]]></stream_url>
+<category_id>151</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Казахстан дрейфует к Китаю]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/517/5179159e17b9b573e599be0a24451495.jpg" width="175"/></td></tr></table>Роман Василишин коротко об отставке Назарбаева и новом курсе Казахстана.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/704/704c72d6ffef93e9d792554db3165c6d.mp4]]></stream_url>
+<category_id>151</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Скорая помощь больше не приедет]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a87/a872e71357f4cc32d70a03995c557d6b.jpg" width="175"/></td></tr></table>Украинский писатель и публицист Роман Василишин о состоянии медицины на Украине. Почему разваливают медицину, кто стоит за этими процессами?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/5ef/5ef68b200ec35466ad0514ee845b72e1.mp4]]></stream_url>
+<category_id>151</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Украина: Выборы без выбора]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/386/3864d43030f3e1be4a6f2241711b7252.jpg" width="175"/></td></tr></table>Роман Василишин о том, повлияют ли выборы президента на Украине на отношения с Россией. Кто стоит за кандидатами в президенты? Почему элиты Украины и России будут зачищаться? Новая книга автора и собрание сочинений по ссылке - https://kv-journal.su/content/beg-po-solnechnomu-krugu Редакция канала не во всем согласна с Р. Василишиным, но считает необходимым донести его взгляды до зрителя.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9e8/9e824cf30b2cac9f9a83218991f8d268.mp4]]></stream_url>
+<category_id>151</category_id>
+</channel>
+
+</items>
