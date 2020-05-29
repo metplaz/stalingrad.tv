@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ЮрийГорошкоТАВР</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ МОЗГОВОЙ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/176/17601422360e7c39705b2c2fac75b245.jpg" width="175"/></td></tr></table>Документальный фильм Юрия Горошко посвященный легендарному командиру бригады ""Призрак"" Алексею Мозговому.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/278/278c0f2a0761b4ec03ad15f0b0b8d4b6.mp4]]></stream_url>
+<category_id>172</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Премьера фильма ""МОЗГОВОЙ""]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/6eb/6eb51f37ca92c941e76655a2f24deb96.jpg" width="175"/></td></tr></table>23 мая в 17:00 на телеканале ""Сталинград"" и сайте https://stalingrad.tv/ смотрите документальный фильм российского добровольца - Юрия Горошко (позывной ""Тавр"") о легендарном командире бригады ""Призрак"" - Алексее Борисовиче Мозговом. Как появилась идея создать фильм о легендарном командире бригады ""Призрак""? С кем из исторический личностей можно сравнить Алексея Мозгового? В чём была его главная ошибка? Почему фильм об Алексее Борисовиче актуален и сейчас? Как Мозговой подымал хозяйство на Донбассе? Что будет в России в ближайшее время? Кто убил Алексея Мозгового? В фильме собраны эксклюзивные интервью бойцов и командиров, которые знали комбрига лично.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/53a/53aa1ae2a08dd9e62fb02933a5803e61.mp4]]></stream_url>
+<category_id>172</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ! АНОНС ФИЛЬМА ПРО МОЗГОВОГО !]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a4d/a4d6dad87900ace83e7362638601b286.jpg" width="175"/></td></tr></table>Трейлер документального фильма российского добровольца - Юрия Горошко (позывной ""Тавр"") о легендарном командире бригады ""Призрак"" - Алексее Борисовиче Мозговом. В фильме собраны эксклюзивные интервью бойцов и командиров, которые знали комбрига лично. Их мнения и воспоминания о нём.P.S. Уникальные видеоматериалы подобраны из архивов военкоров бригады ""Призрак"".]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d8c/d8c98bade16bf806c04ece28431d3b3e.mp4]]></stream_url>
+<category_id>172</category_id>
+</channel>
+
+</items>
