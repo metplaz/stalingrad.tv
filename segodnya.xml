@@ -18,7 +18,12 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
 
-
+<channel>
+<title><![CDATA[ НЕ БОЙТЕСЬ НИ ВИРУСА, НИ ГОСУДАРСТВА!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/17b/17bc18f6ec0737ba41380b66257da89f.jpg" width="175"/></td></tr></table>Как можно назвать то, что ты происходит в стране? Кто правит в РФ - Путин или Собянин? Почему Лукашенко занимается уничтожением экономики своей страны под прикрытием вируса? По каким критериям идёт подбирают политиков? Что такое "самоизоляция" с точки зрения закона? Почему в западных странах запретили вскрывать умерших?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/534/5349a97281898cd6e9c92accdd170b0f.mp4]]></stream_url>
+<category_id>10,26,176,117</category_id>
+</channel>
 <channel>
 <title><![CDATA[ ПОБЕДА ИЛИ СМЕРТЬ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/50e/50e6fbf4595849b396d309390813b361.jpg" width="175"/></td></tr></table>Как ответить на вопрос:«Что с нами сейчас делается?». Что нас ждёт осенью? Какие народы могут изменить ход истории в нашу эпоху?]]></description>
