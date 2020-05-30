@@ -1554,18 +1554,14 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/80b/80b09d21172292af179d7b871bfeaf15.mp4]]></stream_url>
 <category_id>94</category_id>
 </channel>
+ 
+ 
 <channel>
-<title><![CDATA[ Правосудие не для всех]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e7f/e7f73d0d7c14cd3670f2cf4a8743e4e7.jpg" width="175"/></td></tr></table>Адвокат, кандидат экономических наук Евгений Именитов о российской судебной системе. К чему приводит изменение судебного законодательства? И, кому это выгодно?..]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9b2/9b248c48f520550d48b47151446f435e.mp4]]></stream_url>
-<category_id>95</category_id>
+<title>ЕвгенийИменитов</title>
+<description>ЕвгенийИменитов</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aevgeniyimenitov.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Цифровизация - диктатура богатых]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/176/176865ab3bad2d58ae75f21ee0b0278f.jpg" width="175"/></td></tr></table>Адвокат, кандидат экономических наук Евгений Именитов о глобализации и цифровизации общества. Кто внедряет цифровое образование? Кому выгодно построение кастового общества в России? И кто управляет этим процессом?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a0a/a0a057046151c093d14c3ebdff50b08b.mp4]]></stream_url>
-<category_id>95</category_id>
-</channel>
+ 
 <channel>
 <title><![CDATA[ Положение в Донбассе - взгляд изнутри.]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f73/f738e51bd423bd561b9bf53547d9d724.jpg" width="175"/></td></tr></table>Евгений Скрипник (позывной ""Прапор"") о текущей ситуации в Донбассе. А также о потенциальной сдаче Курил.]]></description>
