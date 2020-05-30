@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ГерманАртамонов</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Штурм Белого Дома]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/eef/eef32ef5069303ada07f3dc04fb3eea6.jpg" width="175"/></td></tr></table>В этом выпуске мы вспоминаем события 1993 года, 26 лет назад ельцинизм уничтожил последние островки Советского законодательства и заложил основы для будущей эпохи Путина. Нужно ли помнить те трагические события для понимания современной политической обстановки?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f92/f92d3c7b21fabbc64ca38fc60f233bb1.mp4]]></stream_url>
+<category_id>86</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Ложь Польши]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/db2/db271f7591bfd5def4f239b856a10c4e.jpg" width="175"/></td></tr></table>Глава МИД Польши Яцек Чапутович заявил, что Варшава одержала победу в «историческом споре с Россией». «Мы заткнем поганый рот, который открывают некоторые деятели за бугром», - сказал президент Владимир Путин, пообещав открыть центр архивных документов о Второй мировой войне.  Эту ситуацию анализирует профессор кафедры истории России МПГУ, кандидат исторических наук Герман Артамонов.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/0ab/0ab38cd00cc5852dc9a2c5b0039d1c45.mp4]]></stream_url>
+<category_id>86</category_id>
+</channel>
+
+</items>
