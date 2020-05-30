@@ -1553,18 +1553,13 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d63/d63e4ce875affdd0bb72facd36019d6e.mp4]]></stream_url>
 <category_id>89</category_id>
 </channel>
+ 
+ 
 <channel>
-<title><![CDATA[ Хозяева Путина]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/238/238d2dbade84c3d91d2910419635aa00.jpg" width="175"/></td></tr></table>Экономист, директор Клуба Проектного процесса Дмитрий Любомудров об социально-экономической модели академика Сергея Юрьевича Глазьева.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/3e8/3e84a720794d95b4d780ff7341017afc.mp4]]></stream_url>
-<category_id>90</category_id></channel>
-<channel>
-<title><![CDATA[ Оффшорная мафия ЦБ]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ffd/ffd131c06c94c5a87fb215417b8be3d0.jpg" width="175"/></td></tr></table>Оффшорная мафия ЦБ Видео на канале Сталинград]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/78b/78ba19a43e34752886fd4595c7c1be74.mp4]]></stream_url>
-<category_id>90</category_id></channel>
-
-
+<title>ДмитрийЛюбомудров</title>
+<description>ДмитрийЛюбомудров</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/admitriylyubomudrov.xml]]></playlist_url>
+</channel>
 <channel>
 <title>ДмитрийПотапенко</title>
 <description>ДмитрийПотапенко</description>
