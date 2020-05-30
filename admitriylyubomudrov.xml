@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ДмитрийЛюбомудров</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Хозяева Путина]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/238/238d2dbade84c3d91d2910419635aa00.jpg" width="175"/></td></tr></table>Экономист, директор Клуба Проектного процесса Дмитрий Любомудров об социально-экономической модели академика Сергея Юрьевича Глазьева.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/3e8/3e84a720794d95b4d780ff7341017afc.mp4]]></stream_url>
+<category_id>90</category_id></channel>
+<channel>
+<title><![CDATA[ Оффшорная мафия ЦБ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ffd/ffd131c06c94c5a87fb215417b8be3d0.jpg" width="175"/></td></tr></table>Оффшорная мафия ЦБ Видео на канале Сталинград]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/78b/78ba19a43e34752886fd4595c7c1be74.mp4]]></stream_url>
+<category_id>90</category_id></channel>
+
+</items>
