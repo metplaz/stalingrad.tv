@@ -814,6 +814,7 @@
 </category>
 <category>
 
+<category>
 <category_id>161</category_id>
 <category_title>СтасВасильев</category_title>
 </category>
@@ -822,7 +823,8 @@
 <category_title>СтепанСулакшин</category_title>
 </category>
 
-<category_id>163</category_id>
+<category>
+ <category_id>163</category_id>
 <category_title>ТатьянаШишова</category_title>
 </category>
 
@@ -830,10 +832,12 @@
 <category_title>ТигранХачатрян</category_title>
 </category>
 
+<category>
 <category_id>165</category_id>
 <category_title>ТимКирби</category_title>
 </category>
 
+<category>
 <category_id>166</category_id>
 <category_title>ТимофейЕрмаков</category_title>
 </category>
@@ -842,7 +846,8 @@
 <category_title>ФёдорЛисицын</category_title>
 </category>
 
-<category_id>168</category_id>
+<category>
+ <category_id>168</category_id>
 <category_title>ЭльдарХасанов</category_title>
 </category>
 
@@ -850,11 +855,13 @@
 <category_title>ЭльмарРустамов</category_title>
 </category>
 
-<category_id>170</category_id>
+<category>
+ <category_id>170</category_id>
 <category_title>ЭльМюрид</category_title>
 </category>
 
-<category_id>171</category_id>
+<category>
+ <category_id>171</category_id>
 <category_title>ЮлияСаванец</category_title>
 </category>
 
@@ -862,38 +869,47 @@
 <category_title>ЮрийГорошкоТАВР</category_title>
 </category>
 
-<category_id>173</category_id>
+<category>
+ <category_id>173</category_id>
 <category_title>ЮрийЕвич</category_title>
 </category>
 
+<category>
 <category_id>174</category_id>
 <category_title>ЮрийЖуков</category_title>
 </category>
 
+<category>
 <category_id>175</category_id>
 <category_title>ЮрийМосковский</category_title>
 </category>
 
-<category_id>176</category_id>
+<category>
+ <category_id>176</category_id>
 <category_title>ЮрийМухин</category_title>
 </category>
 
+<category>
 <category_id>177</category_id>
 <category_title>ЮрийНазаров</category_title>
 </category>
 
+<category>
 <category_id>178</category_id>
 <category_title>ЮрийНикифоров</category_title>
 </category>
 
+<category>
 <category_id>179</category_id>
 <category_title>ЮрийРябцев</category_title>
 </category>
 
+<category>
 <category_id>180</category_id>
 <category_title>ЮрийСавельев</category_title>
 </category>
 
+<category>
 <category_id>181</category_id>
 <category_title>ЮрийЮрченко</category_title>
 </category>
