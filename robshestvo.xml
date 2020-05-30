@@ -18,7 +18,12 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
 
-  
+<channel>
+<title><![CDATA[ ПОБЕДА ИЛИ СМЕРТЬ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/50e/50e6fbf4595849b396d309390813b361.jpg" width="175"/></td></tr></table>Как ответить на вопрос:«Что с нами сейчас делается?». Что нас ждёт осенью? Какие народы могут изменить ход истории в нашу эпоху?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/98a/98a37ccd1178bdbb4f2bf05d19278af3.mp4]]></stream_url>
+<category_id>20</category_id>
+</channel>  
 <channel>
 <title><![CDATA[ НЕ ВЕРЬТЕ СИСТЕМЕ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d6d/d6dbbc48f7186fd4f493c2f6dbf55ac9.jpg" width="175"/></td></tr></table>Что такое «закон об искусственном интеллекте»? Зачем создаётся система «умный город»? Как сопротивляться этим нововведениям? В книге «Демон внутри. Анатомия искусственного интеллекта» Игорь Шнуренко, известный в англоязычной среде как Cyril Gilson, вскрывает организм самой мощной и таинственной индустрии мира. Чего ждать от технологий, которые вышли прямо из сериала “Черное зеркало”? Чем кончится гонка за мировое господство? Как нам выжить в борьбе с демоном, которого мы сами же и породили? Книга уже сверстана, получить ее можно, поучаствовав в краудфандинге]]></description>
