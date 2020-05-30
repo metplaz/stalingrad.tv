@@ -1500,16 +1500,9 @@
 <category_id>84</category_id>
 </channel>
 <channel>
-<title><![CDATA[ Губернатор Орлов и его шелупонь]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/df3/df32fae03fb0908c45cbd4bc0ca43731.jpg" width="175"/></td></tr></table>Председатель движения Гражданская солидарность Георгий Фёдоров о том, чем недовольны жители Архангельской области? Почему чиновники постоянно позволяют себе оскорблять народ?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cce/cce5e9a0e1a8cd1a06624dbb804d97af.mp4]]></stream_url>
-<category_id>85</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Призрак бродит по Парижу..]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c06/c06b3105ff2541a2692e55232c0b8dcb.jpg" width="175"/></td></tr></table>Призрак бродит по Парижу... Георгий Федоров - оценка происходящих во Франции протестов.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/61c/61cde281513b3a4e86c102926bac9aea.mp4]]></stream_url>
-<category_id>85</category_id>
+<title>ГеоргийФедоров</title>
+<description>ГеоргийФедоров</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ageorgiyfedorov.xml]]></playlist_url>
 </channel>
 <channel>
 <title><![CDATA[ Штурм Белого Дома]]></title>
