@@ -15,7 +15,7 @@
 <channel>
 <title>Переход в ОБЩИЙ плейлист</title>
 <description>Переход в ОБЩИЙ плейлист</description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
 
 <channel>
