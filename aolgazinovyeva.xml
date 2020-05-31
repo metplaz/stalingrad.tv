@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ОльгаЗиновьева</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Александр Зиновьев - пророк своего Отечества.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d91/d91f4490734e8da15ab5241472b7b16d.jpg" width="175"/></td></tr></table>На канале ""Сталинград"" руководитель Биографического института АЛЕКСАНДРА ЗИНОВЬЕВА, Президент Международного Центра науки и культуры имени АЛЕКСАНДРА ЗИНОВЬЕВА.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/926/926d58c10bc1ada1466a5120ca1014db.mp4]]></stream_url>
+<category_id>144</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Александр Зиновьев: живи, думай, читай, действуй.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/697/69794737c6cf862e415938bd8094e162.jpg" width="175"/></td></tr></table>Руководитель биографического института Александра Зиновьева, президент международного центра науки и культуры имени Александра Зиновьева Ольга Мироновна Зиновьева про возвращение Зиновьева в Россию и его вклад в мировую политику. Про ловушки советскому народу, и целенаправленный развал СССР.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e3e/e3e914333bad0548fd4c51f474e173bb.mp4]]></stream_url>
+<category_id>144</category_id>
+</channel>
+
+</items>
