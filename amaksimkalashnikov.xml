@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>МаксимКалашников</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Митинг 3 июля 2019 в 18.30, на Суворовской площади]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/07d/07d7a0fd1e73d26aeb0a035b04d40ba1.jpg" width="175"/></td></tr></table>Максим Калашников рассказывает о предстоящем митинге,  который пройдёт 3 июля в Москве на Суворовской площади под лозунгом ""Очистим Россию от мусора"". Митинг организован в поддержку жителей Архангельской области и Шиеса. Начало проведения акции 18.30 часов по Московскому времени. Канал Сталинград призывает всех неравнодушных людей прийти на митинг и выразить свой протест против постройки мусорного полигона и превращения Русского Севера в помойку.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/265/265defb4ff51e4e520f1d282aebc439a.mp4]]></stream_url>
+<category_id>127</category_id>
+</channel>
+<channel>
+<title><![CDATA[ В предчувствии смуты..]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/003/00339ebcda7c573522658c31a77f9c5e.jpg" width="175"/></td></tr></table>Максим Калашников о неизбежном коллапсе существующей политической и экономической системы РФ.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e2e/e2e117b7ce0726f93b9494dcc9f240dc.mp4]]></stream_url>
+<category_id>127</category_id>
+</channel>
+
+</items>
