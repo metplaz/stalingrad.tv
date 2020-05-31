@@ -1316,19 +1316,13 @@
 <description>ВасилийСемчера</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avasiliysemchera.xml]]></playlist_url>
 </channel>
- 
- 
-
- 
-<channel>
+ <channel>
 <title><![CDATA[ Торговля людьми]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/31a/31a6a3fb52f083e89e23c7077c1a81c5.jpg" width="175"/></td></tr></table>Консультант ОБСЕ, эксперт по противодействию торговле людьми Вера Грачёва о работорговле в России. Действительно ли так много инвалидов и нищих в России? Как люди попадают в неволю и как с этим бороться ?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b79/b79fab178d809ec4c630e8637fb351c6.mp4]]></stream_url>
 <category_id>69</category_id>
 </channel>
- 
-  
-<channel>
+ <channel>
 <title>ВераМысина</title>
 <description>ВераМысина</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/averamisina.xml]]></playlist_url>
@@ -1466,21 +1460,17 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/80b/80b09d21172292af179d7b871bfeaf15.mp4]]></stream_url>
 <category_id>94</category_id>
 </channel>
- 
- 
 <channel>
 <title>ЕвгенийИменитов</title>
 <description>ЕвгенийИменитов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aevgeniyimenitov.xml]]></playlist_url>
 </channel>
- 
 <channel>
 <title><![CDATA[ Положение в Донбассе - взгляд изнутри.]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f73/f738e51bd423bd561b9bf53547d9d724.jpg" width="175"/></td></tr></table>Евгений Скрипник (позывной ""Прапор"") о текущей ситуации в Донбассе. А также о потенциальной сдаче Курил.]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/0b5/0b5aaa3e6ee177448cd28c8723a4caf0.mp4]]></stream_url>
 <category_id>96</category_id>
 </channel>
-
 <channel>
 <title>ЕвгенийСпицын</title>
 <description>ЕвгенийСпицын</description>
@@ -1797,30 +1787,11 @@
 <category_id>152</category_id>
 </channel>
 <channel>
-<title><![CDATA[ Буржуазия и правда - две вещи несовместные.]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ef5/ef5f65c8867f3164e826dbb4722cfe73.jpg" width="175"/></td></tr></table>Руслан Каблахов, кандидат исторических наук, о фальсификации истории, о буржуазии, Брестском мире.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b93/b93474220e6904dc03e25d5e31c41d2a.mp4]]></stream_url>
-<category_id>153</category_id>
+<title>РусланКаблахов</title>
+<description>РусланКаблахов</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aruslankablahov.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Митинг 20 января ""Наши Курилы не отдадим!""]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/be4/be47cabf53c35042378b307a7f25dfc8.jpg" width="175"/></td></tr></table>Всех приглашаем на митинг ""Наши Курилы не отдадим!"". Москва, Суворовская площадь. с 13.00 до 15.00.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/28a/28a30747da7810462871a19a18d08658.mp4]]></stream_url>
-<category_id>153</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Расчеловечивание России - кто виноват?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/00f/00f35ccdbbe8ed4136e79c3522f11d61.jpg" width="175"/></td></tr></table>Руслан Каблахов о пропаганде низменного...]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e1a/e1a134e4522bdfeea463a8ae0a2920f9.mp4]]></stream_url>
-<category_id>153</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Руслан Каблахов: ""Вас нет - вас можно убивать!""]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ed5/ed524cab3f3dfd0c7bb7dc1f49c83866.jpg" width="175"/></td></tr></table>Руслан Каблахов о классовом характере современного общества.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/4f3/4f3c7be40a08c504149bc819ff05b863.mp4]]></stream_url>
-<category_id>153</category_id>
-</channel>
-<channel>
+ <channel>
 <title><![CDATA[ Печать предательства]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e44/e445ad34e95535b339f3ef034e05ae1b.jpg" width="175"/></td></tr></table>Советский и российский политический и общественный деятель, народный депутат СССР Сажи Зайндиновна Умалатова вспоминает о развале СССР и о том, кто мог этому помешать.]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b76/b76d21279a9ca5ef1b01852162ebe239.mp4]]></stream_url>
