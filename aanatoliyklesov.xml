@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>АнатолийКлёсов</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Кто такие русские?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/12e/12ee31daa805206e4f3ac476637f4382.jpg" width="175"/></td></tr></table>Русский учёный Анатолий Алексеевич Клёсов основатель науки ДНК-генеалогии, доктор химических наук, вице-президент американской фармацевтической компании Galectin Therapeutics разъясняет происхождение русского этноса. Сколько лет живут на Русской равнине люди гаплогруппы R1A, являются ли нам родственниками прибалтийские народы, как и когда происходили миграции из Сибири на Запад и с Юга на Кавказ, какие гаплогруппы характерны для русских, есть ли у русских монгольские или татарские метки? Кто такие этнические русские?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c7a/c7a74e1c4d58efeb1ac76908d3b03e79.mp4]]></stream_url>
+<category_id>52</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Норманская теория - религия русофобов]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5bc/5bc10dd7e52e06a267a606105e02b241.jpg" width="175"/></td></tr></table>Как рождаются исторические мифы? Как ведут пропаганду русофобы?  Кто такие русские? Как образовалась ""терминологическая каша"" в понимании людей? Сколько предателей в армии США было во Второй Мировой войне? Кого можно считать патриотом? Оружие - это сила или слабость? Состоятельна ли норманская теория?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/ce5/ce553b4bc6d8384af167551c029b90be.mp4]]></stream_url>
+<category_id>52</category_id>
+</channel>
+
+</items>
