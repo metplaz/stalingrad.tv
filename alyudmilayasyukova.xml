@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ЛюдмилаЯсюкова</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ КАК БЛОКИРУЮТ РАЗВИТИЕ ДЕТЕЙ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fc0/fc0ed63b6fe9a628cf42b599491017ee.jpg" width="175"/></td></tr></table>Как дети воспринимают два месяца дистанционного образования? Сколько человек должно быть в классе? Почему власти умные не нужны? Что такое ""семейное образование""? Для чего музыкантам и спортсменам нужна культура? Почему современные школьники не понимают причинно-следственные зависимости?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f1a/f1afc1b22c311eb364dc7b6d7ae530ec.mp4]]></stream_url>
+<category_id>125</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Каждый человек - Гений]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/12f/12f117cda199b53c65f46c245854ca24.jpg" width="175"/></td></tr></table>Кандидат психологических наук Людмила Ясюкова о важности и необходимости воспитания понятийного мышления у людей.Зависят ли интеллектуальные способности от гендера или расовой принадлежности ? Как влияет социально-психологический климат на развитие человека? Нужно ли читать и почему это важно?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/379/379d7226f80784e514adfa33ab9c8e12.mp4]]></stream_url>
+<category_id>125</category_id>
+</channel>
+
+</items>
