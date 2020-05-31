@@ -1219,25 +1219,13 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a9e/a9e4081f91eb3dad9a6847194a369aaf.mp4]]></stream_url>
 <category_id>55</category_id>
 </channel>
-<channel>
-<title><![CDATA[ Альтернативная энергетика: вымысел или реальность?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/9f6/9f6c571bcdbe280cade0e52311622af6.jpg" width="175"/></td></tr></table>Андрей Паршев о возможности альтернативной энергетики.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/42e/42e5304bffb6d11d11157ee71345e5c6.mp4]]></stream_url>
-<category_id>56</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Что говорила баронесса Маргарет Хильда Тэтчер..]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/9ad/9ad229c282fb776a01471f7d34734cc2.jpg" width="175"/></td></tr></table>Андрей Паршев. Россия - Запад. Системы координат...Что говорила баронесса Маргарет Хильда Тэтчер..]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/8a2/8a25e67abd2026b8a87e6eeba8b9f1a0.mp4]]></stream_url>
-<category_id>56</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Андрей Паршев: ""Концепция обезоруживающего удара""]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/dac/dac0a0b88e5a3824daf152ff96b367eb.jpg" width="175"/></td></tr></table>Андрей Паршев: ""Концепция обезоруживающего удара"". Риск получить обезоруживающий удар по России вполне реален.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d29/d29117bcbaa3f9733bfaa4e4d34c46b9.mp4]]></stream_url>
-<category_id>56</category_id>
-</channel>
  
+
+<channel>
+<title>АндрейПаршев</title>
+<description>АндрейПаршев</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aandreyparshev.xml]]></playlist_url>
+</channel> 
 <channel>
 <title>АндрейФурсов</title>
 <description>АндрейФурсов</description>
