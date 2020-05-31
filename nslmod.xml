@@ -1647,22 +1647,12 @@
 <description>ЛюдмилаЯсюкова</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/alyudmilayasyukova.xml]]></playlist_url>
 </channel>
- 
-
- 
- 
-<channel>
-<title><![CDATA[ Катастрофа российского авиапрома]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/52c/52caf2b3d2c001f11efdd8f3bfe96b55.jpg" width="175"/></td></tr></table>Герой России, летчик-испытатель генерал-майор Магомед Омарович Толбоев о том, почему он не пожал руку вору-министру, об авиакатастрофах в РФ, «эффективных» менеджерах, уничтожении системы подготовки пилотов, коррупции, Погосяне и суперджете.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/5aa/5aae5c7ed59e67c8dde4e53e1450b518.mp4]]></stream_url>
-<category_id>126</category_id>
+ <channel>
+<title>МагомедТолбоев</title>
+<description>МагомедТолбоев</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/amagomedtolboev.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Кто виноват в сбитом «боинге»? Магомед Толбоев]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8f7/8f79e403b8ea7cd2920dcd50d86a1942.jpg" width="175"/></td></tr></table>Герой России, летчик-испытатель генерал-майор Магомед Омарович Толбоев о том, кто на самом деле виноват в сбитом боинге под Тегераном.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c3d/c3d22e23912fbb5045a03ce3ee87799e.mp4]]></stream_url>
-<category_id>126</category_id>
-</channel>
+ 
 <channel>
 <title><![CDATA[ Митинг 3 июля 2019 в 18.30, на Суворовской площади]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/07d/07d7a0fd1e73d26aeb0a035b04d40ba1.jpg" width="175"/></td></tr></table>Максим Калашников рассказывает о предстоящем митинге,  который пройдёт 3 июля в Москве на Суворовской площади под лозунгом ""Очистим Россию от мусора"". Митинг организован в поддержку жителей Архангельской области и Шиеса. Начало проведения акции 18.30 часов по Московскому времени. Канал Сталинград призывает всех неравнодушных людей прийти на митинг и выразить свой протест против постройки мусорного полигона и превращения Русского Севера в помойку.]]></description>
