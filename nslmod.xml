@@ -1797,24 +1797,16 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b76/b76d21279a9ca5ef1b01852162ebe239.mp4]]></stream_url>
 <category_id>154</category_id>
 </channel>
+ 
 <channel>
-<title><![CDATA[ Когда возродится Россия?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/385/3851e522987184fb1f5b2b1fc19b2ac1.jpg" width="175"/></td></tr></table>На чей стороне правда в конфликте РФ и РБ? Какой главный критерий в конфликте элит? Как изменилась за 5 лет позиция Лукашенко в отношениях с Россией? Как проходит процесс ""белорусизации"" русского населения? Что произойдёт с Белоруссией, если она войдёт в состав РФ? Можно ли собрать большую Россию в рамках капиталистической модели? Youtube-канал ""Сталинград 21 век"": https://www.youtube.com/channel/UCMYxuPQId-JRp-EK6NHsMzA]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/bb5/bb5a01382ed0a128cb76aa723b01dc43.mp4]]></stream_url>
-<category_id>155</category_id>
+<title>СеваРига</title>
+<description>СеваРига</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/asevariga.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Русские в СССР]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/029/0299e3c3c323d766a263ad1b42b1f3e9.jpg" width="175"/></td></tr></table>Русский блогер Сергей Васильев (SEVA-RIGA) о положении русского этноса в СССР, Российской Империи, РФ, а также об истории появления в русском этносе украинства.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/8a7/8a75fb400afc336c1097f3a0c1d79398.mp4]]></stream_url>
-<category_id>155</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Всё спишут на вирус]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a6f/a6ff92e2b1a3dbcfec56baf451148f3e.jpg" width="175"/></td></tr></table>Как себя ведут власти и народ во время пандемии? Какая обстановка в Латвии? Что говорят медицинские работники? Были ли примеры аналогичной паники в истории? Будет ли ужесточение карантина? Какой совет можно дать людям в сложившийся ситуации?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/0b1/0b190ff012e460563f3bcbd9b471f689.mp4]]></stream_url>
-<category_id>155</category_id>
-</channel>
+ 
+
+ 
+ 
 <channel>
 <title><![CDATA[ Мы защищали воровское государство..]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/185/18570f730bf8421db0acad8de1b754aa.jpg" width="175"/></td></tr></table>Бывший сотрудник МВД из Хабаровска о ситуации с Курилами и жизни Дальневосточного региона.]]></description>
