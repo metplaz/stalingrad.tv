@@ -1690,8 +1690,7 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9b5/9b591408aed3c7ab2efbaf6109faa844.mp4]]></stream_url>
 <category_id>143</category_id>
 </channel>
- 
-<channel>
+ <channel>
 <title>ОльгаЗиновьева</title>
 <description>ОльгаЗиновьева</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aolgazinovyeva.xml]]></playlist_url>
