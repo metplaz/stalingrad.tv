@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>АлександПыжиков</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Осторожно, троцкизм!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/417/417fc40307c09889d157687c41f45d73.jpg" width="175"/></td></tr></table>Доктор исторических наук, профессор Александр Владимирович Пыжиков про развитие троцкистской идеологии сегодня. В чём разница конфликта троцкистской идеологии и Левого фронта в 1917 году, и  в наши дни? За что выступает Левый фронт сегодня? Где должен зародиться новый проект по возрождению России?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/db7/db71bf7e9b08c65b041d3d7918874aff.mp4]]></stream_url>
+<category_id>34</category_id>
+</channel>
+
+</items>
