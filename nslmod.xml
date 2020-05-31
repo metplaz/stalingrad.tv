@@ -1311,27 +1311,15 @@
 <description>ВасилийПушкин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avasiliypushkin.xml]]></playlist_url>
 </channel>
+<channel>
+<title>ВасилийСемчера</title>
+<description>ВасилийСемчера</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avasiliysemchera.xml]]></playlist_url>
+</channel>
+ 
+ 
 
  
- 
-<channel>
-<title><![CDATA[ Благовещенский стрелок]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5d8/5d8fe6d1a6eb5d6377750bbf696462e6.jpg" width="175"/></td></tr></table>14 ноября, в здании Амурского колледжа строительства и коммунального хозяйства 19-й летний студент Даниил Засорин устроил стрельбу. Жертвой стал один человек, трое получили ранения. Сам юноша покончил с собой.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/bd6/bd6630920aa66fbabcbe3640e47d71b3.mp4]]></stream_url>
-<category_id>68</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Имейте мужество, «товарищ» Путин!]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d6f/d6ff76fd17bb90e80f216517a2aed894.jpg" width="175"/></td></tr></table>Почему растёт число протестных акций в РФ? Почему власть боится дать управление компетентным людям? Как Путин вредит сам себе? Почему в России протестное движение такое вялое? Можно ли прожить на 40-60 тысяч в месяц? Как проходит манипуляция с врачами? Как направляют во враждебные страны капиталы из России? Почему перемены в России неизбежны?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/bb3/bb3cbf7a32f872380d62c2479052387c.mp4]]></stream_url>
-<category_id>68</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Перепись бедных]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/786/78613007d8ac48aa4fd9587e680a6437.jpg" width="175"/></td></tr></table>Статистик,  доктор экономических наук, профессор Василий Михайлович Симчера отвечает на вопрос: сколько на самом деле бедных в нашей стране. 19 или 35 миллионов? Кого считать бедными? Кто такие «псевдобедные», и кто  «абсолютно бедные»?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/620/620c1c6af5e5dab50bfa7edeab0b40cc.mp4]]></stream_url>
-<category_id>68</category_id>
-</channel>
 <channel>
 <title><![CDATA[ Торговля людьми]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/31a/31a6a3fb52f083e89e23c7077c1a81c5.jpg" width="175"/></td></tr></table>Консультант ОБСЕ, эксперт по противодействию торговле людьми Вера Грачёва о работорговле в России. Действительно ли так много инвалидов и нищих в России? Как люди попадают в неволю и как с этим бороться ?]]></description>
