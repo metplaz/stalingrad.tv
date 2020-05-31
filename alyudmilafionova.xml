@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ЛюдмилаФионова</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Почему мы не сопротивляемся?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/69e/69e6eeae2fec4b16717daa70c552021e.jpg" width="175"/></td></tr></table>Профессор РАН, доктор физико-математических наук Людмила Кузьминична Фионова об экологической катастрофе в России и мире в целом. Исчезновение рек, проблема свалок, глобальное потепление, уничтожение науки, глобальное враньё, 9 миллионов наркоманов, уничтожение генофонда России, сырьевая мафия, олигархи… Все проблемы экологии – это политические проблемы. А, политика начинается с олигархата. «Миром управляет маленькая кучка абсолютно невменяемых людей....Почему мы не сопротивляемся?»]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f66/f6627e10d290af997a2df445eb510cc1.mp4]]></stream_url>
+<category_id>124</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Они пойдут в Сибирь]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ee1/ee1fcfe9a59bfe9c39195afb35b4835c.jpg" width="175"/></td></tr></table>Профессор РАН, доктор физико-математических наук Людмила Кузьминична Фионова о чудовищной опасности, надвигающейся на Россию с востока.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f9c/f9c543bb5c36f14511bca843bf98f6bd.mp4]]></stream_url>
+<category_id>124</category_id>
+</channel>
+
+</items>
