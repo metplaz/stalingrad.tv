@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>АлександрШирокорад</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ 30 серебренников за Курилы.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/3d7/3d7e3dcc1bec9d096331b37aaf21337d.jpg" width="175"/></td></tr></table>Александр Широкорад об угрозах, которые несет с собой сдача южных Курил. Александр Борисович Широкорад — российский популярный писатель и публицист. Автор более сотни научно-популярных книг по артиллерии, военной технике, истории.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/394/3944b703879ce6929183f1753602c7bb.mp4]]></stream_url>
+<category_id>44</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Вся правда о южных Курилах.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/1d9/1d9821c09653a7bb0ce0065e74d8eb5c.jpg" width="175"/></td></tr></table>Александр Широкорад об угрозах, которые несет с собой сдача южных Курил.Александр Борисович Широкорад  — российский популярный писатель и публицист. Автор более сотни научно-популярных книг по артиллерии, военной технике, истории.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/44c/44c3e7723e85ee3eba7bba4726621f97.mp4]]></stream_url>
+<category_id>44</category_id>
+</channel>
+
+</items>
