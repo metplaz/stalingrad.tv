@@ -1306,19 +1306,14 @@
 <description>ВасилийПопович</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avasiliypopovich.xml]]></playlist_url>
 </channel>
+<channel>
+<title>ВасилийПушкин</title>
+<description>ВасилийПушкин</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avasiliypushkin.xml]]></playlist_url>
+</channel>
+
  
-<channel>
-<title><![CDATA[ Чем мы заплатим за карантин?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/584/58426be35ba7207a40da75d789c41b8e.jpg" width="175"/></td></tr></table>Чем мы заплатим за карантин? Видео на канале Сталинград]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/901/901b13cb486bf7fd7e00fdc9662d4520.mp4]]></stream_url>
-<category_id>67</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Диктатура «ДОБРОГО ЦАРЯ»]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/411/4112fbcfd65dd907db02a3f844f9f898.jpg" width="175"/></td></tr></table>Публицист, блогер ""Soiz"" Василий Юрьевич Пушкин: о легальности конституции, о «странном мероприятии», затеянном для принятия поправок в Конституцию РФ, о степени демократии и о форме протестного голосования.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/09d/09dc025d42a0a9706fa7f32db4bcd9c5.mp4]]></stream_url>
-<category_id>67</category_id>
-</channel>
+ 
 <channel>
 <title><![CDATA[ Благовещенский стрелок]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5d8/5d8fe6d1a6eb5d6377750bbf696462e6.jpg" width="175"/></td></tr></table>14 ноября, в здании Амурского колледжа строительства и коммунального хозяйства 19-й летний студент Даниил Засорин устроил стрельбу. Жертвой стал один человек, трое получили ранения. Сам юноша покончил с собой.]]></description>
