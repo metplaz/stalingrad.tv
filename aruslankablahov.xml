@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>РусланКаблахов</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Буржуазия и правда - две вещи несовместные.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ef5/ef5f65c8867f3164e826dbb4722cfe73.jpg" width="175"/></td></tr></table>Руслан Каблахов, кандидат исторических наук, о фальсификации истории, о буржуазии, Брестском мире.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b93/b93474220e6904dc03e25d5e31c41d2a.mp4]]></stream_url>
+<category_id>153</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Митинг 20 января ""Наши Курилы не отдадим!""]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/be4/be47cabf53c35042378b307a7f25dfc8.jpg" width="175"/></td></tr></table>Всех приглашаем на митинг ""Наши Курилы не отдадим!"". Москва, Суворовская площадь. с 13.00 до 15.00.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/28a/28a30747da7810462871a19a18d08658.mp4]]></stream_url>
+<category_id>153</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Расчеловечивание России - кто виноват?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/00f/00f35ccdbbe8ed4136e79c3522f11d61.jpg" width="175"/></td></tr></table>Руслан Каблахов о пропаганде низменного...]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e1a/e1a134e4522bdfeea463a8ae0a2920f9.mp4]]></stream_url>
+<category_id>153</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Руслан Каблахов: ""Вас нет - вас можно убивать!""]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ed5/ed524cab3f3dfd0c7bb7dc1f49c83866.jpg" width="175"/></td></tr></table>Руслан Каблахов о классовом характере современного общества.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/4f3/4f3c7be40a08c504149bc819ff05b863.mp4]]></stream_url>
+<category_id>153</category_id>
+</channel>
+
+</items>
