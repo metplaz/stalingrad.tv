@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ЛеонидИвашов</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Чеченцы - личная гвардия Путина?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c81/c815ca521878bc37a8234c2845fe763b.jpg" width="175"/></td></tr></table>Генерал-полковник Леонид Ивашов о неравноправии регионов РФ.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/54e/54e97a31e7dca11cb22437b548229911.mp4]]></stream_url>
+<category_id>122</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Они делают то, что недоделал Гитлер..]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/957/95742ea2d1a48df72b901837ab76eb49.jpg" width="175"/></td></tr></table>Леонид Ивашов о разрушительной деятельности либеральной команды Путина, о ""советском проекте"" и советском образовании и боязни Запада распространения опыта СССР на весь мир.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d49/d49d9a5abc5e28a44d6585963593d067.mp4]]></stream_url>
+<category_id>122</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Спасти Сирию - предать Донбасс]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5c8/5c807c538427d0091a8317765cee68fa.jpg" width="175"/></td></tr></table>Леонид Ивашов объясняет почему Россия вошла в Сирию и почему наша власть предала русских на Донбасе]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a43/a43f7117339b4e4b2f79ed8a137f3062.mp4]]></stream_url>
+<category_id>122</category_id>
+</channel>
+
+</items>
