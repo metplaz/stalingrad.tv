@@ -1745,24 +1745,18 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9b5/9b591408aed3c7ab2efbaf6109faa844.mp4]]></stream_url>
 <category_id>143</category_id>
 </channel>
+ 
 <channel>
-<title><![CDATA[ Александр Зиновьев - пророк своего Отечества.]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d91/d91f4490734e8da15ab5241472b7b16d.jpg" width="175"/></td></tr></table>На канале ""Сталинград"" руководитель Биографического института АЛЕКСАНДРА ЗИНОВЬЕВА, Президент Международного Центра науки и культуры имени АЛЕКСАНДРА ЗИНОВЬЕВА.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/926/926d58c10bc1ada1466a5120ca1014db.mp4]]></stream_url>
-<category_id>144</category_id>
+<title>ОльгаЗиновьева</title>
+<description>ОльгаЗиновьева</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aolgazinovyeva.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Александр Зиновьев: живи, думай, читай, действуй.]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/697/69794737c6cf862e415938bd8094e162.jpg" width="175"/></td></tr></table>Руководитель биографического института Александра Зиновьева, президент международного центра науки и культуры имени Александра Зиновьева Ольга Мироновна Зиновьева про возвращение Зиновьева в Россию и его вклад в мировую политику. Про ловушки советскому народу, и целенаправленный развал СССР.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e3e/e3e914333bad0548fd4c51f474e173bb.mp4]]></stream_url>
-<category_id>144</category_id>
-</channel>
-<channel>
+ <channel>
 <title>ОльгаЧетверикова</title>
 <description>ОльгаЧетверикова</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aolgachetverikova.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title><![CDATA[ Путин скачет на медведе]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/963/96311a85cf0bf177532bb077693215d3.jpg" width="175"/></td></tr></table>Ольга Шалина, руководитель Московского отделения партии ""Другая Россия"" о роли элит в деградации страны.]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/40b/40b30fbf2db9298af0ca5124cf6acecc.mp4]]></stream_url>
