@@ -18,6 +18,12 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
 
+ <channel>
+<title>ВасилийПопович</title>
+<description>ВасилийПопович</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avasiliypopovich.xml]]></playlist_url>
+</channel>
+  
 <channel>
 <title><![CDATA[ ЗА КОГО ВОЕВАТЬ?]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/332/33235da02bd16fa9cb0ad9609d1454a6.jpg" width="175"/></td></tr></table>Что сейчас происходит на Донбассе? Как предали население ДНР и ЛНР в 2014? Как относится нынешняя власть в республиках Донбасса и РФ к ополченцам первой волны? Что происходит на линии соприкосновения с так называемой Украиной? К чему привёл минский сговор? За какие смыслы воевали на Донбассе в 2014 году? Что важно сейчас осознать, разделённым в 1991 году людям? Под каким знаменем нужно объединить народ?]]></description>
