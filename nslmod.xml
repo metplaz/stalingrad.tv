@@ -1271,30 +1271,10 @@
 <description>ВалентинКатасонов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avalentinkatasonov.xml]]></playlist_url>
 </channel>
- 
- <channel>
-<title><![CDATA[ Конец эпохи Путина]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d5b/d5b54e1476bbfb4a0dbdd2228dfdf7d7.jpg" width="175"/></td></tr></table>Валерий Соловей рассуждает о том, как будут оценивать эпоху Путина. Мнение канала далеко не во всем совпадает с мнением Валерия Соловья, но мы хотим дать выслушать зрителям различные точки зрения на эпоху и личность президента.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/285/2853c1b91506389cd2b13d1934432fd2.mp4]]></stream_url>
-<category_id>62</category_id>
-</channel>
 <channel>
-<title><![CDATA[ Революция-2020. Уже скоро..]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/21d/21df4ebabc146c52b6da5b1f15464410.jpg" width="175"/></td></tr></table>Валерий Соловей прогнозирует массовые протестные настроения в России.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/70a/70a0a98b206823f5c4dac7f57311e07e.mp4]]></stream_url>
-<category_id>62</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Виртуальная реальность Путина.]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f0a/f0a30a4abba6424ead7ec04c8a6195be.jpg" width="175"/></td></tr></table>Валерий Соловей объясняет по какому принципу выстраивается внутренняя и внешняя политика РФ, а также об оторванности президента от народа.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/204/204e65f2a4089c0cf6a3a03963f8530a.mp4]]></stream_url>
-<category_id>62</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Закон о фейках, Медведев обиделся...?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c4d/c4d7f49b3c29d0d7a136f2bbf6e1ae50.jpg" width="175"/></td></tr></table>Валерий Соловей о законе, который предполагает введение административной ответственности за оскорбление Конституции и государства в интернете. Авторами документа стали члены Совфеда Андрей Клишас и Людмила Бокова, а также депутат Дмитрий Вяткин.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/aa4/aa48dc6409e3fe550549e5cf9c8e0753.mp4]]></stream_url>
-<category_id>62</category_id>
+<title>ВалерийСоловей</title>
+<description>ВалерийСоловей</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avaleriysolovey.xml]]></playlist_url>
 </channel>
 <channel>
 <title><![CDATA[ Россия и мировая закулиса]]></title>
