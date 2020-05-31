@@ -1137,26 +1137,18 @@
 <description>АлександПыжиков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aaleksandrpizhikov.xml]]></playlist_url>
 </channel>
- 
-<channel>
+ <channel>
 <title><![CDATA[ Власть препятствует прогрессу!]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/922/922dc697e36db366035356c9369f7293.jpg" width="175"/></td></tr></table>Александр Николаевич Томилин рассуждает о путинской ""цифровизации"", несущем бред Грефе и о целях образования.Доктор физико-математических наук, профессор.  Главный научный сотрудник Института системного программирования РАН, Профессор кафедры Автоматизации систем вычислительных комплексов.]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/859/8598cae778190cc121d625281b2a9a3d.mp4]]></stream_url>
 <category_id>43</category_id>
 </channel>
-<channel>
-<title><![CDATA[ 30 серебренников за Курилы.]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/3d7/3d7e3dcc1bec9d096331b37aaf21337d.jpg" width="175"/></td></tr></table>Александр Широкорад об угрозах, которые несет с собой сдача южных Курил. Александр Борисович Широкорад — российский популярный писатель и публицист. Автор более сотни научно-популярных книг по артиллерии, военной технике, истории.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/394/3944b703879ce6929183f1753602c7bb.mp4]]></stream_url>
-<category_id>44</category_id>
+ <channel>
+<title>АлександрШирокорад</title>
+<description>АлександрШирокорад</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aaleksandrshirokorad.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Вся правда о южных Курилах.]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/1d9/1d9821c09653a7bb0ce0065e74d8eb5c.jpg" width="175"/></td></tr></table>Александр Широкорад об угрозах, которые несет с собой сдача южных Курил.Александр Борисович Широкорад  — российский популярный писатель и публицист. Автор более сотни научно-популярных книг по артиллерии, военной технике, истории.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/44c/44c3e7723e85ee3eba7bba4726621f97.mp4]]></stream_url>
-<category_id>44</category_id>
-</channel>
-<channel>
+ <channel>
 <title><![CDATA[ Мы вернемся в космос]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5dd/5dde47cf5c41b52d5e1608dd0ef1aecf.jpg" width="175"/></td></tr></table>Что значит день 12 апреля? Что происходило в КБ ""Южное"" в советское время? Как проходили государственные испытания в присутствии генералов армии СССР? Что скрывалось под кодовым словом ""Куляба""? В чём трагедия советского ракетостроения в постперестроечное время? Что сейчас происходит на ""ЮЖМАШЕ""? Почему технологический прогресс второй половины 20 века мы будет ещё долго вспоминать? Какую возможность сверхдержавам предоставляет космос? В какую сторону должно измениться сознание человека?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/504/5047ca17566bf6af44128245922da309.mp4]]></stream_url>
