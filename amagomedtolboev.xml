@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>МагомедТолбоев</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Катастрофа российского авиапрома]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/52c/52caf2b3d2c001f11efdd8f3bfe96b55.jpg" width="175"/></td></tr></table>Герой России, летчик-испытатель генерал-майор Магомед Омарович Толбоев о том, почему он не пожал руку вору-министру, об авиакатастрофах в РФ, «эффективных» менеджерах, уничтожении системы подготовки пилотов, коррупции, Погосяне и суперджете.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/5aa/5aae5c7ed59e67c8dde4e53e1450b518.mp4]]></stream_url>
+<category_id>126</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Кто виноват в сбитом «боинге»? Магомед Толбоев]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8f7/8f79e403b8ea7cd2920dcd50d86a1942.jpg" width="175"/></td></tr></table>Герой России, летчик-испытатель генерал-майор Магомед Омарович Толбоев о том, кто на самом деле виноват в сбитом боинге под Тегераном.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c3d/c3d22e23912fbb5045a03ce3ee87799e.mp4]]></stream_url>
+<category_id>126</category_id>
+</channel>
+
+</items>
