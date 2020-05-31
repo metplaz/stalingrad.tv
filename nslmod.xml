@@ -1276,20 +1276,12 @@
 <description>ВалерийСоловей</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avaleriysolovey.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Россия и мировая закулиса]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/22f/22f395bd781656ba07f64baa21b97176.jpg" width="175"/></td></tr></table>Профессор, доктор исторических наук Вардан Багдасарян, рассказыаает о формировании глобального общества. Кто стоит за этими процессами? Мировое правительство - выдумка или реальность? Какой интерес представляет Россия для политических элит Запада? И что нас ждёт в перспективе, если мы не начнём строить собственную цивилизационную модель?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/927/927e0497b63a49666813fef928fc2cfa.mp4]]></stream_url>
-<category_id>64</category_id>
+ <channel>
+<title>ВарданБагдасарян</title>
+<description>ВарданБагдасарян</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avardanbagdasaryan.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ ""Россия и Запад - два пути""]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/2a5/2a5f25e9f3c473c097a1cc0e18087efa.jpg" width="175"/></td></tr></table>Доктор исторических наук Вардан Багдасарян об уникальности исторического пути России. Чем мы кардинально отличаемся от Запада? Почему коммунизм чисто русское понятие?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/3e0/3e0fdd613763624d6e4ca612b81a2965.mp4]]></stream_url>
-<category_id>64</category_id>
-</channel>
- 
-<channel>
+ <channel>
 <title>ВасилийМельниченко</title>
 <description>ВасилийМельниченко</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avasiliymelnichenko.xml]]></playlist_url>
