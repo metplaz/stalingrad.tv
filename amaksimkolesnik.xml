@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>МаксимКолесник</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Лукавство - болезнь нашего общества.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d38/d383ec5791e94fee0f06d497df774fa1.jpg" width="175"/></td></tr></table>Коллектив канала ""Сталинград"" выражает искренние соболезнования родным и близким погибших в результате теракта в Керчи. Говорить об этой трагедии считаем возможным только по окончании траура.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/378/378c58840ed3f96de83d7721db1c7660.mp4]]></stream_url>
+<category_id>128</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Максим Колесник: Ещё раз о вреде ростовщичества.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/948/9483d6df41ccdaa29d654c168930a6ce.jpg" width="175"/></td></tr></table>Протоиерей Максим Колесник о запрете ростовщичества в православии.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/45f/45f17de181c3d700245353c226f59784.mp4]]></stream_url>
+<category_id>128</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Общество социальной справедливости.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5fa/5fa46f79e67de0b795025d6b30d0d15d.jpg" width="175"/></td></tr></table>Протоиерей Максим Колесник об обществе социальной справедливости.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/203/2036259dcedf2b44493553ce1e11360f.mp4]]></stream_url>
+<category_id>128</category_id>
+</channel>
+
+</items>
