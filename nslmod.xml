@@ -1237,17 +1237,11 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d29/d29117bcbaa3f9733bfaa4e4d34c46b9.mp4]]></stream_url>
 <category_id>56</category_id>
 </channel>
+ 
 <channel>
-<title><![CDATA[ Коварство истории]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f20/f20efd0c56d1b9a27294cf0fbf11ddd1.jpg" width="175"/></td></tr></table>Кандидат исторических наук, доцент кафедры истории Андрей Ильич Фурсов об уникальности Красного проекта, образе апокалипсиса навязываемого Западом, и о путях выхода из капитализма.Для чего в СССР внушались идеи, связанные с научной фантастикой? Идеи выхода в космос? Почему теперь у нас превалирует фэнтези, а не научная фантастика? Почему Запад рисует картины апокалипсиса в фантастике, без светлого будущего? Возможно ли возрождение Красного проекта?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b78/b7899a6ff263b60a41452454460c80cb.mp4]]></stream_url>
-<category_id>57</category_id>
-</channel>
-<channel>
-<title><![CDATA[ Советский Союз, истоки и механизмы распада]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/80c/80c400b5c7998273e6380d5688bfd734.jpg" width="175"/></td></tr></table>Кандидат исторических наук, доцент кафедры истории Андрей Ильич Фурсов о причинах и следствиях падения Советского Союза. В чём причина падения СССР? Кто разрушил «систему»?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6bf/6bf8197c284d0fa40473f435290d73ec.mp4]]></stream_url>
-<category_id>57</category_id>
+<title>АндрейФурсов</title>
+<description>АндрейФурсов</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aandreyfursov.xml]]></playlist_url>
 </channel>
 <channel>
 <title><![CDATA[ Нацизм - инструмент Запада против России.]]></title>
