@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>АндрейКочергин</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Барыгам спорт не нужен]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/19f/19f6ca9107911e23d51bb249ff7cd033.jpg" width="175"/></td></tr></table>Репортаж канала Сталинград с митинга-собрания, посвященного попыткам ""отжать"" два спорткомплекса в Санкт-Петербурге под коммерческую застройку. Сотни детей больше не смогут заниматься там спортом. Общественный деятель и спортсмен Андрей Николаевич Кочергин, а также все неравнодушные люди города пытаются отстоять эти объекты.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/66e/66eb182938529f27123e521b479b6e6c.mp4]]></stream_url>
+<category_id>54</category_id>
+</channel>
+<channel>
+<title><![CDATA[ Псевдосмирение хуже предательства]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/285/285f3acc60a28cdf21ed9002521827a8.jpg" width="175"/></td></tr></table>Общественный деятель, писатель, спортсмен Андрей Кочергин про состояние современного общества, апатию народа,]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/7e9/7e9cfa3b961209ff0d557973860582fb.mp4]]></stream_url>
+<category_id>54</category_id>
+</channel>
+
+</items>
