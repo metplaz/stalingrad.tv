@@ -1107,12 +1107,10 @@
 <description>АлександрКолпакиди</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aalexandrkolpakidi.xml]]></playlist_url>
 </channel>  
- 
-<channel>
-<title><![CDATA[ Александр Михайлов о России, Путине, Навальном.]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5f8/5f842fc34ab71afa45acfd1165e6849a.jpg" width="175"/></td></tr></table>ОБЯЗАТЕЛЬНО ЧИТАТЬ!!! При всем нашем уважении и любви к великому актеру и подвижнику Александру Михайлову, хотим отметить, что мнение редакции не во всем совпадает с мнением Александра Яковлевича. Настоятельно просим с уважением относиться к любой точке зрения и не переходить границ приличия в процессе дискуссии.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d62/d62b5e8c3a8d40e9561189bee4a9b1c2.mp4]]></stream_url>
-<category_id>38</category_id>
+ <channel>
+<title>АлександрМихайлов</title>
+<description>АлександрМихайлов</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aalexandermihaylov.xml]]></playlist_url>
 </channel>
 <channel>
 <title><![CDATA[ Лекция №1. Первые шаги в чрезвычайной ситуации на канале Сталинград]]></title>
@@ -1131,8 +1129,7 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cd9/cd91b22052232c8141f317a8de3dea89.mp4]]></stream_url>
 <category_id>41</category_id>
 </channel>
- 
-<channel>
+ <channel>
 <title>АлександрПыжиков</title>
 <description>АлександПыжиков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aaleksandrpizhikov.xml]]></playlist_url>
