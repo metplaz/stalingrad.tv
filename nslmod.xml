@@ -1114,11 +1114,10 @@
 <description>ВладимирБыстряков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avladimirbistryakov.xml]]></playlist_url>
 </channel>
- <channel>
-<title><![CDATA[ Изнанка полиции]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/6ea/6ea7b6eb9e60e2e757bb8fcd058344fe.jpg" width="175"/></td></tr></table>Автор проекта ""Омбудсмен полиции"" Владимир Воронцов о негласной жизни в полиции, с какими проблемами сталкиваются полицейские на службе? Возможно ли честному человеку работать в полиции?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/073/0733283ca42c6e39aa9fdce88d6727a4.mp4]]></stream_url>
-<category_id>76</category_id>
+<channel>
+<title>ВладимирВоронцов</title>
+<description>ВладимирВоронцов</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avladimirvoroncov.xml]]></playlist_url>
 </channel>
  <channel>
 <title>ВладимирКвачков</title>
