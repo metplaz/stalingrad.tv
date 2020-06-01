@@ -1334,13 +1334,12 @@
 <description>КириллБарабаш</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/akirillbarabash.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Студенты за социализм]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/14c/14c3e72da35be6d33954af3e557f7804.jpg" width="175"/></td></tr></table>Видеоблогер ""Вестник бури originals"" Кирилл Украинцев о том, зачем молодёжь выходит на митинги.  Какая повестка у студентов и что следует в ней изменить? Как бороться с репрессиями учащихся институтов, которые не довольны нынешней властью?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/4db/4dba61e775510e3b1e9cb951dd12ac25.mp4]]></stream_url>
-<category_id>118</category_id>
+ <channel>
+<title>КириллУкраинцев</title>
+<description>КириллУкраинцев</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/akirillukraincev.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>КонстантинСёмин</title>
 <description>КонстантинСёмин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/akonstantinsemin.xml]]></playlist_url>
