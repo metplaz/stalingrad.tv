@@ -1188,13 +1188,12 @@
 <description>ДмитрийПотапенко</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/admitriypotapenko.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Ложь, демократия, капитализм]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d87/d877e4ec9ed4a89ce48b91cd1d775562.jpg" width="175"/></td></tr></table>Писатель, публицист, переводчик и блогер Дмитрий Goblin Пучков о пропаганде капитализма, искаженном общественном сознании, и лжи про историю СССР.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/024/0245628e05841175827a6b2880b65976.mp4]]></stream_url>
-<category_id>92</category_id>
+ <channel>
+<title>ДмитрийПучков</title>
+<description>ДмитрийПучков</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/admitriypuchkov.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title><![CDATA[ Московский коллапс]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e85/e858b14e80377fba0ffd468487fd09c0.jpg" width="175"/></td></tr></table>Юрист, член КПРФ Дмитрий Сараев о беспределе московских властей, внеплановой застройке, отношению к жителям и протестах… Ядерные отходы в Москве? Что известно власти, и не известно жителям Москвы…]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cdd/cddfa70b9d1774180c6d029ad94c283f.mp4]]></stream_url>
