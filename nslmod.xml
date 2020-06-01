@@ -1132,11 +1132,10 @@
 <description>АлександПыжиков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aaleksandrpizhikov.xml]]></playlist_url>
 </channel>
- <channel>
-<title><![CDATA[ Власть препятствует прогрессу!]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/922/922dc697e36db366035356c9369f7293.jpg" width="175"/></td></tr></table>Александр Николаевич Томилин рассуждает о путинской ""цифровизации"", несущем бред Грефе и о целях образования.Доктор физико-математических наук, профессор.  Главный научный сотрудник Института системного программирования РАН, Профессор кафедры Автоматизации систем вычислительных комплексов.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/859/8598cae778190cc121d625281b2a9a3d.mp4]]></stream_url>
-<category_id>43</category_id>
+<channel>
+<title>АлександрТомилин</title>
+<description>АлександрТомилин</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aalexandrtomilin.xml]]></playlist_url>
 </channel>
  <channel>
 <title>АлександрШирокорад</title>
