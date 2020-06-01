@@ -1149,12 +1149,11 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avyacheslavtetekin.xml]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[ Мусорные свалки - кто виноват и что делать?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/510/510f4a576e2b289d35f44d9a7a60c775.jpg" width="175"/></td></tr></table>Блогер-эколог Георгий Каваносян анализирует проблему мусорных свалок в России и вообще состояние экологии в нашей стране. Кто виноват, что в наших городах уже нечем дышать? Почему Западные страны перенимают опыт Советского Союза в области переработки вторсырья? Что необходимо сделать в первую очередь для того, чтобы исправить экологическую ситуацию и проблему мусора?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/87d/87dde61ad9bb18111bc2a3c5dcbad7bf.mp4]]></stream_url>
-<category_id>84</category_id>
+<title>ГеоргийКаваносян</title>
+<description>ГеоргийКаваносян</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ageorgiykavanosyan.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ГеоргийФедоров</title>
 <description>ГеоргийФедоров</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ageorgiyfedorov.xml]]></playlist_url>
