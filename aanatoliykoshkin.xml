@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>АнатолийКошкин</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Анатолий Кошкин. Южные Курилы - взгляд профессионала.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/cad/cad08501a655bb7d69937817b53165b3.jpg" width="175"/></td></tr></table>Ведущий специалист по российско-японским отношениям Кошкин Анатолий Аркадьевич. Подробный анализ по вопросу Южных Курил.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/211/2112d540e25573e0a762894a8598504f.mp4]]></stream_url>
+<category_id>53</category_id>
+</channel>
+
+</items>
