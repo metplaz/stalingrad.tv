@@ -1125,12 +1125,11 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avladimirkvachkov.xml]]></playlist_url>
 </channel> 
  <channel>
-<title><![CDATA[ КПРФ и левое движение в России]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/6ec/6ec10303a413c4fc2af9c118b031a36a.jpg" width="175"/></td></tr></table>Лидер партии Владимир Иванович Лакеев об истории создания Объединенной коммунистической партии и причинах выхода из КПРФ. Роль Зюганова в левопатриотическом движении. Слил Зюганов свою победу в 1996 году или нет? Что делать в преддверии наступающего кризиса?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/8f3/8f3a3695774da944467ad7988007a587.mp4]]></stream_url>
-<category_id>78</category_id>
+<title>ВладимирЛакеев</title>
+<description>ВладимирЛакеев</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avladimirlakeev.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title><![CDATA[ Замена Доллара]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/26d/26d117789dd8abc312f0457671a955cb.jpg" width="175"/></td></tr></table>Замена Доллара Видео на канале Сталинград]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b40/b401c4c3798299d28690dfd322b73d30.mp4]]></stream_url>
