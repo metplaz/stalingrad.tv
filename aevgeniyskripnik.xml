@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ЕвгенийСкрипник</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Положение в Донбассе - взгляд изнутри.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f73/f738e51bd423bd561b9bf53547d9d724.jpg" width="175"/></td></tr></table>Евгений Скрипник (позывной ""Прапор"") о текущей ситуации в Донбассе. А также о потенциальной сдаче Курил.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/0b5/0b5aaa3e6ee177448cd28c8723a4caf0.mp4]]></stream_url>
+<category_id>96</category_id>
+</channel>
+
+</items>
