@@ -1193,13 +1193,12 @@
 <description>ДмитрийПучков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/admitriypuchkov.xml]]></playlist_url>
 </channel>
- <channel>
-<title><![CDATA[ Московский коллапс]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e85/e858b14e80377fba0ffd468487fd09c0.jpg" width="175"/></td></tr></table>Юрист, член КПРФ Дмитрий Сараев о беспределе московских властей, внеплановой застройке, отношению к жителям и протестах… Ядерные отходы в Москве? Что известно власти, и не известно жителям Москвы…]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cdd/cddfa70b9d1774180c6d029ad94c283f.mp4]]></stream_url>
-<category_id>93</category_id>
-</channel>
 <channel>
+<title>ДмитрийСараев</title>
+<description>ДмитрийСараев</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/admitriysaraev.xml]]></playlist_url>
+</channel>
+ <channel>
 <title><![CDATA[ Клинический путинизм]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/b16/b1632e7f791812b09ed3f812fc741305.jpg" width="175"/></td></tr></table>Поэт, журналист, общественный деятель Дмитрий Чёрный о том, кто такой Захар Прилепин? Когда он стал писателем? Был ли он ополченцем в Донбассе? Когда он стал владельцем ""Хутора Захара Прилепина""? Зачем он создаёт партию ""За правду""? Какие отношения у Прилепина с Путиным?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/80b/80b09d21172292af179d7b871bfeaf15.mp4]]></stream_url>
