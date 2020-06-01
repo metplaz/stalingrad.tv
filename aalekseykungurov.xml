@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>АлексейКунгуров</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Рак головного мозга в Кремле]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ca6/ca6f46c05f40b91d6c90cb3278009e19.jpg" width="175"/></td></tr></table>Почему грабить население России стало выгоднее, чем выкачивать нефть? Что за идеологию на самом деле исповедует власть? Какую правду боятся озвучить лидеры оппозиции? И почему крах системы неизбежен? Об этом и много другом блогер Алексей Кунгуров.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/50c/50cd7982fd8e97f6155669588f9829a3.mp4]]></stream_url>
+<category_id>46</category_id>
+</channel>
+
+</items>
