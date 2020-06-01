@@ -1145,12 +1145,11 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avladislavzhukovskiy.xml]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[ Гражданство за рабство]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/620/62077de66d9fe7be27302597a48f1276.jpg" width="175"/></td></tr></table>Президент фонда «Миграция 21 век» Вячеслав Поставнин про российскую миграционную политику. Коррупция, отсутствие программы репатриации, отсутствие информационной системы учёта трудовых мигрантов, отсутствие инфраструктуры по приёму, адаптации и интеграции мигрантов. К чему приведёт эта миграционная политика в будущем?  ]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a4f/a4f1f9c2fd11a373c69eaee10bd247f2.mp4]]></stream_url>
-<category_id>82</category_id>
+<title>ВячеславПоставин</title>
+<description>ВячеславПоставин</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avyacheslavpostavin.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ВячеславТетёкин</title>
 <description>ВячеславТетёкин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avyacheslavtetekin.xml]]></playlist_url>
