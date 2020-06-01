@@ -1143,10 +1143,9 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aaleksandrshirokorad.xml]]></playlist_url>
 </channel>
  <channel>
-<title><![CDATA[ Мы вернемся в космос]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/5dd/5dde47cf5c41b52d5e1608dd0ef1aecf.jpg" width="175"/></td></tr></table>Что значит день 12 апреля? Что происходило в КБ ""Южное"" в советское время? Как проходили государственные испытания в присутствии генералов армии СССР? Что скрывалось под кодовым словом ""Куляба""? В чём трагедия советского ракетостроения в постперестроечное время? Что сейчас происходит на ""ЮЖМАШЕ""? Почему технологический прогресс второй половины 20 века мы будет ещё долго вспоминать? Какую возможность сверхдержавам предоставляет космос? В какую сторону должно измениться сознание человека?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/504/5047ca17566bf6af44128245922da309.mp4]]></stream_url>
-<category_id>45</category_id>
+<title>АлексейАнпилогов</title>
+<description>АлексейАнпилогов</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aalekseyanpilogov.xml]]></playlist_url>
 </channel>
 <channel>
 <title><![CDATA[ Рак головного мозга в Кремле]]></title>
