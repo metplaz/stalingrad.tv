@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>АндрейКуприков</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Левый поворот - миссия России.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/7ad/7ad30176a55e2b7a9aeb6d0b688bf0e8.jpg" width="175"/></td></tr></table>Наследие советского воспитания, и о том, кто и как сможет изменить ситуацию в стране.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a9e/a9e4081f91eb3dad9a6847194a369aaf.mp4]]></stream_url>
+<category_id>55</category_id>
+</channel>
+
+</items>
