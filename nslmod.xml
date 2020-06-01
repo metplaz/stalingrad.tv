@@ -1100,12 +1100,11 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aviktoriyagarsiyabernal.xml]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[ КрымНАШ а Россия?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/330/330eee59622093ba6c683e8075eb383e.jpg" width="175"/></td></tr></table>Коренной крымчанин, кандидат исторических наук, член ассоциации политологов Крыма Виктор Харабуга о ситуации вокруг Крыма. Что произошло в Крыму в 2014 году? Почему Крым, находясь в составе России, является отчужденной территорией? Если Крым наш, то можно ли так сказать о самой России?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f33/f333a5430a0087e644317b2ff6e94936.mp4]]></stream_url>
-<category_id>73</category_id>
+<title>ВикторХарабуга</title>
+<description>ВикторХарабуга</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aviktorharabuga.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ВиталийИванов</title>
 <description>ВиталийИванов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avitaliyivanov.xml]]></playlist_url>
