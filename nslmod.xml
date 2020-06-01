@@ -1109,13 +1109,12 @@
 <description>ВиталийИванов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avitaliyivanov.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Взгляд из Киева. Куда уехал цирк?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c5d/c5da357dc02fdeb7cf8d3c3433240479.jpg" width="175"/></td></tr></table>Композитор, заслуженный артист УССР Владимир Быстряков о новом президенте, колонизации страны, о глубинных процессах в государственном устройстве, а также о тех регионах планеты, в которых украинская элита построила себе светлое будущее.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/99f/99f57987cacae59bb3d682f838c67ad5.mp4]]></stream_url>
-<category_id>75</category_id>
+ <channel>
+<title>ВладимирБыстряков</title>
+<description>ВладимирБыстряков</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avladimirbistryakov.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title><![CDATA[ Изнанка полиции]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/6ea/6ea7b6eb9e60e2e757bb8fcd058344fe.jpg" width="175"/></td></tr></table>Автор проекта ""Омбудсмен полиции"" Владимир Воронцов о негласной жизни в полиции, с какими проблемами сталкиваются полицейские на службе? Возможно ли честному человеку работать в полиции?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/073/0733283ca42c6e39aa9fdce88d6727a4.mp4]]></stream_url>
