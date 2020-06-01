@@ -1014,13 +1014,12 @@
 <description>АндрейКочергин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aandreykochergin.xml]]></playlist_url>
 </channel>
- <channel>
-<title><![CDATA[ Левый поворот - миссия России.]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/7ad/7ad30176a55e2b7a9aeb6d0b688bf0e8.jpg" width="175"/></td></tr></table>Наследие советского воспитания, и о том, кто и как сможет изменить ситуацию в стране.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a9e/a9e4081f91eb3dad9a6847194a369aaf.mp4]]></stream_url>
-<category_id>55</category_id>
+<channel>
+<title>АндрейКуприков</title>
+<description>АндрейКуприков</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aandreykuprikov.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>АндрейПаршев</title>
 <description>АндрейПаршев</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aandreyparshev.xml]]></playlist_url>
