@@ -1079,11 +1079,10 @@
 <description>ВасилийСемчера</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avasiliysemchera.xml]]></playlist_url>
 </channel>
- <channel>
-<title><![CDATA[ Торговля людьми]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/31a/31a6a3fb52f083e89e23c7077c1a81c5.jpg" width="175"/></td></tr></table>Консультант ОБСЕ, эксперт по противодействию торговле людьми Вера Грачёва о работорговле в России. Действительно ли так много инвалидов и нищих в России? Как люди попадают в неволю и как с этим бороться ?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b79/b79fab178d809ec4c630e8637fb351c6.mp4]]></stream_url>
-<category_id>69</category_id>
+<channel>
+<title>ВераГрачёва</title>
+<description>ВераГрачёва</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/averagracheva.xml]]></playlist_url>
 </channel>
  <channel>
 <title>ВераМысина</title>
