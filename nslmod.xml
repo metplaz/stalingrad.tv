@@ -1168,13 +1168,12 @@
 <description>ДедАрхмед</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/adedarhimed.xml]]></playlist_url>
 </channel>
- <channel>
-<title><![CDATA[ Одесса, мы вернёмся!]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/514/514faa1f1ef8e67070583d2fd0272475.jpg" width="175"/></td></tr></table>Денис Яцюк (экс-координатор Одесской дружины) о событиях в Одессе 2 мая 2014 года. Как создавалась Одесская дружина, кто был её организатором, причины оккупации Одессы ордами украинствующих карателей, а также об одесситах, воюющих за территориальную целостность России (не путать с РФ).]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/521/521975a867dd648ac285025b494cf928.mp4]]></stream_url>
-<category_id>88</category_id>
+<channel>
+<title>ДенисЯцюк</title>
+<description>ДенисЯцюк</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/adenisyacyuk.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ДмитрийЛысаковский</title>
 <description>ДмитрийЛысаковский</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/admitriylysakovskiy.xml]]></playlist_url>
