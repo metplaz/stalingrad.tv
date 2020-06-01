@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>АнастасияГачева</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Россия - через тернии к звёздам!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/bfd/bfd46b0c60a3f308cbc44281cd098b7e.jpg" width="175"/></td></tr></table>Доктор филологических наук Анастасия Гачева, рассказывает о мыслителе Николае Фёдорове и его ""Философии Общего дела"" Какая связь между Гагариным и Федоровым? Почему при капитализме невозможно полноценное освоение космоса? В чем уникальность русской цивилизации? И какие глобальные цели и задачи стоят сегодня перед человечеством?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/832/83283f466c1bd7b2a5a25f1a10f3efc6.mp4]]></stream_url>
+<category_id>50</category_id>
+</channel>
+
+
+</items>
