@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>АлексейСахнин</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Логика капитализма]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/79c/79c286832c93aca06f4149fc75b952e5.jpg" width="175"/></td></tr></table>Историк, координатор Левого фронта Алексей Сахнин про логику развития России последних лет. К чему ведёт капиталистическое развитие? Какое будущее нас ждёт?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/91c/91c369a18b08f78d55b2897b4a5ac9cd.mp4]]></stream_url>
+<category_id>49</category_id>
+</channel>
+
+</items>
