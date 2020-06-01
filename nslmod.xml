@@ -989,10 +989,9 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aanastasiyagacheva.xml]]></playlist_url>
 </channel>
  <channel>
-<title><![CDATA[ Реальная Угроза]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/731/7318dfd16b2c23242d3800fbdb142c6e.jpg" width="175"/></td></tr></table>Кандидат физико-математических наук, старший научный сотрудник Петербургского института ядерной физики РАН Анастасия Макарьева о  теории биотической регуляции. Что представляет главную угрозу человечеству в наше время? Есть ли шанс избежать вымирания и что для этого нужно делать?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9f2/9f2263f01eedb33487cc056e226f6a75.mp4]]></stream_url>
-<category_id>51</category_id>
+<title>АнастасияМакарьева</title>
+<description>АнастасияМакарьева</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aanastasiyamakaryeva.xml]]></playlist_url>
 </channel>
  <channel>
 <title>АнатолийКлёсов</title>
