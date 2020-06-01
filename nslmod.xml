@@ -983,13 +983,12 @@
 <description>АлексейСахнин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aalekseysahnin.xml]]></playlist_url>
 </channel>
- <channel>
-<title><![CDATA[ Россия - через тернии к звёздам!]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/bfd/bfd46b0c60a3f308cbc44281cd098b7e.jpg" width="175"/></td></tr></table>Доктор филологических наук Анастасия Гачева, рассказывает о мыслителе Николае Фёдорове и его ""Философии Общего дела"" Какая связь между Гагариным и Федоровым? Почему при капитализме невозможно полноценное освоение космоса? В чем уникальность русской цивилизации? И какие глобальные цели и задачи стоят сегодня перед человечеством?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/832/83283f466c1bd7b2a5a25f1a10f3efc6.mp4]]></stream_url>
-<category_id>50</category_id>
-</channel>
 <channel>
+<title>АнастасияГачева</title>
+<description>АнастасияГачева</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aanastasiyagacheva.xml]]></playlist_url>
+</channel>
+ <channel>
 <title><![CDATA[ Реальная Угроза]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/731/7318dfd16b2c23242d3800fbdb142c6e.jpg" width="175"/></td></tr></table>Кандидат физико-математических наук, старший научный сотрудник Петербургского института ядерной физики РАН Анастасия Макарьева о  теории биотической регуляции. Что представляет главную угрозу человечеству в наше время? Есть ли шанс избежать вымирания и что для этого нужно делать?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9f2/9f2263f01eedb33487cc056e226f6a75.mp4]]></stream_url>
