@@ -1164,6 +1164,11 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/agermanartamonov.xml]]></playlist_url>
 </channel>
  <channel>
+<title>ГригорийБобинов</title>
+<description>ГригорийБобинов</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/agrigoriybobinov.xml]]></playlist_url>
+</channel>
+ <channel>
 <title>ДедАрхмед</title>
 <description>ДедАрхмед</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/adedarhimed.xml]]></playlist_url>
