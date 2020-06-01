@@ -1199,12 +1199,11 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/admitriysaraev.xml]]></playlist_url>
 </channel>
  <channel>
-<title><![CDATA[ Клинический путинизм]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/b16/b1632e7f791812b09ed3f812fc741305.jpg" width="175"/></td></tr></table>Поэт, журналист, общественный деятель Дмитрий Чёрный о том, кто такой Захар Прилепин? Когда он стал писателем? Был ли он ополченцем в Донбассе? Когда он стал владельцем ""Хутора Захара Прилепина""? Зачем он создаёт партию ""За правду""? Какие отношения у Прилепина с Путиным?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/80b/80b09d21172292af179d7b871bfeaf15.mp4]]></stream_url>
-<category_id>94</category_id>
+<title>ДмитрийЧерный</title>
+<description>ДмитрийЧерный</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/admitriycherniy.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ЕвгенийИменитов</title>
 <description>ЕвгенийИменитов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aevgeniyimenitov.xml]]></playlist_url>
