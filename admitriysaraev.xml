@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ДмитрийСараев</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Московский коллапс]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e85/e858b14e80377fba0ffd468487fd09c0.jpg" width="175"/></td></tr></table>Юрист, член КПРФ Дмитрий Сараев о беспределе московских властей, внеплановой застройке, отношению к жителям и протестах… Ядерные отходы в Москве? Что известно власти, и не известно жителям Москвы…]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cdd/cddfa70b9d1774180c6d029ad94c283f.mp4]]></stream_url>
+<category_id>93</category_id>
+</channel>
+
+</items>
