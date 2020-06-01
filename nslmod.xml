@@ -1029,13 +1029,12 @@
 <description>АндрейФурсов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aandreyfursov.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Нацизм - инструмент Запада против России.]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/200/200d93bf6d5ebdef0b53be09f7aa71d2.jpg" width="175"/></td></tr></table>Бредихин Антон Викторович - кандидат исторических наук, научный руководитель Центра этнических и международных исследований.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f3e/f3ec5d78c5ea9dbb950891a607ce1f6d.mp4]]></stream_url>
-<category_id>58</category_id>
+ <channel>
+<title>АнтонБредихин</title>
+<description>АнтонБредихин</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aantonbredihin.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>БорисКагарлицкий</title>
 <description>БорисКагарлицкий</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aboriskagarlickiy.xml]]></playlist_url>
