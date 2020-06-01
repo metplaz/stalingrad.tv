@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>АнастасияМакарьева</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Реальная Угроза]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/731/7318dfd16b2c23242d3800fbdb142c6e.jpg" width="175"/></td></tr></table>Кандидат физико-математических наук, старший научный сотрудник Петербургского института ядерной физики РАН Анастасия Макарьева о  теории биотической регуляции. Что представляет главную угрозу человечеству в наше время? Есть ли шанс избежать вымирания и что для этого нужно делать?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9f2/9f2263f01eedb33487cc056e226f6a75.mp4]]></stream_url>
+<category_id>51</category_id>
+</channel>
+
+</items>
