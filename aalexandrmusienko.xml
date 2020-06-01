@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>АлександрМусиенко</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Лекция №1. Первые шаги в чрезвычайной ситуации на канале Сталинград]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/2f9/2f9d4ad51c1abcf215e890056bdacc85.jpg" width="175"/></td></tr></table>Что такое выживание? Что может измениться в стране в худшую сторону? Какие периоды опасности бывают? Какими продуктами нужно запасаться в первую очередь? Как согреваться в экстремальных условиях? В какой момент блокируются въезды и выезды? Почему в чрезвычайной ситуации надо перекрывать канализацию? Какой уровень опасности был в Москве осенью 1941 года? Что делать простым людям в час икс?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/ad2/ad2b06053505da1f28e151e352935552.mp4]]></stream_url>
+<category_id>39</category_id>
+</channel>
+
+</items>
