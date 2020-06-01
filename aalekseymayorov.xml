@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>АлексейМайоров</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Новые технологии агитпропа]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/98f/98f0878ec1ed48a5b7d2b3bae4667042.jpg" width="175"/></td></tr></table>Блогер, автор канала comrade major Алексей Майоров о новых полит-технологиях, о марксистских кружках и об условиях, необходимых для изменения жизни россиян в лучшую сторону.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/28a/28adba4a620b45ca548b5f17b576a775.mp4]]></stream_url>
+<category_id>47</category_id>
+</channel>
+
+</items>
