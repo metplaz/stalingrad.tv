@@ -1208,13 +1208,12 @@
 <description>ЕвгенийИменитов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aevgeniyimenitov.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Положение в Донбассе - взгляд изнутри.]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f73/f738e51bd423bd561b9bf53547d9d724.jpg" width="175"/></td></tr></table>Евгений Скрипник (позывной ""Прапор"") о текущей ситуации в Донбассе. А также о потенциальной сдаче Курил.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/0b5/0b5aaa3e6ee177448cd28c8723a4caf0.mp4]]></stream_url>
-<category_id>96</category_id>
+ <channel>
+<title>ЕвгенийСкрипник</title>
+<description>ЕвгенийСкрипник</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aevgeniyskripnik.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ЕвгенийСпицын</title>
 <description>ЕвгенийСпицын</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aevgeniyspicin.xml]]></playlist_url>
