@@ -1135,10 +1135,9 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avladimirmatveev.xml]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[ Нас учат бояться]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e3e/e3e17ab3ce91f6119eea2fac7beeb129.jpg" width="175"/></td></tr></table>Опасен ли коронавирус? Как паника влияет на восприятие вируса организмом? Есть автор у пандемии? Как китайцы смогли мобилизовать своё общество? Как партия ""Единая Россия"" с помощью эпидемии замалчивает провал своей ""Стратегии-2020""? Как перекладывается ответственность с федеральной власти на региональную? Какая социальная катастрофа может произойти в РФ? Какие цели у медицины были в СССР и в современной РФ?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/885/885d21cddfda32fe79297a61426f5f17.mp4]]></stream_url>
-<category_id>80</category_id>
+<title>ВладимирХомяков</title>
+<description>ВладимирХомяков</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avladimirhomyakov.xml]]></playlist_url>
 </channel>
 <channel>
 <title>ВладиславЖуковский</title>
