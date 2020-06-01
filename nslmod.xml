@@ -968,13 +968,12 @@
 <description>АлексейКунгуров</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aalekseykungurov.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Новые технологии агитпропа]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/98f/98f0878ec1ed48a5b7d2b3bae4667042.jpg" width="175"/></td></tr></table>Блогер, автор канала comrade major Алексей Майоров о новых полит-технологиях, о марксистских кружках и об условиях, необходимых для изменения жизни россиян в лучшую сторону.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/28a/28adba4a620b45ca548b5f17b576a775.mp4]]></stream_url>
-<category_id>47</category_id>
+ <channel>
+<title>АлексейМайоров</title>
+<description>АлексейМайоров</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aalekseymayorov.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title><![CDATA[ 1000000 рублей на третьего ребёнка]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/57c/57c1504cced802bc399cc5d16705b862.jpg" width="175"/></td></tr></table>Независимый эксперт-демограф Алексей Игоревич Ракша о влиянии маткапитала на рождаемость в России. Что влияет на рождаемость - медицина или экономика?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a5d/a5d4726aa1759d5f9af1e5d3f5069c22.mp4]]></stream_url>
