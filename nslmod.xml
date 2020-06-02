@@ -1351,13 +1351,12 @@
 <description>КонстантинСивков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/akonstantinsivkov.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Китай уже в Чувашии]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fa0/fa0059167dd255654d3d2ad670ee37a3.jpg" width="175"/></td></tr></table>Гражданский активист из Чебоксар Лариса Васильева о продаже территорий РФ китайским «инвесторам», о борьбе народа за свою землю, за свои права и о результатах этой борьбы. От нас ничего не зависит? Правда?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/ba2/ba23bd6acb67c7a6b6b4d2c4aade3137.mp4]]></stream_url>
-<category_id>121</category_id>
+ <channel>
+<title>ЛарисаВасильева</title>
+<description>ЛарисаВасильева</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/alarisavasilyeva.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ЛеонидИвашов</title>
 <description>ЛеонидИвашов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aleonidivashov.xml]]></playlist_url>
