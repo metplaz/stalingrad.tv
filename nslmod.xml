@@ -1657,13 +1657,12 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/19e/19eedf0067755b91761b1740e8790287.mp4]]></stream_url>
 <category_id>179</category_id>
 </channel>
-<channel>
-<title><![CDATA[ Промышленности.net]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/e74/e741a2eb6f7a8fdbd26055082d1ea6e7.jpg" width="175"/></td></tr></table>Доктор технических наук, профессор Юрий Петрович Савельев проводит сравнительный анализ экономических показателей Советского союза и путинской эпохи. Что такое мобилизационная экономика Сталина? Какие шансы у Российской Федерации выйти из кризиса?  ]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/18b/18b6c902e3644f7a6e684893e38e70b3.mp4]]></stream_url>
-<category_id>180</category_id>
+ <channel>
+<title>ЮрийСавельев</title>
+<description>ЮрийСавельев</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriysavelyev.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ЮрийЮрченко</title>
 <description>ЮрийЮрченко</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriyyurchenko.xml]]></playlist_url>
