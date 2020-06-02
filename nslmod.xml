@@ -1502,13 +1502,12 @@
 <description>ПламенПасков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aplamenpaskov.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Рафи Джабар: ""Мы убиваем русских и нам за это ничего нет...""]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8fb/8fbaac674e296d587b0d8a484e74206b.jpg" width="175"/></td></tr></table>Ополченец ДНР Рафи Джабар (позывной ""Абдулла"") о странной войне на Донбассе.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/51e/51e39ccca4ade12f0c43e2421a4841be.mp4]]></stream_url>
-<category_id>150</category_id>
+ <channel>
+<title>РафиДжабар</title>
+<description>РафиДжабар</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/arafidzhabar.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>РоманВасилишин</title>
 <description>РоманВасилишин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aromanvasilishin.xml]]></playlist_url>
