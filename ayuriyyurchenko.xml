@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ЮрийЮрченко</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ ОДОН - Объединение добровольцев Новороссии]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c61/c61e4f777bf0cefbf6d43d30886463a9.jpg" width="175"/></td></tr></table>По всем вопросам ОДОН обращаться на e-mail: odon-novorossia@mail.ru Ополченец-военкор Юрий Юрченко (позывной ""Анри"") о новой общественной организации ОДОН Объединение добровольцев Новороссии.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e50/e50c6da1d304cbedf8e46ff0c0d6913a.mp4]]></stream_url>
+<category_id>181</category_id>
+</channel>
+
+<channel>
+<title><![CDATA[ Военкор Юрий Юрченко о поэзии и войне на Донбассе.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/229/2296fa6ea6d1c6fe5211e9bf8fc2d377.jpg" width="175"/></td></tr></table>Военный корреспондент Юрий Юрченко рассказывает о поэтах и поэзии на войне в Новороссии.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b59/b59cf45b37989ba8aa832dbaeb735043.mp4]]></stream_url>
+<category_id>181</category_id>
+</channel>
+
+</items>
