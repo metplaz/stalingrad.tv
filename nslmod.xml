@@ -1573,13 +1573,12 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/029/029eafa45652d6c1f54fd2008f030750.mp4]]></stream_url>
 <category_id>163</category_id>
 </channel>
-<channel>
-<title><![CDATA[ Кредитное рабство]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a39/a39dcbece6b745e038cf22ff41417678.jpg" width="175"/></td></tr></table>Юрист, специализирующийся на банкротствах Тигран Хачатрян про систему кредитования в России. Что такое «кредитная кабала», и как из неё выбраться?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/5e7/5e77ce66c7f7e980cedd1a2480bfeae6.mp4]]></stream_url>
-<category_id>164</category_id>
-</channel>
  <channel>
+<title>ТигранХачатрян</title>
+<description>ТигранХачатрян</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/atigranhachtryan.xml]]></playlist_url>
+</channel>
+<channel>
 <title>ТимКирби</title>
 <description>ТимКирби</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/atimkirbi.xml]]></playlist_url>
