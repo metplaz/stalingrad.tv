@@ -1651,11 +1651,10 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cc5/cc5c0dc0d26331f9808bb6afc9e8d0c9.mp4]]></stream_url>
 <category_id>178</category_id>
 </channel>
-<channel>
-<title><![CDATA[ Унитазные ""инвестиции"" Чубайса, или ""заграница нам поможет""?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/90f/90f54936e81694f5daa1e73c7636b143.jpg" width="175"/></td></tr></table>Юрий Степанович Рябцев, доктор технических наук, профессор, лауреат Ленинской и Государственной премий, один из создателей вычислительного комплекса системы ПРО С-300, С-400, С-500 рассказывает о необходимости максимального развития технологий любыми средствами.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/19e/19eedf0067755b91761b1740e8790287.mp4]]></stream_url>
-<category_id>179</category_id>
+ <channel>
+<title>ЮрийРябцев</title>
+<description>ЮрийРябцев</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriyryabcev.xml]]></playlist_url>
 </channel>
  <channel>
 <title>ЮрийСавельев</title>
