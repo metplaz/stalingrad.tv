@@ -1229,12 +1229,11 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aevgeniychernov.xml]]></playlist_url>
 </channel>
  <channel>
-<title><![CDATA[ Фашизация России]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/1ed/1ed4c1ff783ff0cb1cdd6d70d634a8bb.jpg" width="175"/></td></tr></table>Историк Егор Яковлев о процессах фашизации российского общества, а также о том, что левый поворот возможен только после ухода Путина.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f01/f0121866ce28a0a824aa95b7162a5b68.mp4]]></stream_url>
-<category_id>99</category_id>
+<title>ЕгорЯковлев</title>
+<description>ЕгорЯковлев</description>
+<playlist_url><![CDATA[https://github.com/metplaz/stalingrad.tv/blob/nslmod/aegoryakovlev.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title><![CDATA[ Как нас будут штрафовать]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/b84/b84f69999f722c0094f481d1bbc7a292.jpg" width="175"/></td></tr></table>Зачем вводятся штрафы за выход из дома в Москве? Как в США проводят финансовую политику во время пандемии? Что обязано сделать правительство сейчас? Куда пропали маски из аптек? Кто такой среднестатистический ""единорос""? Какие представления у депутатов из правящей партии о доходах населения?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9f6/9f6ec7ec18cb461f91c2b8db1b0bb6c7.mp4]]></stream_url>
