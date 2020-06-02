@@ -1414,18 +1414,19 @@
 <description>МихаилАксель</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/amihailaksel.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Революция. РПЦ. 1917 год]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/0f6/0f6a2d761bdb2fc3a5d28b359f4d852e.jpg" width="175"/></td></tr></table>Какую роль в свержении элиты в 1917 играла церковь? На какой исторической развилке оказалась Россия с 3 марта 1917? Какой комплекс мер предпринял синод, чтобы снять вопрос о монархии с повестки дня? Отрекались ли приемники династии Романовых от престола? Почему никто не вышел на поддержку царя? Почему церковь поддерживала республику? Когда кординально поменялась форма власти в России? Говорит доктор исторических наук Михаил Бабкин о роли РПЦ в свержении монархии в России.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/19e/19ee43e921102b8e83432774c18d9d0b.mp4]]></stream_url>
-<category_id>133</category_id>
+ <channel>
+<title>МихаилБабкин</title>
+<description>МихаилБабкин</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/amihailbabkin.xml]]></playlist_url>
 </channel>
-<channel>
+ 
+ <channel>
 <title><![CDATA[ Путин в тротиловом эквиваленте]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/88f/88ff6ee402685d0a9883245f2d7dc968.jpg" width="175"/></td></tr></table>Бывший министр печати и информации РФ Михаил Полторанин о том, почему Ельцин привел Путина к власти, какое будущее ждет население страны, об экономической и политической ситуации в России и откуда берутся новинки наших вооружений.]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/740/740def1edd2038d9c52ee88468fc6653.mp4]]></stream_url>
 <category_id>134</category_id>
 </channel>
+ 
 <channel>
 <title>НиколайБондаренко</title>
 <description>НиколайБондаренко</description>
