@@ -1601,13 +1601,12 @@
 <description>ЭльдарХасанов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aeldarhasanov.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Их нужно лечить электричеством]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/434/4340901bb37a188bc23a40a3072463f1.jpg" width="175"/></td></tr></table>О шизофрении, внедряемой в массовое сознание СМИ РФ, о бандите Сталине и душке Арашукове, Есенин здорового человека и журналистика курильщика, а также другие актуальные проблемы страны.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/04e/04e6af331cdecfe751f4a3d2e980a1a2.mp4]]></stream_url>
-<category_id>169</category_id>
+ <channel>
+<title>ЭльмарРустамов</title>
+<description>ЭльмарРустамов</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aelmarrustamov.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ЭльМюрид</title>
 <description>ЭльМюрид</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aelmurid.xml]]></playlist_url>
