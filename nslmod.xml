@@ -1449,13 +1449,12 @@
 <description>НиколайСапелкин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/anikolyasapelkin.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Сладкая жизнь. Николай Эрней]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/02f/02f5558abca8454c229aae0964e3635c.jpg" width="175"/></td></tr></table>Русский немец, программист из Германии Николай Эрней рассказывает о той чудовищной реальности жизни, которая скрывается за фасадом европейского благополучия.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/53a/53a80611d04defa8ef7366bc5f2a8df5.mp4]]></stream_url>
-<category_id>140</category_id>
+ <channel>
+<title>НиколайЭрней</title>
+<description>НиколайЭрней</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/admitriycherniy.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ОлегДвуреченский</title>
 <description>ОлегДвуреченский</description>
 <playlist_url><![CDATA[https://github.com/metplaz/stalingrad.tv/blob/nslmod/aolegdvurechenskiy.xml]]></playlist_url>
