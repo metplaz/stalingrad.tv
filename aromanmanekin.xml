@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>РоманМанекин</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Окопная правда Новороссии]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/343/3435873734d9c3479c1593b57ce24ac8.jpg" width="175"/></td></tr></table>Донецкий публицист, общественный деятель Роман Манекин комментирует передачу Александра Рогаткина ""Окопная правда"" на канале ""Россия 24"", а также гражданскую войну в Новороссии. Что такое братание? Что такое атаманщина? Какой выход из этой войны?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/806/806ef7c18ebb7a60c4ce143e2e6ed64f.mp4]]></stream_url>
+<category_id>152</category_id>
+</channel>
+
+
+</items>
