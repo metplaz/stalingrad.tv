@@ -1465,10 +1465,9 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aolegkamolov.xml]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[ Оккупация Севера. Шиес.]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/9d8/9d84d3720ed2218298a56ea5d2fa9f70.jpg" width="175"/></td></tr></table>Первый секретарь РесКома КПРФ республики Коми Олег Михайлов рассказывает про сопротивление местных жителей против строительства  мусорного полигона в Шиесе.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9b5/9b591408aed3c7ab2efbaf6109faa844.mp4]]></stream_url>
-<category_id>143</category_id>
+<title>ОлегМихайлов</title>
+<description>ОлегМихайлов</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aolegmihaylov.xml]]></playlist_url>
 </channel>
  <channel>
 <title>ОльгаЗиновьева</title>
