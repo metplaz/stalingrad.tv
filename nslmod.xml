@@ -1632,13 +1632,12 @@
 <description>ЮрийЖуков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriyzhukov.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Новая концепция миграционного законодательства.]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/57e/57e27dec917d8b6dfa9a74234b6031c9.jpg" width="175"/></td></tr></table>Московский Юрий Викторович - историк и социолог, специалист по связям с общественностью. Член Союза писателей России и Союза журналистов России. Директор региональных проектов Фонда содействия развитию международных связей и социальных систем.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/8a4/8a4d8b3aa330df2951f7c498e7d340a5.mp4]]></stream_url>
-<category_id>175</category_id>
+ <channel>
+<title>ЮрийМосковский</title>
+<description>ЮрийМосковский</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriymoskovskiy.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ЮрийМухин</title>
 <description>ЮрийМухин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriymuhin.xml]]></playlist_url>
