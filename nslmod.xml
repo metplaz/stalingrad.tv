@@ -1662,5 +1662,10 @@
 <description>ЮрийЮрченко</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriyyurchenko.xml]]></playlist_url>
 </channel>
-
+<channel>
+<title>ЯковДжугашвили</title>
+<description>ЯковДжугашвили</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayakovdzhugashvili.xml]]></playlist_url>
+</channel>
+ 
 </items>
