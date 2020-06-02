@@ -17,7 +17,13 @@
 <description>Переход в ОБЩИЙ плейлист</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
-
+ 
+<channel>
+<title><![CDATA[ ПОСОБНИКИ ФАШИЗМА]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/1e7/1e70dff6d898003e108053c154fe757e.jpg" width="175"/></td></tr></table>Что говорят противники фармацевтической мафии на телевидении в США? Кто спланировал коронобесие в Америке? Почему почти все страны остановили свою экономику? Как адепты победобесия стали адептами коронабесия? Что говорят авторитетные доктора в США? Какая ситуация сейчас в больницах? Кого можно считать пособниками фашистов? Говорит Яков Евгеньевич Джугашвили, общественный деятель, правнук Иосифа Сталина.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/7d4/7d411e1f725015bee257650368e36592.mp4]]></stream_url>
+<category_id>185,20</category_id>
+</channel>
 <channel>
 <title><![CDATA[ Схемы хищения в медицине]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/40b/40b9ae8aa4214009af61883cda10cfe2.jpg" width="175"/></td></tr></table>Когда возникает необходимость создания профсоюза? Как в медицинской среде накопилось чувство несправедливости? Что из себя сейчас представляет система здравоохранения? Какой функционал у министра? Может ли быть медицина в рыночной экономике? По какому принципу губернаторы назначают главных врачей больниц?]]></description>
