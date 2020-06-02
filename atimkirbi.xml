@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ТимКирби</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ В Америке больше нет мужчин]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/1c6/1c631b6fce9e4f7592da7f492c325588.jpg" width="175"/></td></tr></table>Вторую часть можно посмотреть на новом канале перейдя по этой ссылке]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f9f/f9ff82855685ccfb9962ec9ae4f3f3f3.mp4]]></stream_url>
+<category_id>165</category_id>
+</channel>
+
+</items>
