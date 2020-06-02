@@ -1532,11 +1532,10 @@
 <description>СеваРига</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/asevariga.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Мы защищали воровское государство..]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/185/18570f730bf8421db0acad8de1b754aa.jpg" width="175"/></td></tr></table>Бывший сотрудник МВД из Хабаровска о ситуации с Курилами и жизни Дальневосточного региона.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/5aa/5aa211fa75534a229c775d1ff63a8ad9.mp4]]></stream_url>
-<category_id>156</category_id>
+ <channel>
+<title>СергейПавлов</title>
+<description>СергейПавлов</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/asergeypavlov.xml]]></playlist_url>
 </channel>
  <channel>
 <title>СергейПереслегин</title>
