@@ -1567,11 +1567,10 @@
 <description>СтепанСулакшин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/astepansulakshin.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Муж - домашнее животное женщины]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/4d1/4d12938dea8c23b5ba0956a05c79f337.jpg" width="175"/></td></tr></table>Педагог и психолог Татьяна Львовна Шишова о том, кто является ЖЕРТВОЙ и на кого нацелен ЗАКОН о профилактике семейно-бытового насилия.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/029/029eafa45652d6c1f54fd2008f030750.mp4]]></stream_url>
-<category_id>163</category_id>
+ <channel>
+<title>ТатьянаШишова</title>
+<description>ТатьянаШишова</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/atatyanashishova.xml]]></playlist_url>
 </channel>
  <channel>
 <title>ТигранХачатрян</title>
