@@ -1590,13 +1590,12 @@
 <description>ТимофейЕрмаков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/atimofeyermakov.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Учитель лакей?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/870/87093cc2869c3f12871d2bff2d2ae185.jpg" width="175"/></td></tr></table>Историк, писатель Фёдор Викторович Лисицын о современной системе образовании в России. Чем отличаются учебники стандарта СССР и современные учебники? Какую роль в этом процессе занимает учитель? Чем отличается современная система образования от системы образования в СССР?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/fad/fad9e60ed93dae89b4bcd498c8224cce.mp4]]></stream_url>
-<category_id>167</category_id>
+ <channel>
+<title>ФёдорЛисицын</title>
+<description>ФёдорЛисицын</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/afedorlisicin.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ЭльдарХасанов</title>
 <description>ЭльдарХасанов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aeldarhasanov.xml]]></playlist_url>
