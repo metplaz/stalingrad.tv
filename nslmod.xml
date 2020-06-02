@@ -1646,10 +1646,9 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriynazarov.xml]]></playlist_url>
 </channel>
 <channel>
-<title><![CDATA[ Операция «Уран». Подвиг советского человека]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/883/8832592857d1b88473f7ecacbd870af3.jpg" width="175"/></td></tr></table>Кандидат исторических наук Юрий Никифоров об операции ""Уран"", приказе 227, Сталинградской битве и Героях Советского Союза времён Второй мировой войны.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cc5/cc5c0dc0d26331f9808bb6afc9e8d0c9.mp4]]></stream_url>
-<category_id>178</category_id>
+<title>ЮрийНикифоров</title>
+<description>ЮрийНикифоров</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriynikiforov.xml]]></playlist_url>
 </channel>
  <channel>
 <title>ЮрийРябцев</title>
