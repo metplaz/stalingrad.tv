@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>СтасВасильев</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Блогеры - Ай, как не просто!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/2f4/2f46e2a24cef633f727e7b2854023ce2.jpg" width="175"/></td></tr></table>Есть ли разница между интернетом и телевизором? Когда социализм станет ""модным""? Чем на самом деле занимаются российские топ блогеры? И почему всем на всё наплевать? Об этом и многом другом рассказывает известный блогер Стас Васильев, создавший успешный канал по обзору гаджетов.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e23/e2302ac7ad737b57b537c6349aba4ffb.mp4]]></stream_url>
+<category_id>161</category_id>
+</channel>
+
+</items>
