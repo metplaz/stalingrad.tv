@@ -1223,13 +1223,12 @@
 <description>ЕвгенийСпицын</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aevgeniyspicin.xml]]></playlist_url>
 </channel>
-<channel>
-<title><![CDATA[ Правда и мифы о легальных наркотиках]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/778/778900a2962a2e2b9e972d43859abb0d.jpg" width="175"/></td></tr></table>Сопредседатель Регионального Общественного Движения «Молодёжь за трезвую столицу» Чернов Евгений Владимирович рассказывает о том, как постепенно в России началось массовое спаивание алкоголем народа. Алкоголизация страны – причины и последствия. Китайский спирт, произведенный из человеческих экскрементов. Бизнес на горе людей и уничтожение здоровья будущих поколений.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e46/e46a1013c024d3a90fe9ea128e639e81.mp4]]></stream_url>
-<category_id>98</category_id>
+ <channel>
+<title>ЕвгенийЧернов</title>
+<description>ЕвгенийЧернов</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aevgeniychernov.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title><![CDATA[ Фашизация России]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/1ed/1ed4c1ff783ff0cb1cdd6d70d634a8bb.jpg" width="175"/></td></tr></table>Историк Егор Яковлев о процессах фашизации российского общества, а также о том, что левый поворот возможен только после ухода Путина.]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/f01/f0121866ce28a0a824aa95b7162a5b68.mp4]]></stream_url>
