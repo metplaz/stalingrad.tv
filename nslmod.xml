@@ -1389,12 +1389,11 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/amaksimravreba.xml]]></playlist_url>
 </channel>
  <channel>
-<title><![CDATA[ ""Эффективная"" медицина]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ca3/ca3f8ef53e0d7880ad6004a55965d1da.jpg" width="175"/></td></tr></table>Экс Зам. директора НИИ детской онкологии и гематологии НМИЦ им. Н. Н. Блохина Максим Рыков рассказал о причинах банкротства детского онкоцентра.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/864/864449c1b03faa9a2ca42eb935d06598.mp4]]></stream_url>
-<category_id>130</category_id>
+<title>МаксимРыков</title>
+<description>МаксимРыков</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/amaksimrykov.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title><![CDATA[ Нет Единой России!]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/788/788ec1b269c0a91cc769437fcf58b83f.jpg" width="175"/></td></tr></table>Советник Председателя ЦК КПРФ Маргарита Образцова о социально экономической ситуации в стране. Почему каждому нужно обязательно придти на выборы 8 сентября? Каковы шансы на победу у ""Единой России"". Как выиграть выборы у ""Единой России"" ?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/761/7610de88855284738d1a29bbbbae80cc.mp4]]></stream_url>
