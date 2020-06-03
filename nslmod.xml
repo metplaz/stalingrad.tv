@@ -1304,12 +1304,11 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aigorstrelkov.xml]]></playlist_url>
 </channel>
  <channel>
-<title><![CDATA[ Право на оружие. Чем мы хуже молдован?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a75/a753b387e347695947bf3bf6a33174bf.jpg" width="175"/></td></tr></table>Игорь Владимирович Шмелев. Экс-председатель правления Всероссийской общественной организации «Право на оружие» . Окончил МГУ, геологический факультет. Геолог. охотник, фотограф, стрелок, неоднократный организатор стрелковых мероприятий и соревнований, сертифицированный судья ФПСР и IDPA.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/74f/74f5d9c05c72eda6ef72b61451f820e8.mp4]]></stream_url>
-<category_id>114</category_id>
+<title>ИгорьШмелев</title>
+<description>ИгорьШмелев</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aigorshmelev.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ИгорьШнуренко</title>
 <description>ИгорьШнуренко</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aigorshnurenko.xml]]></playlist_url>
