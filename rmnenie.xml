@@ -17,7 +17,13 @@
 <description>Переход в ОБЩИЙ плейлист</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
-
+  
+<channel>
+<title><![CDATA[ ТРАМП НАКАНУНЕ СВЕРЖЕНИЯ?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/1d0/1d069a4ebb0eec54f937594c6dfed514.jpg" width="175"/></td></tr></table>Что сейчас происходит в США? Какой политический образ у Дональда Трампа? Сколько оружия на руках у американцев? Кто организатор беспорядков? Как постсоветские элиты наблюдают за раскладом сил в США? Что делать на самоизоляции?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/69e/69e857d85d64798f3eaa80f7d8df6df6.mp4]]></stream_url>
+<category_id>15</category_id>
+</channel>
 <channel>
 <title><![CDATA[ У них осталось только насилие]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/0ee/0eef0f7f2c5ddc9cc4fe866804ab77dd.jpg" width="175"/></td></tr></table>Как режим показал свою фашистскую суть через отмену традиционных выборов? Почему забыли эпидемию свиного гриппа 2009 года? Для чего власти важна легитимность? Как ломается психика человека? Проглотит ли общество нововведения власти?]]></description>
