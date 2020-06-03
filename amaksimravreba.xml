@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>МаксимРавреба</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Все дороги ведут к войне за Киев.]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/3e4/3e4ba48c75da258bfb994f7f27c297e5.jpg" width="175"/></td></tr></table>Максим Равреба о вреде, который наносят провластные пропагандисты России. P.S. По просьбе автора первоначальное название ролика изменено.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/fc1/fc133e704eb75edbf10851dd583cd58e.mp4]]></stream_url>
+<category_id>129</category_id>
+</channel>
+
+</items>
