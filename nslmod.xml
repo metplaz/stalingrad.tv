@@ -1469,12 +1469,11 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aolgachetverikova.xml]]></playlist_url>
 </channel>
  <channel>
-<title><![CDATA[ Путин скачет на медведе]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/963/96311a85cf0bf177532bb077693215d3.jpg" width="175"/></td></tr></table>Ольга Шалина, руководитель Московского отделения партии ""Другая Россия"" о роли элит в деградации страны.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/40b/40b30fbf2db9298af0ca5124cf6acecc.mp4]]></stream_url>
-<category_id>146</category_id>
+<title>ОльгаШалина</title>
+<description>ОльгаШалина</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aolgashalina.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title><![CDATA[ Скорая помощь теперь как такси?]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/daa/daa789eb8091b841cc6c0a0a71342209.jpg" width="175"/></td></tr></table>Представитель Информационного Агентства «Накануне.RU» Павел Пивоваров о забастовке водителей скорой помощи в Екатеринбурге.]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/699/6991ff249311c7e5efd406deb44b67f4.mp4]]></stream_url>
