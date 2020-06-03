@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>МаргаритаОбразцова</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Нет Единой России!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/788/788ec1b269c0a91cc769437fcf58b83f.jpg" width="175"/></td></tr></table>Советник Председателя ЦК КПРФ Маргарита Образцова о социально экономической ситуации в стране. Почему каждому нужно обязательно придти на выборы 8 сентября? Каковы шансы на победу у ""Единой России"". Как выиграть выборы у ""Единой России"" ?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/761/7610de88855284738d1a29bbbbae80cc.mp4]]></stream_url>
+<category_id>131</category_id>
+</channel>
+
+</items>
