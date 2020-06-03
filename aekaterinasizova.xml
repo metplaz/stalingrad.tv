@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ЕкатеринаСизова</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ По плодам их узнаете их..]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/c12/c12162963ad77afda239b64a145918f5.jpg" width="175"/></td></tr></table>Екатерина Сизова. Специалист по агротехнике о печальном положении в сельском хозяйстве и сельхозобразовании. Youtube-канал ""Сталинград""]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/e43/e43248dc1ebffaed56d629b059799da5.mp4]]></stream_url>
+<category_id>101</category_id>
+</channel>
+
+</items>
