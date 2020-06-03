@@ -1259,12 +1259,11 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/azhanzapruta.xml]]></playlist_url>
 </channel>
  <channel>
-<title><![CDATA[ Новый этап уничтожения России]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fd3/fd39cdf55e4e3190ea03a5abfc21f1d3.jpg" width="175"/></td></tr></table>Клинический психолог Жанна Тачмамедова  о том, кому выгодно протащить закон о профилактике семейно-бытового насилия, кто за этим стоит и зачем этот закон нужен?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/30f/30fbc1bc3807777a4d81223d9bb25fb9.mp4]]></stream_url>
-<category_id>105</category_id>
+<title>ЖаннаТачмамедова</title>
+<description>ЖаннаТачмамедова</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/azhannatachmamedova.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ИванЖушман</title>
 <description>ИванЖушман</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aivanzhushman.xml]]></playlist_url>
