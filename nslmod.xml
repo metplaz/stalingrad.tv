@@ -1244,12 +1244,11 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aekaterinasizova.xml]]></playlist_url>
 </channel>
  <channel>
-<title><![CDATA[ Алгоритм выживания. Елена Ведута]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/0f2/0f287c301270b68a64cd2b404032179d.jpg" width="175"/></td></tr></table>Экономист-кибернетик, доктор экономическим наук Елена Ведута о государственном планировании в СССР и России.]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/617/6179dd301bf68c88f7289599fa00edba.mp4]]></stream_url>
-<category_id>102</category_id>
+<title>ЕленаВедута</title>
+<description>ЕленаВедута</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aelenaveduta.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title><![CDATA[ От чего спасли Россию большевики?]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/302/302be4003f5c746a87b36b00fcd831ad.jpg" width="175"/></td></tr></table>Российский писатель и журналист Елена Прудникова, размышляет о роли большевиков в развитии России и становлении Советского государства.]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6f9/6f945bca74ed616d6f37110b62be89dd.mp4]]></stream_url>
