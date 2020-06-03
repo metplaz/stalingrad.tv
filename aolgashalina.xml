@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>ОльгаШалина</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ Путин скачет на медведе]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/963/96311a85cf0bf177532bb077693215d3.jpg" width="175"/></td></tr></table>Ольга Шалина, руководитель Московского отделения партии ""Другая Россия"" о роли элит в деградации страны.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/40b/40b30fbf2db9298af0ca5124cf6acecc.mp4]]></stream_url>
+<category_id>146</category_id>
+</channel>
+
+</items>
