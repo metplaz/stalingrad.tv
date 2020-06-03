@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name>МаксимРыков</playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title>Переход в ОБЩИЙ плейлист</title>
+<description>Переход в ОБЩИЙ плейлист</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ ""Эффективная"" медицина]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/ca3/ca3f8ef53e0d7880ad6004a55965d1da.jpg" width="175"/></td></tr></table>Экс Зам. директора НИИ детской онкологии и гематологии НМИЦ им. Н. Н. Блохина Максим Рыков рассказал о причинах банкротства детского онкоцентра.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/864/864449c1b03faa9a2ca42eb935d06598.mp4]]></stream_url>
+<category_id>130</category_id>
+</channel>
+
+</items>
