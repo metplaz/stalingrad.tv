@@ -1479,10 +1479,9 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/apavelpivovarov.xml]]></playlist_url>
 </channel>
  <channel>
-<title><![CDATA[ КТО такой ЕДИНОРОС?]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fce/fce5e2dc18d91a63d7acf113818d1d06.jpg" width="175"/></td></tr></table>Что происходит в стране? Почему стройки работают? Адекватны ли меры по предотвращению распространения вируса? Что происходит при введении ЧС? Почему президент самоустранился от решения проблем? Готова ли система РФ к введению ЧС? Введение QR-кодов - это пресечение протестов? Сохранится ли режим повышенной готовности после пандемии коронавируса? Что из себя представляют депутаты ""Единой России""?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/944/94423ad801695c565bebfb384f017464.mp4]]></stream_url>
-<category_id>148</category_id>
+<title>ПавелТарасов</title>
+<description>ПавелТарасов</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/apaveltarasov.xml]]></playlist_url>
 </channel>
 <channel>
 <title>ПламенПасков</title>
