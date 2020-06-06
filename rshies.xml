@@ -17,6 +17,11 @@
 <description>Переход в ОБЩИЙ плейлист</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
+<channel>
+<title>Переход к АВТОРЫ (А-Я)</title>
+<description>Переход к АВТОРЫ (А-Я)</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
+</channel>  
 
 <title><![CDATA[ Шиес. Игла страха.]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/695/6950dee8169f58e3b310d560ef379903.jpg" width="175"/></td></tr></table>Информация для тех, кто не может приехать в Шиес, но готов помочь защитникам русского севера в первом (закреплённом) комментарии.]]></description>
