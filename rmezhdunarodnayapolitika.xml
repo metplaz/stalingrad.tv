@@ -17,7 +17,12 @@
 <description>Переход в ОБЩИЙ плейлист</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
-
+<channel>
+<title>Переход к АВТОРЫ (А-Я)</title>
+<description>Переход к АВТОРЫ (А-Я)</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
+</channel>
+  
 <channel>
 <title><![CDATA[ Кто сбил ""боинг"" в Иране?]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/148/148112273489f26d10c7d0f4e0d6f057.jpg" width="175"/></td></tr></table>Полковник ГРУ, кандидат наук Владимир Квачков анализирует несостоявшуюся войну Ирана и США, а также, возможные причины катастрофы ""Боинга"" 8 января в пригородах Тегерана.]]></description>
