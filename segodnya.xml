@@ -17,8 +17,13 @@
 <description>Переход в ОБЩИЙ плейлист</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
+ <channel>
+<title>Переход к АВТОРЫ (А-Я)</title>
+<description>Переход к АВТОРЫ (А-Я)</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
+</channel>
 
-<channel>
+ <channel>
 <title><![CDATA[ Путин в ярости, разлив топлива в Норильске, Twitter удалил Трампа, забастовка курьеров Delivery Club]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="" width="175"/></td></tr></table>Сколько людей проигнорируют голосование по Конституции? Почему бастуют курьеры? Как губернатор Томской области относится к врачам? Чем оснастят водителей автобусов? Каких размеров разлив топлива в Норильске? На чём Роскосмос будет летать на Луну? Как Трамп работает в соц.сетях?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c8c/c8c91890acccd4cfad5942253bfb7401.mp4]]></stream_url>
