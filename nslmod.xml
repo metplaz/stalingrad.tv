@@ -225,9 +225,9 @@
 <description>АлександрПатрикеев</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aalexandrpatrikeev.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>АлександрПыжиков</title>
-<description>АлександПыжиков</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/3e1/500_500_2/3e10d3fea642c0c5b40d256c956bac8d.jpg" width="175"/></td></tr></table>]]>АлександПыжиков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aaleksandrpizhikov.xml]]></playlist_url>
 </channel>
 <channel>
@@ -340,12 +340,12 @@
 <description>ВасилийМельниченко</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avasiliymelnichenko.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ВасилийПопович</title>
-<description>ВасилийПопович</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/3d4/500_500_2/3d4c6147365cccf35f892e9bd3a82145.png" width="175"/></td></tr></table>]]>ВасилийПопович</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avasiliypopovich.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ВасилийПушкин</title>
 <description>ВасилийПушкин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avasiliypushkin.xml]]></playlist_url>
@@ -607,10 +607,10 @@
 </channel>
 <channel>
 <title>КириллБарабаш</title>
-<description>КириллБарабаш</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/9ac/500_500_2/9ac50bcfe3d90ec89e7942474139a480.jpg" width="175"/></td></tr></table>]]>КириллБарабаш</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/akirillbarabash.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>КириллУкраинцев</title>
 <description>КириллУкраинцев</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/akirillukraincev.xml]]></playlist_url>
@@ -862,7 +862,7 @@
 </channel>
  <channel>
 <title>ЭльдарХасанов</title>
-<description>ЭльдарХасанов</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/724/500_500_2/724fbd93036598394fb99fa16373bca0.jpg" width="175"/></td></tr></table>]]>ЭльдарХасанов - https://vk.com/stalinskypolk</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aeldarhasanov.xml]]></playlist_url>
 </channel>
  <channel>
