@@ -302,7 +302,7 @@
 </channel> 
 <channel>
 <title>АндрейФурсов</title>
-<description>АндрейФурсов</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/614/500_500_2/614351c807cc5b7c5584d47c8d2487d0.jpg" width="175"/></td></tr></table>]]>АндрейФурсов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aandreyfursov.xml]]></playlist_url>
 </channel>
  <channel>
@@ -365,9 +365,9 @@
 <description>ВераМысина</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/averamisina.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ВикторАлкснис</title>
-<description>ВикторАлкснис</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/cbf/500_500_2/cbf335d7bd001a03ba56eed8868e9f54.jpg" width="175"/></td></tr></table>]]>ВикторАлкснис</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aviktoralksnis.xml]]></playlist_url>
 </channel>
 <channel>
@@ -380,12 +380,12 @@
 <description>ВикторХарабуга</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aviktorharabuga.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ВиталийИванов</title>
-<description>ВиталийИванов</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/827/500_500_2/827c09ec3ebfbe0b61ce40a6b84f5571.jpg" width="175"/></td></tr></table>]]>ВиталийИванов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avitaliyivanov.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ВладимирБыстряков</title>
 <description>ВладимирБыстряков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avladimirbistryakov.xml]]></playlist_url>
@@ -567,7 +567,7 @@
 </channel>
 <channel>
 <title>ИгорьКульков</title>
-<description>ИгорьКульков</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/d83/500_500_2/d83a6ab0bf7e75510990976426853e41.jpg" width="175"/></td></tr></table>]]>ИгорьКульков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aigorkulkov.xml]]></playlist_url>
 </channel>
  <channel>
@@ -702,7 +702,7 @@
 </channel>
  <channel>
 <title>НиколайВавилов</title>
-<description>НиколайВавилов</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/076/500_500_2/0768332e9c41dd58d7ea9636b2976a15.jpg" width="175"/></td></tr></table>]]>НиколайВавилов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/anikolayvavilov.xml]]></playlist_url>
 </channel>
  <channel>
@@ -775,12 +775,12 @@
 <description>РафиДжабар</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/arafidzhabar.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>РоманВасилишин</title>
-<description>РоманВасилишин</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/be8/500_500_2/be8674a05da1932915c7730df161cd29.jpg" width="175"/></td></tr></table>]]>РоманВасилишин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aromanvasilishin.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>РоманМанекин</title>
 <description>РоманМанекин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aromanmanekin.xml]]></playlist_url>
@@ -900,17 +900,17 @@
 <description>ЮрийМосковский</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriymoskovskiy.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ЮрийМухин</title>
-<description>ЮрийМухин</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/c21/500_500_2/c21108b3176c7e1bb55c9a649fdc6999.jpg" width="175"/></td></tr></table>]]>ЮрийМухин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriymuhin.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ЮрийНазаров</title>
-<description>ЮрийНазаров</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/8f3/500_500_2/8f36c4876915544500a310986bdb5301.jpg" width="175"/></td></tr></table>]]>ЮрийНазаров</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriynazarov.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ЮрийНикифоров</title>
 <description>ЮрийНикифоров</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriynikiforov.xml]]></playlist_url>
