@@ -887,7 +887,7 @@
 </channel>
 <channel>
 <title>ЮрийЕвич</title>
-<description>ЮрийЕвич</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/iblock/56b/56b39e505b2ec10387e3de3e62c295ff.jpg" width="175"/></td></tr></table>]]>ЮрийЕвич</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriyevich.xml]]></playlist_url>
 </channel>
 <channel>
