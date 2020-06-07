@@ -870,9 +870,9 @@
 <description>ЭльмарРустамов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aelmarrustamov.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ЭльМюрид</title>
-<description>ЭльМюрид</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/272/500_500_2/272e905697d7b4b0e70c39c0590f4495.jpg" width="175"/></td></tr></table>]]>ЭльМюрид</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aelmurid.xml]]></playlist_url>
 </channel>
 <channel>
