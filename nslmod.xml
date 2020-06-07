@@ -505,14 +505,14 @@
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/78b/500_500_2/78bd30b72ec7c51e435f498b6f11f4cf.jpg" width="175"/></td></tr></table>]]>ЕвгенийСпицын</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aevgeniyspicin.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ЕвгенийЧернов</title>
-<description>ЕвгенийЧернов</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/682/500_500_2/6820b69fd39b6b1b161ad070e1a1af3e.jpg" width="175"/></td></tr></table>]]>ЕвгенийЧернов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aevgeniychernov.xml]]></playlist_url>
 </channel>
  <channel>
 <title>ЕгорЯковлев</title>
-<description>ЕгорЯковлев</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/59f/500_500_2/59f6589ddd83714bb1bca7de2cebee28.jpg" width="175"/></td></tr></table>]]>ЕгорЯковлев</description>
 <playlist_url><![CDATA[https://github.com/metplaz/stalingrad.tv/blob/nslmod/aegoryakovlev.xml]]></playlist_url>
 </channel>
  <channel>
@@ -652,10 +652,10 @@
 </channel>
  <channel>
 <title>МагомедТолбоев</title>
-<description>МагомедТолбоев</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/65d/500_500_2/65d1de8fb081fb419a18be7bb4d1d985.jpg" width="175"/></td></tr></table>]]>МагомедТолбоев</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/amagomedtolboev.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>МаксимКалашников</title>
 <description>МаксимКалашников</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/amaksimkalashnikov.xml]]></playlist_url>
@@ -667,7 +667,7 @@
 </channel>
  <channel>
 <title>МаксимРавреба</title>
-<description>МаксимРавреба</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/0fa/500_500_2/0fa8e0ec4a2d17acaa594be54b38eacc.jpg" width="175"/></td></tr></table>]]>МаксимРавреба</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/amaksimravreba.xml]]></playlist_url>
 </channel>
  <channel>
@@ -682,7 +682,7 @@
 </channel>
  <channel>
 <title>МихаилАксель</title>
-<description>МихаилАксель</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/2b9/500_500_2/2b9c77b903135cb53fef8c457a032dbc.jpg" width="175"/></td></tr></table>]]>МихаилАксель</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/amihailaksel.xml]]></playlist_url>
 </channel>
  <channel>
@@ -890,12 +890,12 @@
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/iblock/56b/56b39e505b2ec10387e3de3e62c295ff.jpg" width="175"/></td></tr></table>]]>ЮрийЕвич</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriyevich.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ЮрийЖуков</title>
-<description>ЮрийЖуков</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/iblock/3c7/3c7b7002995c7d3a6347e9ad89206499.jpg" width="175"/></td></tr></table>]]>ЮрийЖуков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriyzhukov.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ЮрийМосковский</title>
 <description>ЮрийМосковский</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriymoskovskiy.xml]]></playlist_url>
@@ -930,10 +930,11 @@
 <description>ЮрийЮрченко</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayuriyyurchenko.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ЯковДжугашвили</title>
-<description>ЯковДжугашвили</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/8b5/500_500_2/8b561f4c47855b67fd8834e31b79a2eb.jpg" width="175"/></td></tr></table>]]>ЯковДжугашвили</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ayakovdzhugashvili.xml]]></playlist_url>
 </channel>
+
  
 </items>
