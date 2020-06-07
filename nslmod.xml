@@ -280,17 +280,17 @@
 <description>АнатолийКлёсов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aanatoliyklesov.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>АнатолийКошкин</title>
-<description>АнатолийКошкин</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/651/500_500_2/65183b1b2a91bbd3d42bcbe0b9dd2a78.jpg" width="175"/></td></tr></table>]]>АнатолийКошкин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aanatoliykoshkin.xml]]></playlist_url>
 </channel>
  <channel>
 <title>АндрейКочергин</title>
-<description>АндрейКочергин</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/369/500_500_2/369d189cce10ab6bc0df212ea093a355.jpg" width="175"/></td></tr></table>]]>АндрейКочергин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aandreykochergin.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>АндрейКуприков</title>
 <description>АндрейКуприков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aandreykuprikov.xml]]></playlist_url>
@@ -335,9 +335,9 @@
 <description>ВарданБагдасарян</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avardanbagdasaryan.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ВасилийМельниченко</title>
-<description>ВасилийМельниченко</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/05e/500_500_2/05e9efc9fed72863d57c4bd61fd39e2f.jpg" width="175"/></td></tr></table>]]>ВасилийМельниченко</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avasiliymelnichenko.xml]]></playlist_url>
 </channel>
  <channel>
@@ -425,9 +425,9 @@
 <description>ВячеславПоставин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avyacheslavpostavin.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ВячеславТетёкин</title>
-<description>ВячеславТетёкин</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/a8f/500_500_2/a8f2c792b705c89982db9138165ce230.jpeg" width="175"/></td></tr></table>]]>ВячеславТетёкин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avyacheslavtetekin.xml]]></playlist_url>
 </channel>
 <channel>
@@ -440,9 +440,9 @@
 <description>ГеоргийФедоров</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ageorgiyfedorov.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ГерманАртамонов</title>
-<description>ГерманАртамонов</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/11b/500_500_2/11ba7bb25b15bc685457b1842c93f3bc.jpg" width="175"/></td></tr></table>]]>ГерманАртамонов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/agermanartamonov.xml]]></playlist_url>
 </channel>
  <channel>
@@ -492,7 +492,7 @@
 </channel>
  <channel>
 <title>ЕвгенийИменитов</title>
-<description>ЕвгенийИменитов</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/73e/500_500_2/73e36f1f53759d21f86d2fd39e463fe7.jpg" width="175"/></td></tr></table>]]>ЕвгенийИменитов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aevgeniyimenitov.xml]]></playlist_url>
 </channel>
  <channel>
@@ -855,9 +855,9 @@
 <description>ТимофейЕрмаков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/atimofeyermakov.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ФёдорЛисицын</title>
-<description>ФёдорЛисицын</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/28a/500_500_2/28aaafc923f78dd82d044c8815159285.jpg" width="175"/></td></tr></table>]]>ФёдорЛисицын</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/afedorlisicin.xml]]></playlist_url>
 </channel>
  <channel>
