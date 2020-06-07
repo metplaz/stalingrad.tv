@@ -200,11 +200,11 @@
 <description>АлександрЕвдокимов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aalexandrevdakimov.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>АлександрКолпакиди</title>
-<description>АлександрКолпакиди</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/35d/500_500_2/35d2a3d2e30c4590aaf2f7db138b0ee7.jpg" width="175"/></td></tr></table>]]>АлександрКолпакиди</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aalexandrkolpakidi.xml]]></playlist_url>
-</channel>  
+</channel>
  <channel>
 <title>АлександрМихайлов</title>
 <description>АлександрМихайлов</description>
