@@ -322,10 +322,10 @@
 </channel>
  <channel>
 <title>ВалентинКатасонов</title>
-<description>ВалентинКатасонов</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/f11/500_500_2/f113f6168e272b26775b736d02ee14d5.jpg" width="175"/></td></tr></table>]]>ВалентинКатасонов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avalentinkatasonov.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ВалерийСоловей</title>
 <description>ВалерийСоловей</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avaleriysolovey.xml]]></playlist_url>
