@@ -262,10 +262,10 @@
 </channel>
 <channel>
 <title>АлексейСахнин</title>
-<description>АлексейСахнин</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/961/500_500_2/9616b0610f9e74aa0d85dfc48b8abb7b.jpg" width="175"/></td></tr></table>]]>АлексейСахнин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aalekseysahnin.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>АнастасияГачева</title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/37d/500_500_2/37de1dea7c0da6f6c0b8c749f6f5b64a.jpg" width="175"/></td></tr></table>]]>АнастасияГачева</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aanastasiyagacheva.xml]]></playlist_url>
@@ -670,12 +670,12 @@ channel>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/0fa/500_500_2/0fa8e0ec4a2d17acaa594be54b38eacc.jpg" width="175"/></td></tr></table>]]>МаксимРавреба</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/amaksimravreba.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>МаксимРыков</title>
-<description>МаксимРыков</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/a4f/500_500_2/a4fe37d9070ba83f9f0f28f5b92173fa.JPG" width="175"/></td></tr></table>]]>МаксимРыков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/amaksimrykov.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>МаргаритаОбразцова</title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/d39/500_500_2/d399a72d5db6eccf4664c0e3eefc9c6e.jpg" width="175"/></td></tr></table>]]>МаргаритаОбразцова</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/amargaritaobrazcova.xml]]></playlist_url>
