@@ -13,16 +13,17 @@
 </all_channels>
 
 <channel>
-<title>Переход в ОБЩИЙ плейлист</title>
-<description>Переход в ОБЩИЙ плейлист</description>
+<title><![CDATA[Переход в ОБЩИЙ плейлист]]></title>
+<description><![CDATA[Переход в ОБЩИЙ плейлист]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
 <channel>
-<title>Переход к АВТОРЫ (А-Я)</title>
-<description>Переход к АВТОРЫ (А-Я)</description>
+<title><![CDATA[Переход к АВТОРЫ (А-Я)]]></title>
+<description><![CDATA[Переход к АВТОРЫ (А-Я)]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
-</channel>  
+</channel>
 
+  
 <channel>
 <title><![CDATA[ Крушение надежд]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/398/39802ddb8ad83200cfd1308b6d5e8636.jpg" width="175"/></td></tr></table>Публицист, блогер ""Soiz"" Василий Юрьевич об этническом делении территории и духовности. К чему ведет атомизация народа? В чем разница между этносом и нацией?]]></description>
