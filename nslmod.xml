@@ -245,12 +245,12 @@
 <description>АлексейАнпилогов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aalekseyanpilogov.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>АлексейКунгуров</title>
-<description>АлексейКунгуров</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/319/500_500_2/31964a8b1756f34efed1f3a4ac029fd9.jpg" width="175"/></td></tr></table>]]>АлексейКунгуров</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aalekseykungurov.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>АлексейМайоров</title>
 <description>АлексейМайоров</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aalekseymayorov.xml]]></playlist_url>
