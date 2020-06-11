@@ -23,6 +23,7 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>  
 
+<channel> 
 <title><![CDATA[ Шиес. Игла страха.]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/695/6950dee8169f58e3b310d560ef379903.jpg" width="175"/></td></tr></table>Информация для тех, кто не может приехать в Шиес, но готов помочь защитникам русского севера в первом (закреплённом) комментарии.]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/4a9/4a9d600ccd615b33e709df6f770aaa73.mp4]]></stream_url>
