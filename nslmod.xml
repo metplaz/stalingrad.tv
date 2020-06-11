@@ -65,7 +65,7 @@
 </channel>
 <channel>
 <title>Карантин</title>
-<description>Карантин/description>
+<description>Карантин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/rkarantin.xml]]></playlist_url>
 </channel>
 <channel>
