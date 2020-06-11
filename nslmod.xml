@@ -435,9 +435,9 @@ channel>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/84d/500_500_2/84d7cc2e3adbb659f14d3bf1c99f0a0f.jpg" width="175"/></td></tr></table>]]>ГеоргийКаваносян</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ageorgiykavanosyan.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ГеоргийФедоров</title>
-<description>ГеоргийФедоров</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/f83/500_500_2/f83d61a8c1579366147919f3bd0d00ac.jpg" width="175"/></td></tr></table>]]>ГеоргийФедоров</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ageorgiyfedorov.xml]]></playlist_url>
 </channel>
  <channel>
@@ -455,12 +455,12 @@ channel>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/92d/500_500_2/92d0be2c7861dd2ba2a3155bd2b42439.jpg" width="175"/></td></tr></table>]]>ДедАрхмед</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/adedarhimed.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ДенисЯцюк</title>
-<description>ДенисЯцюк</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/764/500_500_2/764ba917fc6290885bf1fc8c2e1ed6cb.jpg" width="175"/></td></tr></table>]]>ДенисЯцюк</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/adenisyacyuk.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ДмитрийЛысаковский</title>
 <description>ДмитрийЛысаковский</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/admitriylysakovskiy.xml]]></playlist_url>
@@ -655,11 +655,11 @@ channel>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/65d/500_500_2/65d1de8fb081fb419a18be7bb4d1d985.jpg" width="175"/></td></tr></table>]]>МагомедТолбоев</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/amagomedtolboev.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>МаксимКалашников</title>
-<description>МаксимКалашников</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/32b/500_500_2/32b8b0efa64b694437ac00bc5df8d19f.jpg" width="175"/></td></tr></table>]]>МаксимКалашников</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/amaksimkalashnikov.xml]]></playlist_url>
-</channel> 
+</channel>
 <channel>
 <title>МаксимКолесник</title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/70a/500_500_2/70a5c1bd557a22e9ee1ffc3ed8190767.jpg" width="175"/></td></tr></table>]]>МаксимКолесник</description>
@@ -750,9 +750,9 @@ channel>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/5a6/500_500_2/5a6fb91d8b3e0d396474e889ab4924ff.jpg" width="175"/></td></tr></table>]]>ОльгаЧетверикова</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aolgachetverikova.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ОльгаШалина</title>
-<description>ОльгаШалина</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/d2b/500_500_2/d2b2a872d5caeff61cc2c949d1f0bae7.jpg" width="175"/></td></tr></table>]]>ОльгаШалина</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aolgashalina.xml]]></playlist_url>
 </channel>
  <channel>
