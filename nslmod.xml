@@ -235,9 +235,9 @@
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/1fa/500_500_2/1fa3b03f1e5d590285a0738a5a034be9.jpg" width="175"/></td></tr></table>]]>АлександрТомилин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aalexandrtomilin.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>АлександрШирокорад</title>
-<description>АлександрШирокорад</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/c7a/500_500_2/c7a3b509e39a8870f6dfd401660c795e.jpg" width="175"/></td></tr></table>]]>АлександрШирокорад</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aaleksandrshirokorad.xml]]></playlist_url>
 </channel>
  <channel>
@@ -292,7 +292,7 @@
 </channel>
  <channel>
 <title>АндрейКуприков</title>
-<description>АндрейКуприков</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/6ca/500_500_2/6caffcc6e22b00618cf76d9533102820.jpg" width="175"/></td></tr></table>]]>АндрейКуприков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aandreykuprikov.xml]]></playlist_url>
 </channel>
  <channel>
@@ -300,7 +300,7 @@
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/8f0/500_500_2/8f01090052f29cd2c3f67b7605be7ace.jpg" width="175"/></td></tr></table>]]>АндрейПаршев</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aandreyparshev.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>АндрейФурсов</title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/614/500_500_2/614351c807cc5b7c5584d47c8d2487d0.jpg" width="175"/></td></tr></table>]]>АндрейФурсов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aandreyfursov.xml]]></playlist_url>
@@ -432,10 +432,10 @@ channel>
 </channel>
 <channel>
 <title>ГеоргийКаваносян</title>
-<description>ГеоргийКаваносян</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/84d/500_500_2/84d7cc2e3adbb659f14d3bf1c99f0a0f.jpg" width="175"/></td></tr></table>]]>ГеоргийКаваносян</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ageorgiykavanosyan.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ГеоргийФедоров</title>
 <description>ГеоргийФедоров</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ageorgiyfedorov.xml]]></playlist_url>
@@ -497,7 +497,7 @@ channel>
 </channel>
  <channel>
 <title>ЕвгенийСкрипник</title>
-<description>ЕвгенийСкрипник</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/7ca/500_500_2/7cae4ecc3905eee72d9ac42b6bba5c3d.jpg" width="175"/></td></tr></table>]]>ЕвгенийСкрипник</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aevgeniyskripnik.xml]]></playlist_url>
 </channel>
  <channel>
@@ -802,7 +802,7 @@ channel>
 </channel>
  <channel>
 <title>СергейПавлов</title>
-<description>СергейПавлов</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/1f3/500_500_2/1f38ac159b8e5d42b7bc3c7721950c0c.jpg" width="175"/></td></tr></table>]]>СергейПавлов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/asergeypavlov.xml]]></playlist_url>
 </channel>
  <channel>
@@ -852,7 +852,7 @@ channel>
 </channel>
 <channel>
 <title>ТимофейЕрмаков</title>
-<description>ТимофейЕрмаков</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/87c/500_500_2/87c4dec712871b843ebe25fc8ddcaf0b.jpg" width="175"/></td></tr></table>]]>ТимофейЕрмаков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/atimofeyermakov.xml]]></playlist_url>
 </channel>
 <channel>
@@ -865,9 +865,9 @@ channel>
 <description><![CDATA[<p align="center">ХАСАНОВ ЭЛЬДАР ОСМАНОВИЧ</p><table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/724/500_500_2/724fbd93036598394fb99fa16373bca0.jpg" width="175"/></td></tr></table><p align="justify">Руководитель общественного движения "Сталинский полк", Глава комитета по военнопленным в Движении Игоря Стрелкова "Новороссия", соучредитель Комитета "25 января", начальник штаба Славянской бригады (2014 г.). После выхода ополчения из окружения в Славянске - начальник штаба МО ДНР, заместитель Командующего, Командующий юго-западного направления обороны ДНР, заместитель начальника Главного штаба МО ДНР (в отставке), подполковник. Коммунист.</p> <p>После распада СССР, боролся в Азербайджане с "алиевщиной". До настоящего времени, алиевский режим пытается добиться экстрадиции Э. Хасанова в Азербайджан, считая его врагом № 1.</p>]]>ЭльдарХасанов - https://vk.com/stalinskypolk</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aeldarhasanov.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ЭльмарРустамов</title>
-<description>ЭльмарРустамов</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/b62/500_500_2/b6221a4154457109436ff0d4a1ce817a.jpg" width="175"/></td></tr></table>]]>ЭльмарРустамов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aelmarrustamov.xml]]></playlist_url>
 </channel>
 <channel>
