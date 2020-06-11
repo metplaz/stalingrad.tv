@@ -222,7 +222,7 @@
 </channel>
 <channel>
 <title>АлександрПатрикеев</title>
-<description>АлександрПатрикеев</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/d6f/500_500_2/d6fa858b723c16581e1de2bd71e39056.jpg" width="175"/></td></tr></table>]]>АлександрПатрикеев</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aalexandrpatrikeev.xml]]></playlist_url>
 </channel>
 <channel>
@@ -390,12 +390,12 @@
 <description>ВладимирБыстряков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avladimirbistryakov.xml]]></playlist_url>
 </channel>
-<channel>
+channel>
 <title>ВладимирВоронцов</title>
-<description>ВладимирВоронцов</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/30e/500_500_2/30ef9c37f9840de34f7e8faed89f9707.jpg" width="175"/></td></tr></table>]]>ВладимирВоронцов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avladimirvoroncov.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ВладимирКвачков</title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/1b3/500_500_2/1b360033d13945053989b7b2469e8abb.jpg" width="175"/></td></tr></table>]]>ВладимирКвачков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avladimirkvachkov.xml]]></playlist_url>
@@ -545,9 +545,9 @@
 <description>ЖаннаТачмамедова</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/azhannatachmamedova.xml]]></playlist_url>
 </channel>
- <channel>
+channel>
 <title>ИванЖушман</title>
-<description>ИванЖушман</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/66b/500_500_2/66b9e422611849bd363e6507f760f782.jpg" width="175"/></td></tr></table>]]>ИванЖушман</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aivanzhushman.xml]]></playlist_url>
 </channel>
  <channel>
