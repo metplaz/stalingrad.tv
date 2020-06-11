@@ -130,7 +130,7 @@
 </channel>
 <channel>
 <title>РаботаНадОшибками</title>
-<description>РаботаНадОшибками/description>
+<description>РаботаНадОшибками</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/rrabotanadoshibkami.xml]]></playlist_url>
 </channel> 
 <channel>
@@ -175,7 +175,7 @@
 </channel>
 <channel>
 <title>ХроникиРаспада</title>
-<description>ХроникиРаспада/description>
+<description>ХроникиРаспада</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/rhronikiraspada.xml]]></playlist_url>
 </channel>
 <channel>
