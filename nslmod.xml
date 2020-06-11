@@ -13,8 +13,8 @@
 </all_channels>
 
 <channel>
-<title>ЗА СЕГОДНЯ</title>
-<description>ЗА СЕГОДНЯ</description>
+<title><![CDATA[ЗА СЕГОДНЯ]]></title>
+<description><![CDATA[ЗА СЕГОДНЯ]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/segodnya.xml]]></playlist_url>
 </channel>
 
@@ -332,10 +332,10 @@
 </channel>
  <channel>
 <title>ВарданБагдасарян</title>
-<description>ВарданБагдасарян</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/402/500_500_2/4028d34f7fbde0ffb4b1fab0d5848de9.jpg" width="175"/></td></tr></table>]]>ВарданБагдасарян</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avardanbagdasaryan.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ВасилийМельниченко</title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/05e/500_500_2/05e9efc9fed72863d57c4bd61fd39e2f.jpg" width="175"/></td></tr></table>]]>ВасилийМельниченко</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avasiliymelnichenko.xml]]></playlist_url>
@@ -420,12 +420,12 @@ channel>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/248/500_500_2/2481e7762fbe06e3ddae482d4ee54ca3.jpg" width="175"/></td></tr></table>]]>ВладиславЖуковский</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avladislavzhukovskiy.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ВячеславПоставин</title>
-<description>ВячеславПоставин</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/bfc/500_500_2/bfcc1f7789b6cd0455060c37ecc2d209.jpg" width="175"/></td></tr></table>]]>ВячеславПоставин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avyacheslavpostavin.xml]]></playlist_url>
 </channel>
- <channel>
+ channel>
 <title>ВячеславТетёкин</title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/a8f/500_500_2/a8f2c792b705c89982db9138165ce230.jpeg" width="175"/></td></tr></table>]]>ВячеславТетёкин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avyacheslavtetekin.xml]]></playlist_url>
@@ -467,10 +467,10 @@ channel>
 </channel>
  <channel>
 <title>ДмитрийЛюбомудров</title>
-<description>ДмитрийЛюбомудров</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/636/500_500_2/63603e86f072ab500736806f35cf0d15.jpg" width="175"/></td></tr></table>]]>ДмитрийЛюбомудров</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/admitriylyubomudrov.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ДмитрийПотапенко</title>
 <description>ДмитрийПотапенко</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/admitriypotapenko.xml]]></playlist_url>
@@ -480,9 +480,9 @@ channel>
 <description>ДмитрийПучков</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/admitriypuchkov.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>ДмитрийСараев</title>
-<description>ДмитрийСараев</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/bdc/500_500_2/bdcc36d7a1df01da70a968857b120e0d.jpg" width="175"/></td></tr></table>]]>ДмитрийСараев</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/admitriysaraev.xml]]></playlist_url>
 </channel>
  <channel>
@@ -610,9 +610,9 @@ channel>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/9ac/500_500_2/9ac50bcfe3d90ec89e7942474139a480.jpg" width="175"/></td></tr></table>]]>КириллБарабаш</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/akirillbarabash.xml]]></playlist_url>
 </channel>
-<channel>
+ <channel>
 <title>КириллУкраинцев</title>
-<description>КириллУкраинцев</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/90f/500_500_2/90f2c39b93a62546951b4f6dae9c18b4.jpg" width="175"/></td></tr></table>]]>КириллУкраинцев</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/akirillukraincev.xml]]></playlist_url>
 </channel>
  <channel>
@@ -782,7 +782,7 @@ channel>
 </channel>
 <channel>
 <title>РоманМанекин</title>
-<description>РоманМанекин</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/486/500_500_2/48629a87d34d32dd1d99e20e2f773825.jpg" width="175"/></td></tr></table>]]>РоманМанекин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aromanmanekin.xml]]></playlist_url>
 </channel>
  <channel>
