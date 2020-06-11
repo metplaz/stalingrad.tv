@@ -377,7 +377,7 @@
 </channel>
 <channel>
 <title>ВикторХарабуга</title>
-<description>ВикторХарабуга</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/1eb/500_500_2/1ebcbe432ec8fc05d6b62cae528ad7a7.jpg" width="175"/></td></tr></table>]]>ВикторХарабуга</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aviktorharabuga.xml]]></playlist_url>
 </channel>
  <channel>
@@ -536,9 +536,9 @@ channel>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aelenaprudnikova.xml]]></playlist_url>
 </channel>
 <channel>
-<title>ЖанЗапрута</title>
-<description>ЖанЗапрута</description>
-<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/azhanzapruta.xml]]></playlist_url>
+<title>ЖаннаТачмамедова</title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/74b/500_500_2/74b0ce473d13af43ac68a3969d98f734.jpg" width="175"/></td></tr></table>]]>ЖаннаТачмамедова</description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/azhannatachmamedova.xml]]></playlist_url>
 </channel>
  <channel>
 <title>ЖаннаТачмамедова</title>
