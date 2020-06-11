@@ -347,7 +347,7 @@
 </channel>
  <channel>
 <title>ВасилийПушкин</title>
-<description>ВасилийПушкин</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/a4f/500_500_2/a4f8c371f694e29c4bcdd5ccd47d2bd5.jpg" width="175"/></td></tr></table>]]>ВасилийПушкин</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avasiliypushkin.xml]]></playlist_url>
 </channel>
 <channel>
@@ -357,10 +357,10 @@
 </channel>
 <channel>
 <title>ВераГрачёва</title>
-<description>ВераГрачёва</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/iblock/68e/68e73c81e1618a2eddda62c57a49290f.jpg" width="175"/></td></tr></table>]]>ВераГрачёва</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/averagracheva.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ВераМысина</title>
 <description>ВераМысина</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/averamisina.xml]]></playlist_url>
@@ -450,9 +450,9 @@
 <description>ГригорийБобинов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/agrigoriybobinov.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ДедАрхмед</title>
-<description>ДедАрхмед</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/92d/500_500_2/92d0be2c7861dd2ba2a3155bd2b42439.jpg" width="175"/></td></tr></table>]]>ДедАрхмед</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/adedarhimed.xml]]></playlist_url>
 </channel>
 <channel>
@@ -595,9 +595,9 @@
 <description>ИгорьШнуренко</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aigorshnurenko.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ИльяГетман</title>
-<description>ИльяГетман</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/128/500_500_2/1280b6cd89eec11a0142afba3e9cc3a9.jpg" width="175"/></td></tr></table>]]>ИльяГетман</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/ailiyagetman.xml]]></playlist_url>
 </channel>
  <channel>
@@ -707,7 +707,7 @@
 </channel>
  <channel>
 <title>НиколайКурьянович</title>
-<description>НиколайКурьянович</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/751/500_500_2/75127691c3759ee5e97f9c1f4ae31183.jpg" width="175"/></td></tr></table>]]>НиколайКурьянович</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/anikolaykuryanovich.xml]]></playlist_url>
 </channel>
 <channel>
@@ -737,7 +737,7 @@
 </channel>
 <channel>
 <title>ОлегМихайлов</title>
-<description>ОлегМихайлов</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/f83/500_500_2/f838ca54d3d74cac9ed5e90c64c5682a.jpg" width="175"/></td></tr></table>]]>ОлегМихайлов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/aolegmihaylov.xml]]></playlist_url>
 </channel>
 <channel>
@@ -825,9 +825,9 @@
 <description>СтаниславРузанов</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/astanislavruzanov.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>СтасВасильев</title>
-<description>СтасВасильев</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/b69/500_500_2/b69befc7a85a9a27cf2f65f52d6e87a7.jpg" width="175"/></td></tr></table>]]>СтасВасильев</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/astasvasilyev.xml]]></playlist_url>
 </channel>
  <channel>
@@ -840,9 +840,9 @@
 <description>ТатьянаШишова</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/atatyanashishova.xml]]></playlist_url>
 </channel>
- <channel>
+<channel>
 <title>ТигранХачатрян</title>
-<description>ТигранХачатрян</description>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/d55/500_500_2/d5524ae1b74ac5e3ba92684e3f318ec9.jpg" width="175"/></td></tr></table>]]>ТигранХачатрян</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/atigranhachtryan.xml]]></playlist_url>
 </channel>
 <channel>
