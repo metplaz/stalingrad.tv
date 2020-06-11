@@ -13,17 +13,17 @@
 </all_channels>
 
 <channel>
-<title>Переход в ОБЩИЙ плейлист</title>
-<description>Переход в ОБЩИЙ плейлист</description>
+<title><![CDATA[Переход в ОБЩИЙ плейлист]]></title>
+<description><![CDATA[Переход в ОБЩИЙ плейлист]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
 <channel>
-<title>Переход к АВТОРЫ (А-Я)</title>
-<description>Переход к АВТОРЫ (А-Я)</description>
+<title><![CDATA[Переход к АВТОРЫ (А-Я)]]></title>
+<description><![CDATA[Переход к АВТОРЫ (А-Я)]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
 
-<channel>
+  <channel>
 <title><![CDATA[ Полная лекция № 1. Навыки выживания для гражданских лиц в условиях социальной нестабильности]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/9a5/9a56d5ee2c59ffc10529d58a63497455.jpg" width="175"/></td></tr></table>Полная лекция № 1 на тему: ""Навыки выживания для гражданских лиц в условиях социальной нестабильности"".]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9ff/9ff674e701e006e864c8a66b88d20a4e.mp4]]></stream_url>
