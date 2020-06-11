@@ -13,15 +13,16 @@
 </all_channels>
 
 <channel>
-<title>Переход в ОБЩИЙ плейлист</title>
-<description>Переход в ОБЩИЙ плейлист</description>
+<title><![CDATA[Переход в ОБЩИЙ плейлист]]></title>
+<description><![CDATA[Переход в ОБЩИЙ плейлист]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
 <channel>
-<title>Переход к АВТОРЫ (А-Я)</title>
-<description>Переход к АВТОРЫ (А-Я)</description>
+<title><![CDATA[Переход к АВТОРЫ (А-Я)]]></title>
+<description><![CDATA[Переход к АВТОРЫ (А-Я)]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
-</channel>  
+</channel>
+ 
 
 <channel>
 <title><![CDATA[ Амнистия кредитов]]></title>
