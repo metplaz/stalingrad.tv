@@ -283,7 +283,8 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/78c/78cf382d2c828dab9782303bc394ed85.mp4]]></stream_url>
 <category_id>24</category_id>
 </channel>
-
+ 
+<channel>
 <title><![CDATA[ ЛЕКЦИЯ №26. ТАКТИЧЕСКАЯ МЕДИЦИНА. ТАКТИЧЕСКИЙ МЕДИК НА ПОЛЕ БОЯ. ЧАСТЬ 1]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/377/37794d2f5da4e719ed2588c7d546dd31.jpg" width="175"/></td></tr></table>В чём задача медика на поле боя? Какие главные трудности при боях в лесу? Что можно использовать для радиосвязи? Часть 1.]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c3a/c3a04a6cb4f1f48a37366fce13b63c6e.mp4]]></stream_url>
@@ -362,7 +363,6 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c88/c8810474ed32d563564345b46d4e0195.mp4]]></stream_url>
 <category_id>10</category_id></channel>
 <channel>
-<channel>
 <title><![CDATA[ ЛЕКЦИЯ №19. ВЫСОТНАЯ ПОДГОТОВКА]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/eaa/eaa68889da3a195746ad4a2cbe212ed0.jpg" width="175"/></td></tr></table>Для чего нужна высотная подготовка? Какие бывают верёвки? Как надо обращаться с инвентарём? Какие существуют виды узлов? Что такое карабин? Какая правильная техника спуска по вертикальной поверхности? Как эвакуировать пострадавшего?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6eb/6eb811e14a890e7573dc78b70d3188d4.mp4]]></stream_url>
@@ -428,15 +428,5 @@
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/563/5630cefe0f70c3a5634f108980fcd741.mp4]]></stream_url>
 <category_id>24</category_id>
 </channel>
-
-
-
-<channel>
-<title><![CDATA[ У них осталось только насилие]]></title>
-<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/0ee/0eef0f7f2c5ddc9cc4fe866804ab77dd.jpg" width="175"/></td></tr></table>Как режим показал свою фашистскую суть через отмену традиционных выборов? Почему забыли эпидемию свиного гриппа 2009 года? Для чего власти важна легитимность? Как ломается психика человека? Проглотит ли общество нововведения власти?]]></description>
-<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d18/d183f660e0f00c041cfa2e7940078810.mp4]]></stream_url>
-<category_id>15</category_id>
-</channel>
-
 
 </items>
