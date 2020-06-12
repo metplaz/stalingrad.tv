@@ -22,7 +22,13 @@
 <description><![CDATA[Переход к АВТОРЫ (А-Я)]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
-  
+
+<channel>
+<title><![CDATA[ #22ИЮНЯПРОТИВФАШИЗМА . ОСТАНОВИМ ГЕНОЦИД]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://i.ytimg.com/vi/vDw6ejmXfHw/hqdefault.jpg" width="175"/></td></tr></table>Что будет 22 июня? Как власти ЛНР борются с протестующими шахтёрами в Антраците? Почему маски и перчатки не имеют смысла в защите от вируса? Что власть готовит населению на ближайшие месяцы? Почему важно выйти на протест 22 июня?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9a9/9a9922c7d94b5dd703815bab8e54432b.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel> 
 <channel>
 <title><![CDATA[ НАЧИНАЕМ МЕНЯТЬ СИСТЕМУ! 22 ИЮНЯ ВСЕ НА УЛИЦУ!]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/825/825b444238573436aea2710878fd509c.jpg" width="175"/></td></tr></table>Где и во сколько будет митинг 22 июня? Почему так называемую "самоизоляцию" отменили раньше срока? Сколько людей готово выйти на митинги? Может ли мэрия отказать? Какая программа у сторонников протеста? Идти или нет на голосование по поправкам в Конституцию?]]></description>
