@@ -17,7 +17,13 @@
 <description><![CDATA[Переход в ОБЩИЙ плейлист]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
-  
+
+<channel>
+<title><![CDATA[ ОТ СЛОВ К ДЕЛУ. САМООРГАНИЗАЦИЯ. (ЧАСТЬ V)]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/37b/37b652ae33cc3d9f56ad7a14b9031eed.jpg" width="175"/></td></tr></table>Как правильно пользоваться мессенджером Whats Up? В чём плюсы и минусы этого приложения? Что делать если Вас включили в группу в мессенджере?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/bda/bdaa9aedc0f8a6aee9cccc480f243f05.mp4]]></stream_url>
+<category_id>117</category_id>
+</channel>
 <channel>
 <title><![CDATA[ ОНИ ТОЖЕ С НАМИ? Платошкин, Михалков, Удальцов, Джигурда, Катя Гордон]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/cbb/cbbf6adaca31e0f506156572011ba660.jpg" width="175"/></td></tr></table>Почему надо выходить на митинг 22 июня? В каком сейчас состоянии Россия? Чем руководствовался Сергей Удальцов назначая митинг 20 июня, а не 22 июня? Почему сторонники Платошкина обращались в намордниках? Чьи интересы преследует Катя Гордон? Зачем Никита Михалков выступает против прививок? Что делать, если начальство обещает уволить за посещение митинга?]]></description>
