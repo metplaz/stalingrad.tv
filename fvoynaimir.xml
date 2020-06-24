@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name><![CDATA[ВОЙНА И МИР(HD)]]></playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title><![CDATA[Переход в ОБЩИЙ плейлист]]></title>
+<description><![CDATA[Переход в ОБЩИЙ плейлист]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ ВОЙНА И МИР(HD). Фильм 1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ВОЙНА И МИР(HD). Фильм 1  <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/cdf/300_168_2/cdf1a5ba9550dfb18d0a92055e57e9c4.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1965</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Сергей Бондарчук</i></p><p><u><b>Сценарий</b></u>:<i> Сергей Бондарчук, Василий Соловьев, Лев Толстой</i></p><p><u><b>Директор фильма</b></u>:<i> Николай Иванов</i></p><p><u><b>В главных ролях</b></u>:<i> Сергей Бондарчук, Людмила Савельева, Вячеслав Тихонов, Олег Табаков, Борис Захава, Анатолий Кторов, Анастасия Вертинская, Антонина Шуранова, Виктор Станицын, Ирина Скобцева</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Эпическое кинополотно известнейшего советского кинорежиссера Сергея Бондарчука по роману Льва Толстого «Война и мир» с участием всех звезд советского кинематографа.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=V-SAh4jdssA]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ВОЙНА И МИР(HD). Фильм 2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ВОЙНА И МИР(HD). Фильм 2 <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/cdf/300_168_2/cdf1a5ba9550dfb18d0a92055e57e9c4.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1965</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Сергей Бондарчук</i></p><p><u><b>Сценарий</b></u>:<i> Сергей Бондарчук, Василий Соловьев, Лев Толстой</i></p><p><u><b>Директор фильма</b></u>:<i> Николай Иванов</i></p><p><u><b>В главных ролях</b></u>:<i> Сергей Бондарчук, Людмила Савельева, Вячеслав Тихонов, Олег Табаков, Борис Захава, Анатолий Кторов, Анастасия Вертинская, Антонина Шуранова, Виктор Станицын, Ирина Скобцева</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Эпическое кинополотно известнейшего советского кинорежиссера Сергея Бондарчука по роману Льва Толстого «Война и мир» с участием всех звезд советского кинематографа.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=Tqqs7DpTZKY]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ВОЙНА И МИР(HD). Фильм 3]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ВОЙНА И МИР(HD). Фильм 3 <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/cdf/300_168_2/cdf1a5ba9550dfb18d0a92055e57e9c4.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1965</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Сергей Бондарчук</i></p><p><u><b>Сценарий</b></u>:<i> Сергей Бондарчук, Василий Соловьев, Лев Толстой</i></p><p><u><b>Директор фильма</b></u>:<i> Николай Иванов</i></p><p><u><b>В главных ролях</b></u>:<i> Сергей Бондарчук, Людмила Савельева, Вячеслав Тихонов, Олег Табаков, Борис Захава, Анатолий Кторов, Анастасия Вертинская, Антонина Шуранова, Виктор Станицын, Ирина Скобцева</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Эпическое кинополотно известнейшего советского кинорежиссера Сергея Бондарчука по роману Льва Толстого «Война и мир» с участием всех звезд советского кинематографа.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=rxC9DH-3xNk]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ВОЙНА И МИР(HD). Фильм 4]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ВОЙНА И МИР(HD). Фильм 4 <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/cdf/300_168_2/cdf1a5ba9550dfb18d0a92055e57e9c4.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1965</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Сергей Бондарчук</i></p><p><u><b>Сценарий</b></u>:<i> Сергей Бондарчук, Василий Соловьев, Лев Толстой</i></p><p><u><b>Директор фильма</b></u>:<i> Николай Иванов</i></p><p><u><b>В главных ролях</b></u>:<i> Сергей Бондарчук, Людмила Савельева, Вячеслав Тихонов, Олег Табаков, Борис Захава, Анатолий Кторов, Анастасия Вертинская, Антонина Шуранова, Виктор Станицын, Ирина Скобцева</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Эпическое кинополотно известнейшего советского кинорежиссера Сергея Бондарчука по роману Льва Толстого «Война и мир» с участием всех звезд советского кинематографа.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=OshBe4rnd7k]]></stream_url> 
+<category_id></category_id>
+</channel>
+
+</items>
