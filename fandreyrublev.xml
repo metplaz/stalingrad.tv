@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name><![CDATA[АНДРЕЙ РУБЛЕВ]]></playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title><![CDATA[Переход в ОБЩИЙ плейлист]]></title>
+<description><![CDATA[Переход в ОБЩИЙ плейлист]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+
+<channel>
+<title><![CDATA[ АНДРЕЙ РУБЛЕВ. 1 серия]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[АНДРЕЙ РУБЛЕВ. 1 серия <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/673/300_168_2/673be5e1955428114d07fbe1dea4e865.jpeg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1966</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Андрей Тарковский</i></p><p><u><b>Сценарий</b></u>:<i> Андрей Кончаловский, Андрей Тарковский</i></p><p><u><b>Директор фильма</b></u>:<i> Тамара Огородникова</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Русь начала XV века. Страну раздирают княжеские междоусобицы. Набеги татар, голод и мор преследуют народ… В эту трагическую эпоху появляется на Руси великий живописец, жизни и творчеству которого посвящен фильм. Сведения о нем скудны и отрывочны. Лишь немногие творения гениального мастера дошли до нас. Авторы фильма стремились воссоздать духовный мир Андрея Рублева.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=x6kqlveBhVY]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ АНДРЕЙ РУБЛЕВ. 2 серия]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[АНДРЕЙ РУБЛЕВ. 2 серия <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/673/300_168_2/673be5e1955428114d07fbe1dea4e865.jpeg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1966</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Андрей Тарковский</i></p><p><u><b>Сценарий</b></u>:<i> Андрей Кончаловский, Андрей Тарковский</i></p><p><u><b>Директор фильма</b></u>:<i> Тамара Огородникова</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Русь начала XV века. Страну раздирают княжеские междоусобицы. Набеги татар, голод и мор преследуют народ… В эту трагическую эпоху появляется на Руси великий живописец, жизни и творчеству которого посвящен фильм. Сведения о нем скудны и отрывочны. Лишь немногие творения гениального мастера дошли до нас. Авторы фильма стремились воссоздать духовный мир Андрея Рублева.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=4JpnrdEOAcM]]></stream_url>
+<category_id></category_id>
+</channel>
+
+</items>
