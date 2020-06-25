@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name><![CDATA[ПАДЕНИЕ БЕРЛИНА]]></playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title><![CDATA[Переход в ОБЩИЙ плейлист]]></title>
+<description><![CDATA[Переход в ОБЩИЙ плейлист]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ ПАДЕНИЕ БЕРЛИНА. Серия 1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ПАДЕНИЕ БЕРЛИНА. Серия 1 <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/495/300_168_2/495c49fb85804ee9aa56cd01ba17d1aa.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1949</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Продолжительность</b></u>:<i> 1:11:10</i></p><p><u><b>Режиссер</b></u>:<i> Михаил Чиаурели</i></p><p><u><b>Сценарий</b></u>:<i> Михаил Чиаурели, Петр Павленко</i></p><p><u><b>Директор фильма</b></u>:<i> Виктор Циргиладзе</i></p><p><u><b>Оператор</b></u>:<i> Леонид Косматов</i></p><p><u><b>В главных ролях</b></u>:<i>Михаил Геловани, Борис Андреев, Марина Ковалева, Владимир Савельев, А. Урасалиев, Николай Боголюбов, Ян Верих, Софья Гиацинтова, Карел Родэн, Виктор Станицын</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Легендарная киноэпопея о событиях Великой Отечественной войны, вышедшая на экраны во времена расцвета культа личности Сталина. Сценарий, состав актеров и весь ход съемок фильма лично контролировались И. В. Сталиным.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=t-hZam8dXHU]]></stream_url>
+<category_id></category_id>
+</channel>
+
+<channel>
+<title><![CDATA[ ПАДЕНИЕ БЕРЛИНА. Серия 2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ПАДЕНИЕ БЕРЛИНА. Серия 2 <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/495/300_168_2/495c49fb85804ee9aa56cd01ba17d1aa.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1949</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Продолжительность</b></u>:<i> 1:14:38 </i></p><p><u><b>Режиссер</b></u>:<i> Михаил Чиаурели</i></p><p><u><b>Сценарий</b></u>:<i> Михаил Чиаурели, Петр Павленко</i></p><p><u><b>Директор фильма</b></u>:<i> Виктор Циргиладзе</i></p><p><u><b>Оператор</b></u>:<i> Леонид Косматов</i></p><p><u><b>В главных ролях</b></u>:<i> Михаил Геловани, Борис Андреев, Марина Ковалева, Владимир Савельев, А. Урасалиев, Николай Боголюбов, Ян Верих, Софья Гиацинтова, Карел Родэн, Виктор Станицын</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Легендарная киноэпопея о событиях Великой Отечественной войны, вышедшая на экраны во времена расцвета культа личности Сталина. Сценарий, состав актеров и весь ход съемок фильма лично контролировались И. В. Сталиным.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=1AHUQ1QRVn4]]></stream_url>
+<category_id></category_id>
+</channel>
+
+</items>
