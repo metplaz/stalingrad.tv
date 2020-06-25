@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <items>
 
-<playlist_name>Мнение</playlist_name>
+<playlist_name>Митинги</playlist_name>
 
 <all_channels>
 <all_logo></all_logo>
@@ -23,6 +23,13 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
 
+ 
+<channel>
+<title><![CDATA[ МЫ МОЖЕМ ПОБЕЖДАТЬ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/066/06612c080d672cabfe9071733b259909.jpg" width="175"/></td></tr></table>Как проходил митинг 22 июня? Сколько людей пришло? По какой причине полиция задерживала? Как себя вели задержанные внутри Пазиков? Какой политический режим в постсоветских республиках? Какие требования у митингующих?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/63c/63c15326c1efd9c70103591ec5eaa6ab.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel>
  <channel>
 <title><![CDATA[ ВМЕСТЕ ПОБЕДИМ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/2cc/2cc2059fa843125b250e6180b45d82d3.jpg" width="175"/></td></tr></table>В чём суть предстоящего митинга 22 июня? Где он будет проходить? Как власти купируют протестные настроения? Почему важно выйти на митинг? Что скажут власти населению после голосования по поправкам в Конституцию?]]></description>
