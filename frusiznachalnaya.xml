@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name><![CDATA[РУСЬ ИЗНАЧАЛЬНАЯ]]></playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title><![CDATA[Переход в ОБЩИЙ плейлист]]></title>
+<description><![CDATA[Переход в ОБЩИЙ плейлист]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ РУСЬ ИЗНАЧАЛЬНАЯ. 1 серия]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[РУСЬ ИЗНАЧАЛЬНАЯ. 1 серия <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/1a8/300_168_2/1a83d5e8f8dbd401e69ae13d9834a718.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1985</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Геннадий Васильев</i></p><p><u><b>Сценарий</b></u>:<i> Геннадий Васильев, Михаил Ворфоломеев, Валентин Иванов</i></p><p><u><b>Директор фильма</b></u>:<i> Игорь Зуев</i></p><p><u><b>В главных ролях</b></u>:<i> Людмила Чурсина, Борис Невзоров, Иннокентий Смоктуновский, Маргарита Терехова, Елена Кондулайнен, Арнис Лицитис, Игорь Дмитриев, Владимир Талашко. Анвар Кенжаев, Владимир Антоник</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Действие картины происходит в Древней Руси — в те времена, когда славянам, объединившимся в войско под предводительством Ратибора, сына Всеслава, удалось одержать первые победы над племенами кочевников.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=nj42nv-8rIg]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ РУСЬ ИЗНАЧАЛЬНАЯ. 2 серия]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[РУСЬ ИЗНАЧАЛЬНАЯ. 2 серия <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/1a8/300_168_2/1a83d5e8f8dbd401e69ae13d9834a718.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1985</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Геннадий Васильев</i></p><p><u><b>Сценарий</b></u>:<i> Геннадий Васильев, Михаил Ворфоломеев, Валентин Иванов</i></p><p><u><b>Директор фильма</b></u>:<i> Игорь Зуев</i></p><p><u><b>В главных ролях</b></u>:<i> Людмила Чурсина, Борис Невзоров, Иннокентий Смоктуновский, Маргарита Терехова, Елена Кондулайнен, Арнис Лицитис, Игорь Дмитриев, Владимир Талашко. Анвар Кенжаев, Владимир Антоник</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Действие картины происходит в Древней Руси — в те времена, когда славянам, объединившимся в войско под предводительством Ратибора, сына Всеслава, удалось одержать первые победы над племенами кочевников.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=Qzb1p7sIGi8]]></stream_url>
+<category_id></category_id>
+</channel>
+
+
+</items>
