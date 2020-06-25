@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name><![CDATA[ОНИ СРАЖАЛИСЬ ЗА РОДИНУ]]></playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title><![CDATA[Переход в ОБЩИЙ плейлист]]></title>
+<description><![CDATA[Переход в ОБЩИЙ плейлист]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ ОНИ СРАЖАЛИСЬ ЗА РОДИНУ(HD). Серия 1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ОНИ СРАЖАЛИСЬ ЗА РОДИНУ(HD). Серия 1 <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/4b2/300_168_2/4b2f2b538f86b4ef5e07d6ce426a9038.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1975</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Сергей Бондарчук</i></p><p><u><b>Сценарий</b></u>:<i> Сергей Бондарчук, Михаил Шолохов</i></p><p><u><b>Директор фильма</b></u>:<i> Игорь Лазаренко</i></p><p><u><b>В главных ролях</b></u>:<i> Василий Шукшин, Вячеслав Тихонов, Сергей Бондарчук, Георгий Бурков, Юрий Никулин, Иван Лапиков, Николай Губенко, Андрей Ростоцкий, Николай Волков, Николай Шутько</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Июль 1942 года. На подступах к Сталинграду обескровленные, измотанные советские войска ведут тяжелые оборонительные бои, неся огромные потери… Фильм рассказывает о подвиге рядовых солдат, любви к родной земле, об истинной цене победы…</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=Dsti2wJSRX8]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ОНИ СРАЖАЛИСЬ ЗА РОДИНУ(HD). Серия 2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ОНИ СРАЖАЛИСЬ ЗА РОДИНУ(HD). Серия 2 <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/4b2/300_168_2/4b2f2b538f86b4ef5e07d6ce426a9038.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1975</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Сергей Бондарчук</i></p><p><u><b>Сценарий</b></u>:<i> Сергей Бондарчук, Михаил Шолохов</i></p><p><u><b>Директор фильма</b></u>:<i> Игорь Лазаренко</i></p><p><u><b>В главных ролях</b></u>:<i> Василий Шукшин, Вячеслав Тихонов, Сергей Бондарчук, Георгий Бурков, Юрий Никулин, Иван Лапиков, Николай Губенко, Андрей Ростоцкий, Николай Волков, Николай Шутько</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Июль 1942 года. На подступах к Сталинграду обескровленные, измотанные советские войска ведут тяжелые оборонительные бои, неся огромные потери… Фильм рассказывает о подвиге рядовых солдат, любви к родной земле, об истинной цене победы…</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=J1Oy2EAHJbo]]></stream_url>
+<category_id></category_id>
+</channel>
+
+
+</items>
