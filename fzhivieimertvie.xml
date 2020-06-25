@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name><![CDATA[ЖИВЫЕ И МЕРТВЫЕ]]></playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title><![CDATA[Переход в ОБЩИЙ плейлист]]></title>
+<description><![CDATA[Переход в ОБЩИЙ плейлист]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+
+<channel>
+<title><![CDATA[ ЖИВЫЕ И МЕРТВЫЕ. 1 серия]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ЖИВЫЕ И МЕРТВЫЕ. 1 серия <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/ed9/300_168_2/ed9c8855aa5f7fb19ba467e5f1a46e0f.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1963</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Александр Столпер</i></p><p><u><b>Сценарий</b></u>:<i> Александр Столпер, Константин Симонов</i></p><p><u><b>Директор фильма</b></u>:<i> Лазарь Милькис</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Журналиста Ивана Синцова известие о вероломном нападении нацистской Германии застает во время южного отпуска. Как фронтовой корреспондент он становится свидетелем тяжелых событий первых месяцев войны — многочисленных отступлений 1941 года.</i></p>]]></description>
+<stream_url><![CDATA[https://vs33.vcdn.biz/ffd69e51c436e6a2da8f0c298f8a2b5f_megogo/vod/hls/b/450_900_1350_2000/o/24924961/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid165839206-b2000000.m3u8]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЖИВЫЕ И МЕРТВЫЕ. 2 серия]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ЖИВЫЕ И МЕРТВЫЕ. 2 серия <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/ed9/300_168_2/ed9c8855aa5f7fb19ba467e5f1a46e0f.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1963</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Александр Столпер</i></p><p><u><b>Сценарий</b></u>:<i> Александр Столпер, Константин Симонов</i></p><p><u><b>Директор фильма</b></u>:<i> Лазарь Милькис</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Журналиста Ивана Синцова известие о вероломном нападении нацистской Германии застает во время южного отпуска. Как фронтовой корреспондент он становится свидетелем тяжелых событий первых месяцев войны — многочисленных отступлений 1941 года.</i></p>]]></description>
+<stream_url><![CDATA[https://vs33.vcdn.biz/b1947e565dadbd32c9fcfc2be63e0d1a_megogo/vod/hls/b/450_900_1350_2000/o/24924971/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1541852823-b2000000.m3u8]]></stream_url>
+<category_id></category_id>
+</channel>
+
+</items>
