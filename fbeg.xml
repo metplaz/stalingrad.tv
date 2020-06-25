@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name><![CDATA[БЕГ]]></playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title><![CDATA[Переход в ОБЩИЙ плейлист]]></title>
+<description><![CDATA[Переход в ОБЩИЙ плейлист]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ БЕГ. 1 серия]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[БЕГ. 1 серия <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/6ba/300_168_2/6ba04e4c2054d13a31232f8486e2a4cb.jpeg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1970</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Александр Алов, Владимир Наумов</i></p><p><u><b>Сценарий</b></u>:<i> Александр Алов, Владимир Наумов, Михаил Булгаков</i></p><p><u><b>Директор фильма</b></u>:<i> М. Амираджиби</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Двадцатый год. Гражданская война близится к завершению. После вторжения Красной Армии в Крым начинается исход всех, кто искал спасения от «окаянных дней» революции. В этом страшном течении оказываются рядом самые разные люди — беззащитная Серафима Корзухина и полковая дама Люська, приват-доцент Голубков и генерал Хлудов.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=9UGcyweYo2w]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ БЕГ. 2 серия]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[БЕГ. 2 серия <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/6ba/300_168_2/6ba04e4c2054d13a31232f8486e2a4cb.jpeg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1970</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Александр Алов, Владимир Наумов</i></p><p><u><b>Сценарий</b></u>:<i> Александр Алов, Владимир Наумов, Михаил Булгаков</i></p><p><u><b>Директор фильма</b></u>:<i> М. Амираджиби</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Двадцатый год. Гражданская война близится к завершению. После вторжения Красной Армии в Крым начинается исход всех, кто искал спасения от «окаянных дней» революции. В этом страшном течении оказываются рядом самые разные люди — беззащитная Серафима Корзухина и полковая дама Люська, приват-доцент Голубков и генерал Хлудов.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=MbruWic6JzA]]></stream_url>
+<category_id></category_id>
+</channel>
+</items>
