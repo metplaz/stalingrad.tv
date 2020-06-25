@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name><![CDATA[ДОНБАСС. НА ЛИНИИ ОГНЯ]]></playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title><![CDATA[Переход в ОБЩИЙ плейлист]]></title>
+<description><![CDATA[Переход в ОБЩИЙ плейлист]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ ДОНБАСС. НА ЛИНИИ ОГНЯ/Фильм 1: «Прифронтовой город»]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ДОНБАСС. НА ЛИНИИ ОГНЯ/ Фильм 1: «Прифронтовой город» <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/795/300_168_2/7954063e80c209e5bbdb2b89be41b510.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=fTitFaP8-eg]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ДОНБАСС. НА ЛИНИИ ОГНЯ, Фильм 2: «Памяти воина «Волка» ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ДОНБАСС. НА ЛИНИИ ОГНЯ, Фильм 2: «Памяти воина «Волка» ] <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/795/300_168_2/7954063e80c209e5bbdb2b89be41b510.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=YiOGuLpWUrM]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ДОНБАСС. НА ЛИНИИ ОГНЯ/Фильм 3: «С любовью Донецк» ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ДОНБАСС. НА ЛИНИИ ОГНЯ/Фильм 3: «С любовью Донецк»  <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/795/300_168_2/7954063e80c209e5bbdb2b89be41b510.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=DnuQ63BRaBg]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ДОНБАСС. НА ЛИНИИ ОГНЯ. Фильм 4: «Терминал» ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ДОНБАСС. НА ЛИНИИ ОГНЯ. Фильм 4: «Терминал» <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/795/300_168_2/7954063e80c209e5bbdb2b89be41b510.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=c_UJy3JJq8o]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ДОНБАСС. НА ЛИНИИ ОГНЯ. Фильм 5: «Сепаратисты» ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ДОНБАСС. НА ЛИНИИ ОГНЯ Фильм. Фильм 5: «Сепаратисты»  1: «Прифронтовой город» <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/795/300_168_2/7954063e80c209e5bbdb2b89be41b510.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=mlmZK9xHAik]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ДОНБАСС. НА ЛИНИИ ОГНЯ. Фильм 6: «Новороссия. Новый 2015»]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ДОНБАСС. НА ЛИНИИ ОГНЯ.Фильм 6: «Новороссия. Новый 2015» <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/795/300_168_2/7954063e80c209e5bbdb2b89be41b510.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=lxXBBtHOP7w]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ДОНБАСС. НА ЛИНИИ ОГНЯ. Фильм 7: «На Войне, как на Войне»]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ДОНБАСС. НА ЛИНИИ ОГНЯ. Фильм 7: «На Войне, как на Войне» <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/795/300_168_2/7954063e80c209e5bbdb2b89be41b510.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=5oP7_B3kjiU]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ДОНБАСС. НА ЛИНИИ ОГНЯ. Фильм 8: «Дорогами войны»]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ДОНБАСС. НА ЛИНИИ ОГНЯ. Фильм 8: «Дорогами войны» <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/795/300_168_2/7954063e80c209e5bbdb2b89be41b510.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=vej1aKITNbg]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ДОНБАСС. НА ЛИНИИ ОГНЯ. Фильм 9: «Привет из Горловки»]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ДОНБАСС. НА ЛИНИИ ОГНЯ. Фильм 9: «Привет из Горловки» <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/795/300_168_2/7954063e80c209e5bbdb2b89be41b510.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=WSa2PrlBH1Q]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ДОНБАСС. НА ЛИНИИ ОГНЯ. Фильм 10: «Непокоренный»]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ДОНБАСС. НА ЛИНИИ ОГНЯ. Фильм 10: «Непокоренный» <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/795/300_168_2/7954063e80c209e5bbdb2b89be41b510.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=Uf9ARywMEro]]></stream_url>
+<category_id></category_id>
+</channel>
+
+
+</items>
