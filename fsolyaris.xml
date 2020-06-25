@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name><![CDATA[СОЛЯРИС]]></playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title><![CDATA[Переход в ОБЩИЙ плейлист]]></title>
+<description><![CDATA[Переход в ОБЩИЙ плейлист]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ СОЛЯРИС. Серия 1]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[СОЛЯРИС. Серия 1 <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/60e/300_168_2/60e8934c677a2c17628b68ef281b2afd.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1972</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Жанр</b></u>:<i> Фантастика</i></p><p><u><b>Режиссер</b></u>:<i> Андрей Тарковский</i></p><p><u><b>Сценарий</b></u>:<i> Фридрих Горенштейн, Андрей Тарковский, Станислав Лем</i></p><p><u><b>Директор фильма</b></u>:<i> Вячеслав Тарасов</i></p><p align="justify"><u><b>О фильме</b></u>:<i>На космическую станцию, сотрудники которой давно и тщетно пытаются сладить с загадкой планеты Солярис, полностью покрытой Океаном, прибывает новый учёный, психолог Крис Кельвин. Его задача — разобраться в странных сообщениях, поступающих со станции и закрыть её вместе со всей бесплодной «соляристикой». Поначалу ему кажется, что немногие уцелевшие на станции ученые сошли с ума, а потом он и сам становится жертвой жуткого наваждения: ему является его жена Хари, некоторое время назад покончившая с собой.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=6-4KydP92ss]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ СОЛЯРИС. Серия 2]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[СОЛЯРИС. Серия 2 <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/60e/300_168_2/60e8934c677a2c17628b68ef281b2afd.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1972</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Жанр</b></u>:<i> Фантастика</i></p><p><u><b>Режиссер</b></u>:<i> Андрей Тарковский</i></p><p><u><b>Сценарий</b></u>:<i> Фридрих Горенштейн, Андрей Тарковский, Станислав Лем</i></p><p><u><b>Директор фильма</b></u>:<i> Вячеслав Тарасов</i></p><p align="justify"><u><b>О фильме</b></u>:<i>На космическую станцию, сотрудники которой давно и тщетно пытаются сладить с загадкой планеты Солярис, полностью покрытой Океаном, прибывает новый учёный, психолог Крис Кельвин. Его задача — разобраться в странных сообщениях, поступающих со станции и закрыть её вместе со всей бесплодной «соляристикой». Поначалу ему кажется, что немногие уцелевшие на станции ученые сошли с ума, а потом он и сам становится жертвой жуткого наваждения: ему является его жена Хари, некоторое время назад покончившая с собой.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=xXa6XpaxBS0]]></stream_url>
+<category_id></category_id>
+</channel>
+
+</items>
