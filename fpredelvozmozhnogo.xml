@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name><![CDATA[ПРЕДЕЛ ВОЗМОЖНОГО]]></playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title><![CDATA[Переход в ОБЩИЙ плейлист]]></title>
+<description><![CDATA[Переход в ОБЩИЙ плейлист]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ ПРЕДЕЛ ВОЗМОЖНОГО, 1 серия из 5-ти 12+]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ПРЕДЕЛ ВОЗМОЖНОГО, 1 серия из 5-ти 12+ <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/fbf/300_168_2/fbf82dfbd7b9ba08cc1a9df1462ee560.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1984</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Павел Коган, Петр Мостовой</i></p><p><u><b>Сценарий</b></u>:<i> Иосиф Герасимов, Александр Горохов</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Герой фильма — Игнат Матвеевич Ремез — прошел путь от молодого специалиста в годы Великой Отечественной войны до руководителя крупного промышленного предприятия в мирное время.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=TKlKsCxWaMc]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ПРЕДЕЛ ВОЗМОЖНОГО, 2 серия из 5-ти 12+]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ПРЕДЕЛ ВОЗМОЖНОГО, 2 серия из 5-ти 12+ <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/fbf/300_168_2/fbf82dfbd7b9ba08cc1a9df1462ee560.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1984</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Павел Коган, Петр Мостовой</i></p><p><u><b>Сценарий</b></u>:<i> Иосиф Герасимов, Александр Горохов</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Герой фильма — Игнат Матвеевич Ремез — прошел путь от молодого специалиста в годы Великой Отечественной войны до руководителя крупного промышленного предприятия в мирное время.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=hGyKmO84s30]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ПРЕДЕЛ ВОЗМОЖНОГО. 3 серия из 5-ти 12+]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ПРЕДЕЛ ВОЗМОЖНОГО 3 серия из 5-ти 12+ <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/fbf/300_168_2/fbf82dfbd7b9ba08cc1a9df1462ee560.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1984</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Павел Коган, Петр Мостовой</i></p><p><u><b>Сценарий</b></u>:<i> Иосиф Герасимов, Александр Горохов</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Герой фильма — Игнат Матвеевич Ремез — прошел путь от молодого специалиста в годы Великой Отечественной войны до руководителя крупного промышленного предприятия в мирное время.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=4EREebmxSN8]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ПРЕДЕЛ ВОЗМОЖНОГО. 4 серия из 5-ти 12+]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ПРЕДЕЛ ВОЗМОЖНОГО. 4 серия из 5-ти 12+ <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/fbf/300_168_2/fbf82dfbd7b9ba08cc1a9df1462ee560.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1984</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Павел Коган, Петр Мостовой</i></p><p><u><b>Сценарий</b></u>:<i> Иосиф Герасимов, Александр Горохов</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Герой фильма — Игнат Матвеевич Ремез — прошел путь от молодого специалиста в годы Великой Отечественной войны до руководителя крупного промышленного предприятия в мирное время.</i></p>]]></description>
+ <stream_url><![CDATA[https://www.youtube.com/watch?v=d18oTqBhDhc]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ ПРЕДЕЛ ВОЗМОЖНОГО. 5 серия из 5-ти 12+]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[ПРЕДЕЛ ВОЗМОЖНОГО <table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/fbf/300_168_2/fbf82dfbd7b9ba08cc1a9df1462ee560.jpg" width="175"/></td></tr></table><p><u><b>Год</b></u>:<i> 1984</i></p><p><u><b>Страна</b></u>:<i> СССР</i></p><p><u><b>Режиссер</b></u>:<i> Павел Коган, Петр Мостовой</i></p><p><u><b>Сценарий</b></u>:<i> Иосиф Герасимов, Александр Горохов</i></p><p align="justify"><u><b>О фильме</b></u>:<i>Герой фильма — Игнат Матвеевич Ремез — прошел путь от молодого специалиста в годы Великой Отечественной войны до руководителя крупного промышленного предприятия в мирное время.</i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=xQEkobyaOyg]]></stream_url>
+<category_id></category_id>
+</channel>
+
+</items>
