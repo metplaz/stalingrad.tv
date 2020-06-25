@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+
+<playlist_name><![CDATA[МОДЕЛЬ СТАЛИНА]]></playlist_name>
+
+<all_channels>
+<all_logo></all_logo>
+<all_size></all_size>
+<all_audiotrack_num></all_audiotrack_num>
+<all_timeshift></all_timeshift>
+<all_buffer></all_buffer>
+<all_ibuffer></all_ibuffer>
+</all_channels>
+
+<channel>
+<title><![CDATA[Переход в ОБЩИЙ плейлист]]></title>
+<description><![CDATA[Переход в ОБЩИЙ плейлист]]></description>
+<playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
+</channel>
+
+<channel>
+<title><![CDATA[ МОДЕЛЬ СТАЛИНА. «Индустриализация» Часть 1. ]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[МОДЕЛЬ СТАЛИНА. «Индустриализация» Часть 1.<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/d5b/300_168_2/d5b575260fe27261be32d8c4e644105a.jpg" width="175"/></td></tr></table><p><u><b>Режиссер</b></u>:<i> Дмитрий Ушаков</i></p><p><u><b>Автор</b></u>:<i> Антон Гришин</i></p><p><u><b>Ведущий</b></u>:<i> Николай Быковских</i></p><p><u><b>Оператор</b></u>:<i> Олег Злобин,Федор Луночкин, Владимир Коротун</i></p><p><u><b>Оператор вертолетной съемки</b></u>:<i> Денис Сницерёв</i></p><p><u><b>Монтаж</b></u>:<i> Дмитрий Потапов</i></p><p><u><b>Композитор</b></u>:<i> Марат Файзуллин (Taturas)</i></p><p><u><b>Художник</b></u>:<i> Роман Лосев</i></p><p><u><b>Продюсер</b></u>:<i> Вадим Миллер</i></p><p align="justify"><u><b>О фильме</b></u>: <i></i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=2ftjwwSRZrM]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ МОДЕЛЬ СТАЛИНА. «Слагаемые успеха» Часть 2.]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[МОДЕЛЬ СТАЛИНАю «Слагаемые успеха» Часть 2.<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/d5b/300_168_2/d5b575260fe27261be32d8c4e644105a.jpg" width="175"/></td></tr></table><p><u><b>Режиссер</b></u>:<i> Дмитрий Ушаков</i></p><p><u><b>Автор</b></u>:<i> Антон Гришин</i></p><p><u><b>Ведущий</b></u>:<i> Николай Быковских</i></p><p><u><b>Оператор</b></u>:<i> Олег Злобин,Федор Луночкин, Владимир Коротун</i></p><p><u><b>Оператор вертолетной съемки</b></u>:<i> Денис Сницерёв</i></p><p><u><b>Монтаж</b></u>:<i> Дмитрий Потапов</i></p><p><u><b>Композитор</b></u>:<i> Марат Файзуллин (Taturas)</i></p><p><u><b>Художник</b></u>:<i> Роман Лосев</i></p><p><u><b>Продюсер</b></u>:<i> Вадим Миллер</i></p><p align="justify"><u><b>О фильме</b></u>: <i></i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=cHuqDtY4OoQ]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ МОДЕЛЬ СТАЛИНА. «Испытание войной» Часть 3.]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[МОДЕЛЬ СТАЛИНА. «Испытание войной» Часть 3.<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/d5b/300_168_2/d5b575260fe27261be32d8c4e644105a.jpg" width="175"/></td></tr></table><p><u><b>Режиссер</b></u>:<i> Дмитрий Ушаков</i></p><p><u><b>Автор</b></u>:<i> Антон Гришин</i></p><p><u><b>Ведущий</b></u>:<i> Николай Быковских</i></p><p><u><b>Оператор</b></u>:<i> Олег Злобин,Федор Луночкин, Владимир Коротун</i></p><p><u><b>Оператор вертолетной съемки</b></u>:<i> Денис Сницерёв</i></p><p><u><b>Монтаж</b></u>:<i> Дмитрий Потапов</i></p><p><u><b>Композитор</b></u>:<i> Марат Файзуллин (Taturas)</i></p><p><u><b>Художник</b></u>:<i> Роман Лосев</i></p><p><u><b>Продюсер</b></u>:<i> Вадим Миллер</i></p><p align="justify"><u><b>О фильме</b></u>: <i></i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=zFxwX28F8-c]]></stream_url>
+<category_id></category_id>
+</channel>
+<channel>
+<title><![CDATA[ МОДЕЛЬ СТАЛИНАю «Новые возможности» Часть 4.]]></title>
+<logo_30x30></logo_30x30>
+<description><![CDATA[МОДЕЛЬ СТАЛИНА. «Новые возможности» Часть 4.<table><tr><td style="vertical-align: top"><img src="https://opt-1532440.ssl.1c-bitrix-cdn.ru/upload/resize_cache/iblock/d5b/300_168_2/d5b575260fe27261be32d8c4e644105a.jpg" width="175"/></td></tr></table><p><u><b>Режиссер</b></u>:<i> Дмитрий Ушаков</i></p><p><u><b>Автор</b></u>:<i> Антон Гришин</i></p><p><u><b>Ведущий</b></u>:<i> Николай Быковских</i></p><p><u><b>Оператор</b></u>:<i> Олег Злобин,Федор Луночкин, Владимир Коротун</i></p><p><u><b>Оператор вертолетной съемки</b></u>:<i> Денис Сницерёв</i></p><p><u><b>Монтаж</b></u>:<i> Дмитрий Потапов</i></p><p><u><b>Композитор</b></u>:<i> Марат Файзуллин (Taturas)</i></p><p><u><b>Художник</b></u>:<i> Роман Лосев</i></p><p><u><b>Продюсер</b></u>:<i> Вадим Миллер</i></p><p align="justify"><u><b>О фильме</b></u>: <i></i></p>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=E2ZqKG19Fj8]]></stream_url>
+<category_id></category_id>
+</channel>
+
+</items>
