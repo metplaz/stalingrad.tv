@@ -23,6 +23,13 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
 
+ 
+<channel>
+<title><![CDATA[ КУДА ИДТИ НАЧАЛЬНИКУ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/247/247d22cd2543f0e8efeccbf25aba3630.jpg" width="175"/></td></tr></table>Что делать если вам угрожают на работе из-за голосования? Как разговаривать с таким начальством? В чём юридические особенности голосования?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/186/18629ff5aef3fa56d38cafd4b015a0c7.mp4]]></stream_url>
+<category_id>20</category_id>
+</channel> 
 <channel>
 <title><![CDATA[ 22 июня фашисты против народа]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/1c7/1c7bea0908701cf1fc26ed3f52278e15.jpg" width="175"/></td></tr></table>Что привело людей на митинг? Сколько человек пришло на народный сход? Как в толпе работают провокаторы? За что задерживали протестующих? Как прошла акция 22 июня?]]></description>
