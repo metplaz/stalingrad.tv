@@ -23,6 +23,13 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
 
+ 
+<channel>
+<title><![CDATA[ КАК РЕЖИМ МАНИПУЛИРУЕТ НАРОДОМ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a5b/a5b847c70be90196e55df6e6be8dbaeb.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/6f0/6f0ed678983bf85a6f31374483c01b41.mp4]]></stream_url>
+<category_id>20,109</category_id>
+</channel> 
 <channel>
 <title><![CDATA[ ОБЪЕДИНЕНИЕ И СОПРОТИВЛЕНИЕ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/03e/03e230015227d35284d2d5a03080229e.jpg" width="175"/></td></tr></table>]]></description>
