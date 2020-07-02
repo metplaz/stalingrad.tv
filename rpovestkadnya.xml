@@ -22,12 +22,18 @@
 <description><![CDATA[Переход к АВТОРЫ (А-Я)]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
-
+ 
+<channel>
+<title><![CDATA[ ЖКХ дорожает, Находка бунтует, израильтянам можно три раза]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/058/05843653752b03937a416612238be22d.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/bb5/bb5d4f2504a98a8d55cc05137ea4d04a.mp4]]></stream_url>
+<category_id>182</category_id>
+</channel>
 <channel>
 <title><![CDATA[ Льготы для олигархов, дистанционный обман, забастовка скорой помощи]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/dad/dadaa4099f3150d50201ab7412b9e262.jpg" width="175"/></td></tr></table>Почему работники скорой помощи в Екатеринбурге собираются на забастовку? Как власть фальсифицирует выборы? За что Германия может ввести штрафные пошлины? Для чего повысили НДФЛ? Какой приговор вынесен обвиняемым по делу "Седьмой студии"?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/4bb/4bba6e378d5262c5fa0064299f1b82a8.mp4]]></stream_url>
-<category_id>26,182</category_id>
+<category_id>182</category_id>
 </channel> 
 <channel>
 <title><![CDATA[ Можно два раза, плебисцит на лавочке]]></title>
