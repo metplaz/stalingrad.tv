@@ -23,7 +23,12 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
 
- 
+<channel>
+<title><![CDATA[ КОМУ ОНИ БУДУТ ЦЕЛОВАТЬ НОГИ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/a44/a44b7ddd3883b56719f89f4d80bffa1c.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b3c/b3c99a975e2a86f16ab480318f00e5da.mp4]]></stream_url>
+<category_id>20</category_id>
+</channel> 
 <channel>
 <title><![CDATA[ ИТОГИ АКЦИИ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/07a/07aa27ebef7030486438f0d439231eaa.jpg" width="175"/></td></tr></table>]]></description>
