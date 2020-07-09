@@ -24,6 +24,12 @@
 </channel>
 
 <channel>
+<title><![CDATA[ ОТПОР ОККУПАЦИИ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/00f/00f606d4ee81016280f52b612612cd5d.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a4e/a4e51cfa1b7600c832a1cbf8e29717de.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel> 
+<channel>
 <title><![CDATA[ ИТОГИ АКЦИИ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/07a/07aa27ebef7030486438f0d439231eaa.jpg" width="175"/></td></tr></table>]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/30a/30a4db55262157f4637931e3f0f67794.mp4]]></stream_url>
