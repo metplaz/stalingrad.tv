@@ -23,7 +23,12 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
 
-
+<channel>
+<title><![CDATA[ КАНАЛУ СТАЛИНГРАД НУЖНА ВАША ПОМОЩЬ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/750/750bb3a18e37163637557a5a3b079926.jpg" width="175"/></td></tr></table>Как помочь телеканала «Сталинград»? По каким алгоритмам работают интернет-роботы? Для чего режим борется с оппозиционными каналами? Как определять на кого работает блогер? Что сейчас происходит в Казахстане? Почему правительства всех стран мира повели себя одинаково? За что могут лишить лицензии на торговлю? Как сценарий у мировой элиты относительно населения планеты?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a6a/a6a75b6fc453d45f7798e96093d66ee5.mp4]]></stream_url>
+<category_id>28</category_id>
+</channel>
 <channel>
 <title><![CDATA[ НАРОД ПРОТИВ ФАШИЗМА]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/698/698624abd497cd0ddf882a91aad874bf.jpg" width="175"/></td></tr></table>Как патриотически настроенные граждане вступили в борьбу с полицаями 9 мая? Как воспрепятствовать фашистскому режиму РФ?]]></description>
