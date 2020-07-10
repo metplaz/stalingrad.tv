@@ -24,12 +24,18 @@
 </channel>
  
 
- <channel>
+<channel>
 <title>ВасилийПопович</title>
 <description>ВасилийПопович</description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/avasiliypopovich.xml]]></playlist_url>
 </channel>
-  
+
+<channel>
+<title><![CDATA[ НА ЧЬЮ СТОРОНУ ВСТАНУТ ВОЕННЫЕ?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/350/35002e5d7a0a46cc211079454bad9cda.jpg" width="175"/></td></tr></table>На чью сторону встанут силовые структуры в случае начала социальных потрясений? На какие этапы можно разделить возможные события в стране? Какую Россию хотят видеть патриоты?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a24/a247d2dd4ea43ce61272660010ae6ab7.mp4]]></stream_url>
+<category_id>4</category_id>
+</channel> 
 <channel>
 <title><![CDATA[ ЗА КОГО ВОЕВАТЬ?]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/332/33235da02bd16fa9cb0ad9609d1454a6.jpg" width="175"/></td></tr></table>Что сейчас происходит на Донбассе? Как предали население ДНР и ЛНР в 2014? Как относится нынешняя власть в республиках Донбасса и РФ к ополченцам первой волны? Что происходит на линии соприкосновения с так называемой Украиной? К чему привёл минский сговор? За какие смыслы воевали на Донбассе в 2014 году? Что важно сейчас осознать, разделённым в 1991 году людям? Под каким знаменем нужно объединить народ?]]></description>
