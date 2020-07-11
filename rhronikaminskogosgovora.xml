@@ -23,7 +23,12 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
 
-
+<channel>
+<title><![CDATA[ Хроника минского сговора: Бессилие Козака]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f07/f074349af10cad9d3dc453b838f75912.jpg" width="175"/></td></tr></table>В какой обстановке живут люди в Новороссии 6 лет? Почему вести с заводов и угольных шахт похожи на сводки с фронта? Чем ВСУ атакует ДНР? Какие приказы дал Путин военным советникам прибывшим в ДНР и ЛНР? Как проходит сговор Москвы и Киева против населения Донбасс?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/1ee/1eeef7e45baae7a099a481800842fdc9.mp4]]></stream_url>
+<category_id>32</category_id>
+</channel>
 <channel>
 <title><![CDATA[ Хроника Минского сговора]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/185/185d91464f90f82d211dcaf7da3068be.jpg" width="175"/></td></tr></table>В феврале 2015 года Владимир Путин поставил жирную точку в событиях ""Русской весны"": подписал Минский сговор с представителем киевской хунты Петром Порошенко.  Здесь мы расскажем о том, к каким последствиям привело подписание этого документа.]]></description>
