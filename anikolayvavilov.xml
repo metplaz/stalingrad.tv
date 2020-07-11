@@ -18,7 +18,13 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
 
- <channel>
+<channel>
+<title><![CDATA[ КОГДА НАПАДЁТ КИТАЙ?]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/be5/be570286afe5efedfcc960e0b7a121e4.jpg" width="175"/></td></tr></table>Кто пропагандирует «китайскую угрозу» в сторону России? Какая внешняя политика у КНР? В результате чего была запущена политика конвергенции в 1970-е годы? Почему Китай конфликтует с Индией? Зачем Трампу срочно нужна победа на востоке?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/197/197b2f212d1622f45d08465a6f25764a.mp4]]></stream_url>
+<category_id>136</category_id>
+</channel>
+<channel>
 <title><![CDATA[ КНР ПОСЛЕ КОРОНАБЕСИЯ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/3cb/3cb3aa544d86fccf3bc9af2f8561ea90.jpg" width="175"/></td></tr></table>]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/1c9/1c93bab4d049cb94f6ce4f8f3dc97471.mp4]]></stream_url>
