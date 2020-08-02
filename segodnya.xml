@@ -23,6 +23,7 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
 
+ 
 <channel>
 <title><![CDATA[ ОДЕССА - РУССКИЙ ГОРОД]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fe5/fe50f87935e06a2daf6076b86c6287a6.jpg" width="175"/></td></tr></table>]]></description>
@@ -39,25 +40,25 @@
 <title><![CDATA[ MOZGOVOY (Film translated into English)]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/a07/a07ae35c0ddd0e70550042a4d00812b0.jpg" width="175"/></td></tr></table>A documentary film by Yuri Goroshko dedicated to the legendary commander of the "Ghost" brigade Alexei Mozgovoy.]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/14b/14b53ba2a43a7e6710d9e39cdefb3e48.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>30,8</category_id>
 </channel>
 <channel>
 <title><![CDATA[ MOZGOVOY (Película traducida al español)]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/770/770874bcdf829e64e63129a12b8de926.jpg" width="175"/></td></tr></table>Una película documental de Yuri Goroshko dedicada al legendario comandante de la brigada "Fantasma" Alexei Mozgovoy.]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/5a2/5a28a2db206817081914d6a0922fbb76.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>30,8</category_id>
 </channel>
 <channel>
 <title><![CDATA[ ХАБАРОВСК. ОШИБКА ПУТИНА]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/e3d/e3de853b2cb18acd031061b21e35c876.jpg" width="175"/></td></tr></table>]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a13/a13e1b844f3e6c52138990fce0cfab0e.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>14,157</category_id>
 </channel>
 <channel>
 <title><![CDATA[ ЗАВЕЩАНИЕ МОЗГОВОГО]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/3b2/3b2f39edbf68615d84f0c1ea18e42818.jpg" width="175"/></td></tr></table>]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b10/b1041495072f26075301970eb1805d3e.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>8,149</category_id>
 </channel>
 <channel>
 <title><![CDATA[ КАНАЛУ СТАЛИНГРАД НУЖНЫ КОРРЕСПОНДЕНТЫ]]></title>
@@ -75,13 +76,13 @@
 <title><![CDATA[ 2 августа. ВСЕ НА ПРОТЕСТ! Москва. 11:00. Площадь Революции]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/d18/d18635ad2469504559ec5d61886de856.jpg" width="175"/></td></tr></table>]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/9a4/9a47d4a464323934948b175107867e67.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>14</category_id>
 </channel>
 <channel>
 <title><![CDATA[ ХАБАРОВСК. ТАКТИКА ПОБЕДЫ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/f2e/f2ee12113fb334ab68b379c2942f1d2f.jpg" width="175"/></td></tr></table>]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/c60/c60bd916314bdab3d3afb7c2b07033f7.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>20,141</category_id>
 </channel>
 <channel>
 <title><![CDATA[ Аресты в Хабаровске, вклады отнимут, доллар падает]]></title>
@@ -105,19 +106,19 @@
 <title><![CDATA[ ЛУЧШАЯ ПОПРАВКА - ПУТИНА ОТСТАВКА!]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/f33/f330c5761532d458069301239953a862.jpg" width="175"/></td></tr></table>Сколько людей выходит в Хабаровске на митинг в будний? Как местные жители расценивают приезд Сергея Шнурова? Почему Михаил Дегтярёв не вышел к протестующим?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/450/450a518b69d119dcc2e9010d5b08f82b.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>20,14</category_id>
 </channel>
 <channel>
 <title><![CDATA[ ПО ЗАВЕТАМ ГАНДИ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/a31/a3160c7e2a1fc037af21eec6153fb9b0.jpg" width="175"/></td></tr></table>Понимает ли власть, что делать с протестом в Хабаровске? Какая позиция РФ по выборам президента Белоруссии? Что говорит Махатма Ганди?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/fc0/fc097a59d599d829a7e6c1ef70b8cbd5.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>31,170</category_id>
 </channel>
 <channel>
 <title><![CDATA[ ОТ СЛОВ К ДЕЛУ. САМООРГАНИЗАЦИЯ. (ЧАСТЬ IX)]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/94e/94e3f9212cc14b90fbf93b0894e9dca5.jpg" width="175"/></td></tr></table>Зачем читать жилищный кодекс? Как создать совет дома? В каком ключе надо наладить общение с соседями?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/0f0/0f077e0e9c36b5452dc46c9401bd7cae.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>20,117</category_id>
 </channel>
 <channel>
 <title><![CDATA[ Население закредитуют, Газпром сорит деньгами, в Москве "разгорелась дружба народов"]]></title>
@@ -141,7 +142,7 @@
 <title><![CDATA[ краснаялента ОБЪЕДИНЯЕТ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/d21/d2183452d93040046b2428353f1b6c0d.jpg" width="175"/></td></tr></table>Как организоваться между собой? Что означает красный цвет? Ленты каких цветов отличают своих от чужих?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/7e7/7e7cbd7f104fc151087778b6011330cb.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>20,108</category_id>
 </channel>
 <channel>
 <title><![CDATA[ Все против Дегтярева, Кадыров в "чёрном списке", теракт в Луцке]]></title>
@@ -153,61 +154,61 @@
 <title><![CDATA[ РОССИЯ ПРОСЫПАЙСЯ! Репортаж канала "Сталинград" из Хабаровска]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/9cb/9cbebaef4edf3329accf04f28e5fd546.jpg" width="175"/></td></tr></table>]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d37/d370eff524b8ef4bbce760932abb8141.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>20,23</category_id>
 </channel>
 <channel>
 <title><![CDATA[ ЧТО НАДО ДЕЛАТЬ #ПламенПасков]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/508/508854c0949fa452e52ad7f24ceed2a8.jpg" width="175"/></td></tr></table>Какие перспективы на ближайшее будущее? Какие документы переданы медикам? Что делать простым людям?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/20a/20aa89157245ac9a70d3e6b01f19dc55.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>10,149</category_id>
 </channel>
 <channel>
 <title><![CDATA[ РОССИЯ ВЫХОДИ! ХАБАРОВСК ПРОТИВ ПУТИНА]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/ec3/ec391c03134172e293da3197bb41661f.jpg" width="175"/></td></tr></table>]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/da1/da1bbb9e430b93a22a7f339a8398f837.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>14,26</category_id>
 </channel>
 <channel>
 <title><![CDATA[ СВОБОДНЫЙ ГОРОД. Репортаж канала "Сталинград"]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/1ce/1ceb759f294a5282ce382b1e7427c0b6.jpg" width="175"/></td></tr></table>Что сейчас происходит в Хабаровске? Какие лозунги у протестующих? В чём особенность хабаровских шествий?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/8b0/8b0aa72afa8e5f57ef3efeb9b195e3a7.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>14,26</category_id>
 </channel>
 <channel>
 <title><![CDATA[ КАК ХАБАРОВСК ОТВЕТИТ НА ЭТО?]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/9ca/9cae1039f88f641ff7ec3125d2ea25b6.jpg" width="175"/></td></tr></table>Как жители Хабаровска относятся к Михаилу Дегтярёву? Как власть отреагировала на митинги? Как будут развиваться события на Дальнем Востоке?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/dc6/dc6870da4a431dad89fc558d5ef77d62.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>14,81</category_id>
 </channel>
 <channel>
 <title><![CDATA[ КРАСНАЯ ЛЕНТА ПРОТИВ МАСКИ РАБА]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/4b1/4b11edd4518e995e383af50d1b5f5393.jpg" width="175"/></td></tr></table>Что такое Дух? Какой символ отличает наших сторонников? Какое значение несёт в себе красный цвет?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d1a/d1aea0e4bc8d8a61c055d246c611e685.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>20,109</category_id>
 </channel>
 <channel>
 <title><![CDATA[ СЦЕНАРИИ СИЛОВОГО ПОДАВЛЕНИЯ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/8de/8decc458092217d98bbea4b564061c42.jpg" width="175"/></td></tr></table>Чем отличаются митинги в Хабаровске от событий в США? Почему народ за Фургала? Какой уровень организации протестов? Как население России солидаризируется с Хабаровским краем? Какие ресурсы должны быть у власти?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/830/830ba1ae9c5f59b2cef3bc9b8c4c5a7e.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>26,120</category_id>
 </channel>
 <channel>
 <title><![CDATA[  Крестьянская война Степана Разина (1667—1671 гг.)]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/705/705e541b2fd070e71c9098bbddb175fe.jpg" width="175"/></td></tr></table>Какие 2 тенденции шли всю историю Россию? Что горожане требовали от монарха в 17 веке? Какими качествами владел Степан Разин? В чём заключался «поход за зипунами»? От чего бежали крестьяне? Что Сталин говорил о крестьянских восстаниях 17 и 18 века? Как проходила казнь Степана Разина?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/76d/76d1fd90f65c305094ac4498a3f99476.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>9</category_id>
 </channel>
 <channel>
 <title><![CDATA[ У ПУТИНА КОНЧИЛИСЬ ДЕНЬГИ. ЧТО ДАЛЬШЕ?]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/65c/65c9439cff56f9f2f0f09093f94eafd4.jpg" width="175"/></td></tr></table>Что происходит с системой экономики РФ? С чем связаны репрессии? Как будет развиваться ситуация в стране?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/363/36374f16b3c60dd70906f0bff8c0ddf0.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>15,81</category_id>
 </channel>
 <channel>
 <title><![CDATA[ Хабаровск, забастовки мигрантов, протесты по всей стране]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/33a/33a2ea49189f07e594492d7181e32421.jpg" width="175"/></td></tr></table>Против чего выступают жители хабаровского края? Какие центры управления находятся на востоке? Из-за чего бастуют рабочие?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/5d1/5d15f8dea4658ea968536c2d2648a66a.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>31,170</category_id>
 </channel>
 <channel>
 <title><![CDATA[ Доходы падают, люди спасают вклады, ООН против рынка]]></title>
@@ -219,7 +220,7 @@
 <title><![CDATA[ ХАБАРОВСК: ВМЕСТЕ ПОБЕДИМ!]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/eb4/eb4556553e285b4b19d65ad4fe0e16d8.jpg" width="175"/></td></tr></table>]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/1aa/1aac032588297ff225d6d1cde8a05446.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>14</category_id>
 </channel>
 <channel>
 <title><![CDATA[ На пороге войны, бунт мигрантов, евро будет много]]></title>
@@ -231,43 +232,43 @@
 <title><![CDATA[ НАШИ В ГОРОДЕ!]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/5b6/5b6d4cbb3005dd65fb5834fd40053ba6.jpg" width="175"/></td></tr></table>]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a4d/a4d3e895b9eae4c407fe17c43b3677b9.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>14</category_id>
 </channel>
 <channel>
 <title><![CDATA[ 2 АВГУСТА ВСЕ НА УЛИЦУ! НАРОДНЫЙ БЕССМЕРТНЫЙ ПОЛК]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/302/302eab7739adb4e54638d1534dbef5ea.jpg" width="175"/></td></tr></table>]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/8cc/8cc2c6fdbac46c7c0f82d0eef9932366.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>14</category_id>
 </channel>
 <channel>
 <title><![CDATA[ ХАБАРОВСК: МОСКВА ОТВЕЧАЙ!]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/47e/47e4ab87185c2bfc1c5aececd7dd21ad.jpg" width="175"/></td></tr></table>]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/86b/86bd006cebf0e754e15e4b1a273a7d1e.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>14</category_id>
 </channel>
 <channel>
 <title><![CDATA[ ЗАСТАВИТЬ ВЛАСТЬ ОТВЕЧАТЬ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/eaf/eafd4944f5ac3ac551da1659b7785928.jpg" width="175"/></td></tr></table>Как сербы отменили вторую волну карантина? Какая цель должна быть у протестующих на Балканах? Что нужно делать лидерам, чтобы не сломаться в политической борьбе?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/aba/abab5e175f245e78dbd94f248af4b14a.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>15,108</category_id>
 </channel>
 <channel>
 <title><![CDATA[ ВЛАСТЬ - НАРОДУ!]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/10d/10d5a7aa85fa22e8968d03de760e870b.jpg" width="175"/></td></tr></table>Что происходит в Хабаровске? Кому служат силовые органы РФ? Почему надо идти на митинг 2 августа?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/97d/97d1d4284939555bde30ab2f61102dbb.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>14</category_id>
 </channel>
 <channel>
 <title><![CDATA[ ХАБАРОВСКОЙ ПОЛИЦИИ ОРУЖИЕ УЖЕ НЕ ДОВЕРЯЮТ (720p)]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/1ee/1eefd977e69a6d4c3f1e00e5dd669524.jpg" width="175"/></td></tr></table>Почему люди вышли на улицы Хабаровска? Как организован протест? Почему региональная полиция разоружена?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/4c4/4c46d5cd031cf616d66469717e4e4c1a.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>14</category_id>
 </channel>
 <channel>
 <title><![CDATA[ ЭТУ ОСЕНЬ ПЕРЕЖИВУТ НЕ ВСЕ...]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/7ff/7ffacdeb7d9d956fb27adc33c493135b.jpg" width="175"/></td></tr></table>Что прикрывают всемирной пандемией? Какой экономический прогноз на октябрь? Чем нынешний кризис отличается от великой депрессии 1929 года? Будет ли вторая волна коронавируса? Зачем власть загоняет людей на так называемую "самоизоляцию"?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/4fe/4feea9cf8fc0ddbf7f6742e764dd66f2.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>15,61</category_id>
 </channel>
 <channel>
 <title><![CDATA[ Стройки умирают, крах производства, протесты в Москве]]></title>
@@ -291,7 +292,7 @@
 <title><![CDATA[ СХИИГУМЕН СЕРГИЙ: РАСКОЛЬНИК ИЛИ ЗАЩИТНИК ВЕРЫ?]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/1f8/1f898c9a5d28534b98bb102a96088386.jpg" width="175"/></td></tr></table>Чем известен схиигумен отец Сергий? Что такое анафема? Как должен поступать монах в случае, если есть угроза для веры? Кто принимает решения в РФ? Как должны поступать иерархи церкви в сложившийся ситуации?]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/94a/94a9927ee9cccc44caa608538f1ec390.mp4]]></stream_url>
-<category_id></category_id>
+<category_id>20,110</category_id>
 </channel> 
 <channel>
 <title><![CDATA[ Половину сократят, Лукашенко давит, 690 млн. голодных]]></title>
