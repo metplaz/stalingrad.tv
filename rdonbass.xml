@@ -22,7 +22,25 @@
 <description><![CDATA[Переход к АВТОРЫ (А-Я)]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
- 
+
+<channel>
+<title><![CDATA[ MOZGOVOY (Film translated into English)]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/a07/a07ae35c0ddd0e70550042a4d00812b0.jpg" width="175"/></td></tr></table>A documentary film by Yuri Goroshko dedicated to the legendary commander of the "Ghost" brigade Alexei Mozgovoy.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/14b/14b53ba2a43a7e6710d9e39cdefb3e48.mp4]]></stream_url>
+<category_id>8</category_id>
+</channel>
+<channel>
+<title><![CDATA[ MOZGOVOY (Película traducida al español)]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/770/770874bcdf829e64e63129a12b8de926.jpg" width="175"/></td></tr></table>Una película documental de Yuri Goroshko dedicada al legendario comandante de la brigada "Fantasma" Alexei Mozgovoy.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/5a2/5a28a2db206817081914d6a0922fbb76.mp4]]></stream_url>
+<category_id>8</category_id>
+</channel>
+<channel>
+<title><![CDATA[ ЗАВЕЩАНИЕ МОЗГОВОГО]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/3b2/3b2f39edbf68615d84f0c1ea18e42818.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/b10/b1041495072f26075301970eb1805d3e.mp4]]></stream_url>
+<category_id>8</category_id>
+</channel> 
 <channel>
 <title><![CDATA[ Хроника минского сговора: Бессилие Козака]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/f07/f074349af10cad9d3dc453b838f75912.jpg" width="175"/></td></tr></table>В какой обстановке живут люди в Новороссии 6 лет? Почему вести с заводов и угольных шахт похожи на сводки с фронта? Чем ВСУ атакует ДНР? Какие приказы дал Путин военным советникам прибывшим в ДНР и ЛНР? Как проходит сговор Москвы и Киева против населения Донбасс?]]></description>
