@@ -19,10 +19,16 @@
 </channel>
 
 <channel>
+<title><![CDATA[ ХАБАРОВСК. ОШИБКА ПУТИНА]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/e3d/e3de853b2cb18acd031061b21e35c876.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/a13/a13e1b844f3e6c52138990fce0cfab0e.mp4]]></stream_url>
+<category_id>157</category_id>
+</channel>  
+<channel>
 <title><![CDATA[ ФОРМАТИРОВАНИЕ СОЗНАНИЯ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/8b5/8b50c88cb35411a35c551cee060ac35d.jpg" width="175"/></td></tr></table>]]></description>
 <stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/cae/caeae40f4a6bb8b9d16b889e35fc04f8.mp4]]></stream_url>
-<category_id>2157</category_id>
+<category_id>157</category_id>
 </channel> 
 <channel>
 <title><![CDATA[ ФАШИЗМ С ЧЕЛОВЕЧЕСКИМ ЛИЦОМ?]]></title>
