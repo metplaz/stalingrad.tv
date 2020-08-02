@@ -22,7 +22,14 @@
 <description><![CDATA[Переход к АВТОРЫ (А-Я)]]></description>
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
- 
+
+
+<channel>
+<title><![CDATA[  Крестьянская война Степана Разина (1667—1671 гг.)]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/705/705e541b2fd070e71c9098bbddb175fe.jpg" width="175"/></td></tr></table>Какие 2 тенденции шли всю историю Россию? Что горожане требовали от монарха в 17 веке? Какими качествами владел Степан Разин? В чём заключался «поход за зипунами»? От чего бежали крестьяне? Что Сталин говорил о крестьянских восстаниях 17 и 18 века? Как проходила казнь Степана Разина?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/76d/76d1fd90f65c305094ac4498a3f99476.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel> 
 <channel>
 <title><![CDATA[ НОВЫЙ ЧЕЛОВЕК]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/3ed/3edece00537c5546f597abc16e3d9333.jpg" width="175"/></td></tr></table>Кем был Эрнесто Че Гевара? Каким именем он подписывал свои документы? Как кубинские революционеры шли к Победе в 50-е годы? Какие должны быть народные массы? Что такое "Новый Человек"?]]></description>
