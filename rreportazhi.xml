@@ -23,7 +23,12 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
  
-
+<channel>
+<title><![CDATA[ РОССИЯ ПРОСЫПАЙСЯ! Репортаж канала "Сталинград" из Хабаровска]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/9cb/9cbebaef4edf3329accf04f28e5fd546.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d37/d370eff524b8ef4bbce760932abb8141.mp4]]></stream_url>
+<category_id>23</category_id>
+</channel>
 <channel>
 <title><![CDATA[ 7 млрд. для Ельцина]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/d6b/d6b2530a80ebad9e79221016c7e80258.jpg" width="175"/></td></tr></table>Нужен ли филиал Ельцин-центра в Москве? Что сделал Ельцин для страны? Мнения простых жителей Москвы.]]></description>
