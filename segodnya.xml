@@ -23,7 +23,18 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
 
- 
+<channel>                                                                                    
+<title><![CDATA[ КУРСЫ "ТАКТИЧЕСКАЯ МЕДИЦИНА" #ЮРИЙЕВИЧ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/544/5440767caf294e32087060b66a6a60f5.jpg" width="175"/></td></tr></table>Какие события могут произойти в любой стране в мире? В чём ценность курсов? Для чего это следует изучить?Ссылка на курсы: https://vk.com/wall-110250443_26053]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/d37/d37b36b3a92608b8af594bb40f7d71ea.mp4]]></stream_url>
+<category_id>3,24</category_id>
+</channel>
+<channel>                                                                                    
+<title><![CDATA[ ПЕРВАЯ ПОМОЩЬ ПРИ БОЕВЫХ ДЕЙСТВИЯХ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/b1f/b1ffcb0ff65e24cf07cebf716aef21fd.jpg" width="175"/></td></tr></table>Приобрести книги Юрия Евича: https://vk.com/wall-110250443_25855]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/05e/05e474eebb4e364127f48191759b47df.mp4]]></stream_url>
+<category_id>3,24</category_id>
+</channel> 
 <channel>
 <title><![CDATA[ ОДЕССА - РУССКИЙ ГОРОД]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fe5/fe50f87935e06a2daf6076b86c6287a6.jpg" width="175"/></td></tr></table>]]></description>
