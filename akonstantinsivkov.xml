@@ -18,6 +18,12 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
 
+<channel>                                                                                    
+<title><![CDATA[ ИДЕОЛОГИЯ, ПРОГРАММА, ОБРАЗ БУДУЩЕГО #КонстантинСивков]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/597/597be79c6991a5cbf9b5719571e9b7cd.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/31c/31cfd50e91a31a92dcb98660d8c4b160.mp4]]></stream_url>
+<category_id>120</category_id>
+</channel>  
 <channel>
 <title><![CDATA[ СЦЕНАРИИ СИЛОВОГО ПОДАВЛЕНИЯ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/8de/8decc458092217d98bbea4b564061c42.jpg" width="175"/></td></tr></table>Чем отличаются митинги в Хабаровске от событий в США? Почему народ за Фургала? Какой уровень организации протестов? Как население России солидаризируется с Хабаровским краем? Какие ресурсы должны быть у власти?]]></description>
