@@ -23,6 +23,30 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
 
+<channel>                                                                                    
+<title><![CDATA[ Митинги, блокировки, ответ Сёмину]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/b2f/b2fd3ae593c903230d019c5884d680a8.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/4c9/4c9d5e2a5d69fefff22713a265bbd2dc.mp4]]></stream_url>
+<category_id>20</category_id>
+</channel>
+<channel>                                                                                    
+<title><![CDATA[ ХАБАРОВСК, МЫ С ТОБОЙ!]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/247/247180395fff6180433d34aaeb8d9912.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/849/849ae779c9dcb14a73d3b6b68dbedeab.mp4]]></stream_url>
+<category_id>20</category_id>
+</channel>
+<channel>                                                                                    
+<title><![CDATA[ Новый сайт канала "Сталинград": stalingrad.site #краснаялента]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/d5a/d5a79b6e033fcc170abc0b2d6f266aad.jpg" width="175"/></td></tr></table>Почему Роскомнадзор блокирует правду об идущих в обществе процессах? Как роман "1984" Джорджа Оруэлла становится реальностью? Почему Пламен Пасков поддерживает акцию #краснаялента ?]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/2d6/2d6008098de8a890af11df6007d8cb7a.mp4]]></stream_url>
+<category_id>20</category_id>
+</channel>
+<channel>                                                                                    
+<title><![CDATA[ ВСЁ ЗАВИСИТ ТОЛЬКО ОТ ВАС]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/804/8045c1095294640219b8fd96e9303676.jpg" width="175"/></td></tr></table>Главный специалист Центра противодействия туберкулёзу Дарья Кучерявая о вопросах защиты здоровья от ОРВИ.]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/ea1/ea146b742905269a8c359736029723c8.mp4]]></stream_url>
+<category_id>20</category_id>
+</channel> 
 <channel>
 <title><![CDATA[ ОДЕССА - РУССКИЙ ГОРОД]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/fe5/fe50f87935e06a2daf6076b86c6287a6.jpg" width="175"/></td></tr></table>]]></description>
