@@ -18,6 +18,12 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
 
+<channel>                                                                                    
+<title><![CDATA[ ДВА ВОССТАНИЯ #ВладимирКвачков]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/f2c/f2cd8f0bd8c554827d16b4bf5f130b99.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/971/971c9be0978a267b01b75c7ca2dd89af.mp4]]></stream_url>
+<category_id>77</category_id>
+</channel>  
 <channel>
 <title><![CDATA[ ДЛЯ ЧЕГО НУЖНЫ МИТИНГИ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.tv/upload/iblock/6a7/6a70eb2b818f7273b0b7658f2eed5a45.jpg" width="175"/></td></tr></table>Как учиться самоорганизации? В каком обществе мы живём? Что такое власть советов?]]></description>
