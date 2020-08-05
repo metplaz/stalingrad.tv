@@ -18,6 +18,12 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/master/nslmod.xml]]></playlist_url>
 </channel>
 
+<channel>                                                                                    
+<title><![CDATA[ ХАБАРОВСКУ НУЖНА СТРАТЕГИЯ #ЭльМюрид]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/ef7/ef7b00aa10fe6ba5cd20773f67e444bd.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/925/925ef354e97822284aa6212a2fc84782.mp4]]></stream_url>
+<category_id>170</category_id>
+</channel>  
 <channel>
 <title><![CDATA[ ПО ЗАВЕТАМ ГАНДИ]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/a31/a3160c7e2a1fc037af21eec6153fb9b0.jpg" width="175"/></td></tr></table>Понимает ли власть, что делать с протестом в Хабаровске? Какая позиция РФ по выборам президента Белоруссии? Что говорит Махатма Ганди?]]></description>
