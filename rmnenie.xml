@@ -23,7 +23,24 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
 
- 
+<channel>                                                                                    
+<title><![CDATA[ ДВА ВОССТАНИЯ #ВладимирКвачков]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/f2c/f2cd8f0bd8c554827d16b4bf5f130b99.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/971/971c9be0978a267b01b75c7ca2dd89af.mp4]]></stream_url>
+<category_id>15</category_id>
+</channel>
+<channel>                                                                                    
+<title><![CDATA[ ИДЕОЛОГИЯ, ПРОГРАММА, ОБРАЗ БУДУЩЕГО #КонстантинСивков]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/597/597be79c6991a5cbf9b5719571e9b7cd.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/31c/31cfd50e91a31a92dcb98660d8c4b160.mp4]]></stream_url>
+<category_id>15</category_id>
+</channel>
+<channel>                                                                                    
+<title><![CDATA[ #ОльгаЧетверикова СОПРОТИВЛЕНИЕ ЧЕРЕЗ СОЗИДАНИЕ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/535/535668f247aa2914b57f4344dd23828e.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/415/415d17a79594cc095c6a90eda45e846d.mp4]]></stream_url>
+<category_id>15</category_id>
+</channel> 
 <channel>
 <title><![CDATA[ У ПУТИНА КОНЧИЛИСЬ ДЕНЬГИ. ЧТО ДАЛЬШЕ?]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/65c/65c9439cff56f9f2f0f09093f94eafd4.jpg" width="175"/></td></tr></table>Что происходит с системой экономики РФ? С чем связаны репрессии? Как будет развиваться ситуация в стране?]]></description>
