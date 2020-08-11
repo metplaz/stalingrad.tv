@@ -23,7 +23,18 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
 
-
+<channel>                                                                                    
+<title><![CDATA[ ПОЧЕМУ ГЕРМАНИЯ ВЫШЛА. ДЕНЬГИ КОНЧАЮТСЯ? #ПламенПасков]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/192/192aeeaeb6b3e4752f6b69be409f358b.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/97c/97c3449168f089a849a21ba0125a8d4c.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel>
+<channel>                                                                                    
+<title><![CDATA[ КОГДА РЕЖИМ РУХНЕТ? МАРШ НА МОСКВУ]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/d2f/d2f3d9e7d98d299dd5497ef7e76c0a97.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/74c/74cea8450cf1a3812d0f53e83a0b97f1.mp4]]></stream_url>
+<category_id>14</category_id>
+</channel>
 <channel>                                                                                    
 <title><![CDATA[ ХАБАРОВСКУ НУЖНА СТРАТЕГИЯ #ЭльМюрид]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/ef7/ef7b00aa10fe6ba5cd20773f67e444bd.jpg" width="175"/></td></tr></table>]]></description>
