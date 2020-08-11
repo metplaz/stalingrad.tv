@@ -23,7 +23,12 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
 
-
+<channel>                                                                                    
+<title><![CDATA[ Первая русская революция (1905-1907гг.)]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/009/00945f76471b4bf6b1d12ba86ecf81be.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/0c1/0c13c2dfc754517b4941ef485ec8a5b1.mp4]]></stream_url>
+<category_id>9</category_id>
+</channel>
 <channel>
 <title><![CDATA[  Крестьянская война Степана Разина (1667—1671 гг.)]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/705/705e541b2fd070e71c9098bbddb175fe.jpg" width="175"/></td></tr></table>Какие 2 тенденции шли всю историю Россию? Что горожане требовали от монарха в 17 веке? Какими качествами владел Степан Разин? В чём заключался «поход за зипунами»? От чего бежали крестьяне? Что Сталин говорил о крестьянских восстаниях 17 и 18 века? Как проходила казнь Степана Разина?]]></description>
