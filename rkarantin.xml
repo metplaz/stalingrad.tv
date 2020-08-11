@@ -23,7 +23,12 @@
 <playlist_url><![CDATA[https://raw.githubusercontent.com/metplaz/stalingrad.tv/nslmod/allavtors.xml]]></playlist_url>
 </channel>
 
- 
+<channel>                                                                                    
+<title><![CDATA[ ИММУННЫЙ ПАСПОРТ РАБА #ПламенПасков]]></title>
+<description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/90b/90bc2b5cfa2b09d14b2f62d515f6e3a4.jpg" width="175"/></td></tr></table>]]></description>
+<stream_url><![CDATA[https://cdn.stalingrad.tv/upload/iblock/4eb/4ebeb769b73780e2c5ed51ef50fbb51c.mp4]]></stream_url>
+<category_id>10</category_id>
+</channel> 
 <channel>
 <title><![CDATA[ ЧТО НАДО ДЕЛАТЬ #ПламенПасков]]></title>
 <description><![CDATA[<table><tr><td style="vertical-align: top"><img src="https://stalingrad.site/upload/iblock/508/508854c0949fa452e52ad7f24ceed2a8.jpg" width="175"/></td></tr></table>Какие перспективы на ближайшее будущее? Какие документы переданы медикам? Что делать простым людям?]]></description>
